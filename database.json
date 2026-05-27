@@ -57,28 +57,12 @@
       "specificDownloadUrl": "https://liteapks.com/twitter.html"
     },
     {
-      "id": 8,
-      "title": "Spotify Premium",
-      "iconUrl": "https://cdn-icons-png.flaticon.com/512/174/174872.png",
-      "category": "Media",
-      "modInfo": "AMOLED Dark & Extreme Audio",
-      "specificDownloadUrl": "https://liteapks.com/spotify-premium-1.html"
-    },
-    {
       "id": 9,
       "title": "YouTube ReVanced",
       "iconUrl": "https://cdn-icons-png.flaticon.com/512/1384/1384060.png",
       "category": "Media",
       "modInfo": "Background Play & SponsorBlock",
       "specificDownloadUrl": "https://liteapks.com/youtube-revanced.html"
-    },
-    {
-      "id": 10,
-      "title": "YT Music ReVanced",
-      "iconUrl": "https://cdn-icons-png.flaticon.com/512/6124/6124997.png",
-      "category": "Media",
-      "modInfo": "Premium Unlocked",
-      "specificDownloadUrl": "https://liteapks.com/youtube-music-revanced.html"
     },
     {
       "id": 11,
@@ -95,14 +79,6 @@
       "category": "Media",
       "modInfo": "No Ads & Premium",
       "specificDownloadUrl": "https://liteapks.com/crunchyroll.html"
-    },
-    {
-      "id": 13,
-      "title": "Anghami Plus",
-      "iconUrl": "https://cdn-icons-png.flaticon.com/512/12108/12108851.png",
-      "category": "Media",
-      "modInfo": "Offline Downloads",
-      "specificDownloadUrl": "https://liteapks.com/anghami.html"
     },
     {
       "id": 14,
@@ -297,28 +273,12 @@
       "specificDownloadUrl": "https://liteapks.com/nova-launcher.html"
     },
     {
-      "id": 38,
-      "title": "Poweramp Full",
-      "iconUrl": "https://cdn-icons-png.flaticon.com/512/5968/5968600.png",
-      "category": "Media",
-      "modInfo": "Hi-Res Audio Unlocked",
-      "specificDownloadUrl": "https://liteapks.com/poweramp-music-player.html"
-    },
-    {
       "id": 39,
       "title": "SwiftKey Keyboard",
       "iconUrl": "https://cdn-icons-png.flaticon.com/512/2888/2888944.png",
       "category": "Tools",
       "modInfo": "Premium Themes Unlocked",
       "specificDownloadUrl": "https://liteapks.com/microsoft-swiftkey.html"
-    },
-    {
-      "id": 40,
-      "title": "Musicolet",
-      "iconUrl": "https://cdn-icons-png.flaticon.com/512/3242/3242212.png",
-      "category": "Media",
-      "modInfo": "No Ads & Offline Music",
-      "specificDownloadUrl": "https://liteapks.com/musicolet.html"
     },
     {
       "id": 41,
