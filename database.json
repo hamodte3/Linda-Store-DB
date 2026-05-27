@@ -239,6 +239,308 @@
       "category": "Games",
       "modInfo": "Mod Menu V4",
       "specificDownloadUrl": "https://liteapks.com/roblox.html"
+    },
+    {
+      "id": 31,
+      "title": "Winlator Mod",
+      "iconUrl": "https://cdn-icons-png.flaticon.com/512/875/875501.png",
+      "category": "Emulators",
+      "modInfo": "PC Games on Android",
+      "specificDownloadUrl": "https://github.com/brunodev85/winlator/releases/download/v9.0/Winlator_9.0.apk"
+    },
+    {
+      "id": 32,
+      "title": "NetherSX2",
+      "iconUrl": "https://cdn-icons-png.flaticon.com/512/10005/10005524.png",
+      "category": "Emulators",
+      "modInfo": "PS2 Emulator (No Ads)",
+      "specificDownloadUrl": "https://liteapks.com/aethersx2.html"
+    },
+    {
+      "id": 33,
+      "title": "CloudStream 3",
+      "iconUrl": "https://cdn-icons-png.flaticon.com/512/3242/3242212.png",
+      "category": "Media",
+      "modInfo": "Ad-Free Anime Tracker",
+      "specificDownloadUrl": "https://github.com/recloudstream/cloudstream/releases/download/pre-release/app-prerelease-release.apk"
+    },
+    {
+      "id": 34,
+      "title": "DevCheck Pro",
+      "iconUrl": "https://cdn-icons-png.flaticon.com/512/2888/2888944.png",
+      "category": "Tools",
+      "modInfo": "Advanced System Monitor",
+      "specificDownloadUrl": "https://liteapks.com/devcheck.html"
+    },
+    {
+      "id": 35,
+      "title": "GFX Tool Pro",
+      "iconUrl": "https://cdn-icons-png.flaticon.com/512/1368/1368465.png",
+      "category": "Tools",
+      "modInfo": "Max FPS for Shooters",
+      "specificDownloadUrl": "https://liteapks.com/gfx-tool-for-pubg.html"
+    },
+    {
+      "id": 36,
+      "title": "Solid Explorer",
+      "iconUrl": "https://cdn-icons-png.flaticon.com/512/3241/3241857.png",
+      "category": "Tools",
+      "modInfo": "Premium File Manager",
+      "specificDownloadUrl": "https://liteapks.com/solid-explorer.html"
+    },
+    {
+      "id": 37,
+      "title": "Nova Launcher Prime",
+      "iconUrl": "https://cdn-icons-png.flaticon.com/512/888/888879.png",
+      "category": "Customization",
+      "modInfo": "Unlocks All Gestures",
+      "specificDownloadUrl": "https://liteapks.com/nova-launcher.html"
+    },
+    {
+      "id": 38,
+      "title": "Poweramp Full",
+      "iconUrl": "https://cdn-icons-png.flaticon.com/512/5968/5968600.png",
+      "category": "Media",
+      "modInfo": "Hi-Res Audio Unlocked",
+      "specificDownloadUrl": "https://liteapks.com/poweramp-music-player.html"
+    },
+    {
+      "id": 39,
+      "title": "SwiftKey Keyboard",
+      "iconUrl": "https://cdn-icons-png.flaticon.com/512/2888/2888944.png",
+      "category": "Tools",
+      "modInfo": "Premium Themes Unlocked",
+      "specificDownloadUrl": "https://liteapks.com/microsoft-swiftkey.html"
+    },
+    {
+      "id": 40,
+      "title": "Musicolet",
+      "iconUrl": "https://cdn-icons-png.flaticon.com/512/3242/3242212.png",
+      "category": "Media",
+      "modInfo": "No Ads & Offline Music",
+      "specificDownloadUrl": "https://liteapks.com/musicolet.html"
+    },
+    {
+      "id": 41,
+      "title": "Sleep as Android",
+      "iconUrl": "https://cdn-icons-png.flaticon.com/512/10005/10005518.png",
+      "category": "Health",
+      "modInfo": "Smart Alarm Tracking",
+      "specificDownloadUrl": "https://liteapks.com/sleep-as-android.html"
+    },
+    {
+      "id": 42,
+      "title": "Forest",
+      "iconUrl": "https://cdn-icons-png.flaticon.com/512/3046/3046121.png",
+      "category": "Productivity",
+      "modInfo": "Focus Mode Premium",
+      "specificDownloadUrl": "https://liteapks.com/forest.html"
+    },
+    {
+      "id": 43,
+      "title": "Textra SMS",
+      "iconUrl": "https://cdn-icons-png.flaticon.com/512/1384/1384063.png",
+      "category": "Tools",
+      "modInfo": "Pro Personalization",
+      "specificDownloadUrl": "https://liteapks.com/textra-sms.html"
+    },
+    {
+      "id": 44,
+      "title": "RetroArch",
+      "iconUrl": "https://cdn-icons-png.flaticon.com/512/9312/9312151.png",
+      "category": "Games",
+      "modInfo": "Multi-System Emulator",
+      "specificDownloadUrl": "https://liteapks.com/retroarch.html"
+    },
+    {
+      "id": 45,
+      "title": "1DM+",
+      "iconUrl": "https://cdn-icons-png.flaticon.com/512/716/716784.png",
+      "category": "Tools",
+      "modInfo": "Advanced Download Manager",
+      "specificDownloadUrl": "https://liteapks.com/1dm.html"
+    }
+  ]
+}
+      "category": "Media",
+      "modInfo": "AMOLED Dark & Extreme Audio",
+      "specificDownloadUrl": "https://liteapks.com/spotify-premium-1.html"
+    },
+    {
+      "id": 9,
+      "title": "YouTube ReVanced",
+      "iconUrl": "https://cdn-icons-png.flaticon.com/512/1384/1384060.png",
+      "category": "Media",
+      "modInfo": "Background Play & SponsorBlock",
+      "specificDownloadUrl": "https://liteapks.com/youtube-revanced.html"
+    },
+    {
+      "id": 10,
+      "title": "YT Music ReVanced",
+      "iconUrl": "https://cdn-icons-png.flaticon.com/512/6124/6124997.png",
+      "category": "Media",
+      "modInfo": "Premium Unlocked",
+      "specificDownloadUrl": "https://liteapks.com/youtube-music-revanced.html"
+    },
+    {
+      "id": 11,
+      "title": "Netflix SV4",
+      "iconUrl": "https://cdn-icons-png.flaticon.com/512/732/732228.png",
+      "category": "Media",
+      "modInfo": "4K Free Watching",
+      "specificDownloadUrl": "https://liteapks.com/netflix.html"
+    },
+    {
+      "id": 12,
+      "title": "Crunchyroll Mega Fan",
+      "iconUrl": "https://cdn-icons-png.flaticon.com/512/10005/10005517.png",
+      "category": "Media",
+      "modInfo": "No Ads & Premium",
+      "specificDownloadUrl": "https://liteapks.com/crunchyroll.html"
+    },
+    {
+      "id": 13,
+      "title": "Anghami Plus",
+      "iconUrl": "https://cdn-icons-png.flaticon.com/512/12108/12108851.png",
+      "category": "Media",
+      "modInfo": "Offline Downloads",
+      "specificDownloadUrl": "https://liteapks.com/anghami.html"
+    },
+    {
+      "id": 14,
+      "title": "CapCut Pro",
+      "iconUrl": "https://cdn-icons-png.flaticon.com/512/10101/10101235.png",
+      "category": "Editors",
+      "modInfo": "Pro Features Unlocked",
+      "specificDownloadUrl": "https://liteapks.com/capcut.html"
+    },
+    {
+      "id": 15,
+      "title": "Alight Motion Pro",
+      "iconUrl": "https://cdn-icons-png.flaticon.com/512/10101/10101340.png",
+      "category": "Editors",
+      "modInfo": "No Watermark & XML",
+      "specificDownloadUrl": "https://liteapks.com/alight-motion.html"
+    },
+    {
+      "id": 16,
+      "title": "InShot Pro",
+      "iconUrl": "https://cdn-icons-png.flaticon.com/512/5968/5968779.png",
+      "category": "Editors",
+      "modInfo": "All Filters Unlocked",
+      "specificDownloadUrl": "https://liteapks.com/inshot-pro-1.html"
+    },
+    {
+      "id": 17,
+      "title": "PicsArt Gold",
+      "iconUrl": "https://cdn-icons-png.flaticon.com/512/5968/5968560.png",
+      "category": "Editors",
+      "modInfo": "AI Features Unlocked",
+      "specificDownloadUrl": "https://liteapks.com/picsart-1.html"
+    },
+    {
+      "id": 18,
+      "title": "Lightroom Premium",
+      "iconUrl": "https://cdn-icons-png.flaticon.com/512/825/825585.png",
+      "category": "Editors",
+      "modInfo": "Premium Presets",
+      "specificDownloadUrl": "https://liteapks.com/adobe-lightroom.html"
+    },
+    {
+      "id": 19,
+      "title": "KineMaster Pro",
+      "iconUrl": "https://cdn-icons-png.flaticon.com/512/5968/5968600.png",
+      "category": "Editors",
+      "modInfo": "4K Export Unlocked",
+      "specificDownloadUrl": "https://liteapks.com/kinemaster.html"
+    },
+    {
+      "id": 20,
+      "title": "Canva Pro",
+      "iconUrl": "https://cdn-icons-png.flaticon.com/512/5968/5968705.png",
+      "category": "Editors",
+      "modInfo": "All Templates Free",
+      "specificDownloadUrl": "https://liteapks.com/canva.html"
+    },
+    {
+      "id": 21,
+      "title": "Remini Pro",
+      "iconUrl": "https://cdn-icons-png.flaticon.com/512/10005/10005518.png",
+      "category": "Editors",
+      "modInfo": "Unlimited Enhance",
+      "specificDownloadUrl": "https://liteapks.com/remini.html"
+    },
+    {
+      "id": 22,
+      "title": "AdGuard Premium",
+      "iconUrl": "https://cdn-icons-png.flaticon.com/512/833/833324.png",
+      "category": "Tools",
+      "modInfo": "System-Wide AdBlock",
+      "specificDownloadUrl": "https://liteapks.com/adguard.html"
+    },
+    {
+      "id": 23,
+      "title": "X-plore File Manager",
+      "iconUrl": "https://cdn-icons-png.flaticon.com/512/716/716784.png",
+      "category": "Tools",
+      "modInfo": "Donate Version",
+      "specificDownloadUrl": "https://liteapks.com/x-plore-file-manager.html"
+    },
+    {
+      "id": 24,
+      "title": "ZArchiver Pro",
+      "iconUrl": "https://cdn-icons-png.flaticon.com/512/3208/3208080.png",
+      "category": "Tools",
+      "modInfo": "Pro Features",
+      "specificDownloadUrl": "https://liteapks.com/zarchiver.html"
+    },
+    {
+      "id": 25,
+      "title": "ExpressVPN Mod",
+      "iconUrl": "https://cdn-icons-png.flaticon.com/512/2548/2548545.png",
+      "category": "Tools",
+      "modInfo": "Unlimited VIP Servers",
+      "specificDownloadUrl": "https://liteapks.com/expressvpn.html"
+    },
+    {
+      "id": 26,
+      "title": "Minecraft PE",
+      "iconUrl": "https://cdn-icons-png.flaticon.com/512/9312/9312151.png",
+      "category": "Games",
+      "modInfo": "Immortality & Skins",
+      "specificDownloadUrl": "https://liteapks.com/minecraft.html"
+    },
+    {
+      "id": 27,
+      "title": "Subway Surfers",
+      "iconUrl": "https://cdn-icons-png.flaticon.com/512/10005/10005519.png",
+      "category": "Games",
+      "modInfo": "Unlimited Coins/Keys",
+      "specificDownloadUrl": "https://liteapks.com/subway-surfers-1.html"
+    },
+    {
+      "id": 28,
+      "title": "GTA San Andreas",
+      "iconUrl": "https://cdn-icons-png.flaticon.com/512/10005/10005520.png",
+      "category": "Games",
+      "modInfo": "Cleo Mod Menu",
+      "specificDownloadUrl": "https://liteapks.com/gta-san-andreas.html"
+    },
+    {
+      "id": 29,
+      "title": "8 Ball Pool",
+      "iconUrl": "https://cdn-icons-png.flaticon.com/512/2884/2884144.png",
+      "category": "Games",
+      "modInfo": "Long Lines Mod",
+      "specificDownloadUrl": "https://liteapks.com/8-ball-pool.html"
+    },
+    {
+      "id": 30,
+      "title": "Roblox",
+      "iconUrl": "https://cdn-icons-png.flaticon.com/512/10005/10005521.png",
+      "category": "Games",
+      "modInfo": "Mod Menu V4",
+      "specificDownloadUrl": "https://liteapks.com/roblox.html"
     }
   ]
 }
