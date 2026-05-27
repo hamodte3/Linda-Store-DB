@@ -22,7 +22,7 @@
       "iconUrl": "https://cdn-icons-png.flaticon.com/512/311/311337.png",
       "category": "Social",
       "modInfo": "Anti-Ban & Privacy",
-      "specificDownloadUrl": "https://dw.plusapk.app/WA2_Abo3rab_v14.50.apk"
+      "specificDownloadUrl": "https://liteapks.com/whatsapp-gold.html"
     },
     {
       "id": 4,
@@ -50,7 +50,7 @@
     },
     {
       "id": 7,
-      "title": "X (Twitter) Mod",
+      "title": "X Mod",
       "iconUrl": "https://cdn-icons-png.flaticon.com/512/5969/5969020.png",
       "category": "Social",
       "modInfo": "No Ads & Video DL",
@@ -58,7 +58,7 @@
     },
     {
       "id": 9,
-      "title": "YouTube ReVanced",
+      "title": "YouTube Re",
       "iconUrl": "https://cdn-icons-png.flaticon.com/512/1384/1384060.png",
       "category": "Media",
       "modInfo": "Background Play & SponsorBlock",
@@ -66,7 +66,7 @@
     },
     {
       "id": 11,
-      "title": "Netflix SV4",
+      "title": "Netflix",
       "iconUrl": "https://cdn-icons-png.flaticon.com/512/732/732228.png",
       "category": "Media",
       "modInfo": "4K Free Watching",
@@ -74,7 +74,7 @@
     },
     {
       "id": 12,
-      "title": "Crunchyroll Mega Fan",
+      "title": "Crunchyroll",
       "iconUrl": "https://cdn-icons-png.flaticon.com/512/10005/10005517.png",
       "category": "Media",
       "modInfo": "No Ads & Premium",
@@ -319,6 +319,446 @@
       "category": "Tools",
       "modInfo": "Advanced Download Manager",
       "specificDownloadUrl": "https://liteapks.com/1dm.html"
+    },
+    {
+      "id": 46,
+      "title": "Sudachi Emulator",
+      "iconUrl": "https://cdn-icons-png.flaticon.com/512/3004/3004381.png",
+      "category": "Emulators",
+      "modInfo": "Switch Games for Snapdragon",
+      "specificDownloadUrl": "https://github.com/sudachi-emu/sudachi/releases/download/v1.0.0/sudachi-android.apk"
+    },
+    {
+      "id": 47,
+      "title": "CamScanner Pro",
+      "iconUrl": "https://cdn-icons-png.flaticon.com/512/2921/2921102.png",
+      "category": "Productivity",
+      "modInfo": "Best for Uni Lab Reports",
+      "specificDownloadUrl": "https://liteapks.com/camscanner.html"
+    },
+    {
+      "id": 48,
+      "title": "SD Maid SE",
+      "iconUrl": "https://cdn-icons-png.flaticon.com/512/2933/2933924.png",
+      "category": "Tools",
+      "modInfo": "Deep System Cleaning (Pro)",
+      "specificDownloadUrl": "https://liteapks.com/sd-maid-2-se.html"
+    },
+    {
+      "id": 49,
+      "title": "Mihon",
+      "iconUrl": "https://cdn-icons-png.flaticon.com/512/3145/3145765.png",
+      "category": "Media",
+      "modInfo": "Ad-Free Manga Reader",
+      "specificDownloadUrl": "https://github.com/mihonapp/mihon/releases/latest/download/mihon.apk"
+    },
+    {
+      "id": 50,
+      "title": "Muslim Pro Premium",
+      "iconUrl": "https://cdn-icons-png.flaticon.com/512/2880/2880655.png",
+      "category": "Tools",
+      "modInfo": "Ad-Free Quran & Azan",
+      "specificDownloadUrl": "https://liteapks.com/muslim-pro.html"
+    },
+    {
+      "id": 51,
+      "title": "PPSSPP Gold",
+      "iconUrl": "https://cdn-icons-png.flaticon.com/512/3004/3004381.png",
+      "category": "Emulators",
+      "modInfo": "PSP Emulator (Max Resolution)",
+      "specificDownloadUrl": "https://liteapks.com/ppsspp-gold.html"
+    },
+    {
+      "id": 52,
+      "title": "DuckStation",
+      "iconUrl": "https://cdn-icons-png.flaticon.com/512/3004/3004381.png",
+      "category": "Emulators",
+      "modInfo": "PS1 Emulator (4K Upscaling)",
+      "specificDownloadUrl": "https://liteapks.com/duckstation.html"
+    },
+    {
+      "id": 53,
+      "title": "Dolphin Emulator",
+      "iconUrl": "https://cdn-icons-png.flaticon.com/512/3004/3004381.png",
+      "category": "Emulators",
+      "modInfo": "Wii/GameCube (Snapdragon Opt)",
+      "specificDownloadUrl": "https://liteapks.com/dolphin-emulator.html"
+    },
+    {
+      "id": 54,
+      "title": "Citra MMJ",
+      "iconUrl": "https://cdn-icons-png.flaticon.com/512/3004/3004381.png",
+      "category": "Emulators",
+      "modInfo": "Nintendo 3DS Emulator",
+      "specificDownloadUrl": "https://github.com/weihuoya/citra/releases/latest/download/Citra_MMJ.apk"
+    },
+    {
+      "id": 55,
+      "title": "Vita3K",
+      "iconUrl": "https://cdn-icons-png.flaticon.com/512/3004/3004381.png",
+      "category": "Emulators",
+      "modInfo": "PS Vita Emulator (Beta)",
+      "specificDownloadUrl": "https://github.com/Vita3K/Vita3K-Android/releases/latest/download/vita3k-android.apk"
+    },
+    {
+      "id": 56,
+      "title": "DraStic DS",
+      "iconUrl": "https://cdn-icons-png.flaticon.com/512/3004/3004381.png",
+      "category": "Emulators",
+      "modInfo": "Nintendo DS (Premium)",
+      "specificDownloadUrl": "https://liteapks.com/drastic-ds-emulator-1.html"
+    },
+    {
+      "id": 57,
+      "title": "Hollow Knight Mobile",
+      "iconUrl": "https://cdn-icons-png.flaticon.com/512/9312/9312151.png",
+      "category": "Games",
+      "modInfo": "Unofficial Android Port",
+      "specificDownloadUrl": "https://liteapks.com/hollow-knight.html"
+    },
+    {
+      "id": 58,
+      "title": "Dead Cells",
+      "iconUrl": "https://cdn-icons-png.flaticon.com/512/9312/9312151.png",
+      "category": "Games",
+      "modInfo": "All DLCs Unlocked",
+      "specificDownloadUrl": "https://liteapks.com/dead-cells-1.html"
+    },
+    {
+      "id": 59,
+      "title": "Stardew Valley",
+      "iconUrl": "https://cdn-icons-png.flaticon.com/512/9312/9312151.png",
+      "category": "Games",
+      "modInfo": "Unlimited Money Mod",
+      "specificDownloadUrl": "https://liteapks.com/stardew-valley-1.html"
+    },
+    {
+      "id": 60,
+      "title": "Limbo",
+      "iconUrl": "https://cdn-icons-png.flaticon.com/512/9312/9312151.png",
+      "category": "Games",
+      "modInfo": "Full Premium Game",
+      "specificDownloadUrl": "https://liteapks.com/limbo-1.html"
+    },
+    {
+      "id": 61,
+      "title": "AutoCAD",
+      "iconUrl": "https://cdn-icons-png.flaticon.com/512/2921/2921102.png",
+      "category": "Productivity",
+      "modInfo": "DWG Viewer & Editor Pro",
+      "specificDownloadUrl": "https://liteapks.com/autocad.html"
+    },
+    {
+      "id": 62,
+      "title": "FrameDesign",
+      "iconUrl": "https://cdn-icons-png.flaticon.com/512/2921/2921102.png",
+      "category": "Productivity",
+      "modInfo": "Structural Analysis (Civil Eng)",
+      "specificDownloadUrl": "https://liteapks.com/framedesign.html"
+    },
+    {
+      "id": 63,
+      "title": "Symbolab Pro",
+      "iconUrl": "https://cdn-icons-png.flaticon.com/512/2921/2921102.png",
+      "category": "Tools",
+      "modInfo": "Math Solver Premium",
+      "specificDownloadUrl": "https://liteapks.com/symbolab.html"
+    },
+    {
+      "id": 64,
+      "title": "Photomath Plus",
+      "iconUrl": "https://cdn-icons-png.flaticon.com/512/2921/2921102.png",
+      "category": "Tools",
+      "modInfo": "Plus Features Unlocked",
+      "specificDownloadUrl": "https://liteapks.com/photomath.html"
+    },
+    {
+      "id": 65,
+      "title": "Notion",
+      "iconUrl": "https://cdn-icons-png.flaticon.com/512/2921/2921102.png",
+      "category": "Productivity",
+      "modInfo": "Ad-Free Workspace",
+      "specificDownloadUrl": "https://liteapks.com/notion.html"
+    },
+    {
+      "id": 66,
+      "title": "WPS Office Pro",
+      "iconUrl": "https://cdn-icons-png.flaticon.com/512/2921/2921102.png",
+      "category": "Productivity",
+      "modInfo": "Premium Unlocked & No Ads",
+      "specificDownloadUrl": "https://liteapks.com/wps-office-1.html"
+    },
+    {
+      "id": 67,
+      "title": "ChatGPT Mod",
+      "iconUrl": "https://cdn-icons-png.flaticon.com/512/2888/2888944.png",
+      "category": "Tools",
+      "modInfo": "Optimized & Analytics Disabled",
+      "specificDownloadUrl": "https://liteapks.com/chatgpt.html"
+    },
+    {
+      "id": 68,
+      "title": "Wolfram Alpha",
+      "iconUrl": "https://cdn-icons-png.flaticon.com/512/2888/2888944.png",
+      "category": "Tools",
+      "modInfo": "Paid Version Free",
+      "specificDownloadUrl": "https://liteapks.com/wolframalpha.html"
+    },
+    {
+      "id": 69,
+      "title": "RealCalc Plus",
+      "iconUrl": "https://cdn-icons-png.flaticon.com/512/2888/2888944.png",
+      "category": "Tools",
+      "modInfo": "Scientific Calculator Pro",
+      "specificDownloadUrl": "https://liteapks.com/realcalc-plus.html"
+    },
+    {
+      "id": 70,
+      "title": "TapScanner Pro",
+      "iconUrl": "https://cdn-icons-png.flaticon.com/512/2921/2921102.png",
+      "category": "Productivity",
+      "modInfo": "PDF Scanner Premium",
+      "specificDownloadUrl": "https://liteapks.com/tapscanner.html"
+    },
+    {
+      "id": 71,
+      "title": "Termux",
+      "iconUrl": "https://cdn-icons-png.flaticon.com/512/2888/2888944.png",
+      "category": "Tools",
+      "modInfo": "Linux Terminal Emulator",
+      "specificDownloadUrl": "https://github.com/termux/termux-app/releases/latest/download/termux-app_v0.118.0+github-debug_arm64-v8a.apk"
+    },
+    {
+      "id": 72,
+      "title": "Tasker",
+      "iconUrl": "https://cdn-icons-png.flaticon.com/512/2888/2888944.png",
+      "category": "Tools",
+      "modInfo": "Automation Premium",
+      "specificDownloadUrl": "https://liteapks.com/tasker.html"
+    },
+    {
+      "id": 73,
+      "title": "CPU Throttling Test",
+      "iconUrl": "https://cdn-icons-png.flaticon.com/512/2888/2888944.png",
+      "category": "Tools",
+      "modInfo": "Performance Monitor",
+      "specificDownloadUrl": "https://liteapks.com/cpu-throttling-test.html"
+    },
+    {
+      "id": 74,
+      "title": "AccuBattery Pro",
+      "iconUrl": "https://cdn-icons-png.flaticon.com/512/2888/2888944.png",
+      "category": "Tools",
+      "modInfo": "Battery Health Tracker",
+      "specificDownloadUrl": "https://liteapks.com/accubattery.html"
+    },
+    {
+      "id": 75,
+      "title": "App Cloner Premium",
+      "iconUrl": "https://cdn-icons-png.flaticon.com/512/2888/2888944.png",
+      "category": "Tools",
+      "modInfo": "Clone Any App",
+      "specificDownloadUrl": "https://liteapks.com/app-cloner.html"
+    },
+    {
+      "id": 76,
+      "title": "ReVanced Manager",
+      "iconUrl": "https://cdn-icons-png.flaticon.com/512/2888/2888944.png",
+      "category": "Tools",
+      "modInfo": "Official Patcher Tool",
+      "specificDownloadUrl": "https://github.com/ReVanced/revanced-manager/releases/latest/download/revanced-manager-v1.20.1.apk"
+    },
+    {
+      "id": 77,
+      "title": "KWGT Pro",
+      "iconUrl": "https://cdn-icons-png.flaticon.com/512/888/888879.png",
+      "category": "Customization",
+      "modInfo": "Custom Widgets Unlocked",
+      "specificDownloadUrl": "https://liteapks.com/kwgt-kustom-widget-maker.html"
+    },
+    {
+      "id": 78,
+      "title": "Wallpaper Engine",
+      "iconUrl": "https://cdn-icons-png.flaticon.com/512/888/888879.png",
+      "category": "Customization",
+      "modInfo": "Live PC Wallpapers",
+      "specificDownloadUrl": "https://liteapks.com/wallpaper-engine.html"
+    },
+    {
+      "id": 79,
+      "title": "Amoled Wallpapers",
+      "iconUrl": "https://cdn-icons-png.flaticon.com/512/888/888879.png",
+      "category": "Customization",
+      "modInfo": "Pitch Black 4K Backgrounds",
+      "specificDownloadUrl": "https://liteapks.com/amoled-wallpapers-pro.html"
+    },
+    {
+      "id": 80,
+      "title": "Smart Launcher 6",
+      "iconUrl": "https://cdn-icons-png.flaticon.com/512/888/888879.png",
+      "category": "Customization",
+      "modInfo": "Pro Features Unlocked",
+      "specificDownloadUrl": "https://liteapks.com/smart-launcher-6.html"
+    },
+    {
+      "id": 81,
+      "title": "Snapseed Mod",
+      "iconUrl": "https://cdn-icons-png.flaticon.com/512/5968/5968779.png",
+      "category": "Editors",
+      "modInfo": "Dark Theme & Optimized",
+      "specificDownloadUrl": "https://liteapks.com/snapseed.html"
+    },
+    {
+      "id": 82,
+      "title": "VSCO Pro",
+      "iconUrl": "https://cdn-icons-png.flaticon.com/512/5968/5968779.png",
+      "category": "Editors",
+      "modInfo": "All Filters Unlocked",
+      "specificDownloadUrl": "https://liteapks.com/vsco-1.html"
+    },
+    {
+      "id": 83,
+      "title": "PixelLab Pro",
+      "iconUrl": "https://cdn-icons-png.flaticon.com/512/5968/5968779.png",
+      "category": "Editors",
+      "modInfo": "Ad-Free & Fonts Added",
+      "specificDownloadUrl": "https://liteapks.com/pixellab.html"
+    },
+    {
+      "id": 84,
+      "title": "Node Video Pro",
+      "iconUrl": "https://cdn-icons-png.flaticon.com/512/5968/5968779.png",
+      "category": "Editors",
+      "modInfo": "PC-Level Editing",
+      "specificDownloadUrl": "https://liteapks.com/node-video.html"
+    },
+    {
+      "id": 85,
+      "title": "Motion Ninja Pro",
+      "iconUrl": "https://cdn-icons-png.flaticon.com/512/5968/5968779.png",
+      "category": "Editors",
+      "modInfo": "Keyframe Animation Unlocked",
+      "specificDownloadUrl": "https://liteapks.com/motion-ninja.html"
+    },
+    {
+      "id": 86,
+      "title": "PhotoRoom Pro",
+      "iconUrl": "https://cdn-icons-png.flaticon.com/512/5968/5968779.png",
+      "category": "Editors",
+      "modInfo": "Pro AI Features",
+      "specificDownloadUrl": "https://liteapks.com/photoroom.html"
+    },
+    {
+      "id": 87,
+      "title": "Mojo Pro",
+      "iconUrl": "https://cdn-icons-png.flaticon.com/512/5968/5968779.png",
+      "category": "Editors",
+      "modInfo": "Insta Stories Editor",
+      "specificDownloadUrl": "https://liteapks.com/mojo.html"
+    },
+    {
+      "id": 88,
+      "title": "VN Video Editor",
+      "iconUrl": "https://cdn-icons-png.flaticon.com/512/5968/5968779.png",
+      "category": "Editors",
+      "modInfo": "No Watermark & Pro",
+      "specificDownloadUrl": "https://liteapks.com/vn-video-editor.html"
+    },
+    {
+      "id": 89,
+      "title": "Lensa AI",
+      "iconUrl": "https://cdn-icons-png.flaticon.com/512/5968/5968779.png",
+      "category": "Editors",
+      "modInfo": "Premium Avatars Unlocked",
+      "specificDownloadUrl": "https://liteapks.com/lensa.html"
+    },
+    {
+      "id": 90,
+      "title": "Polarr Pro",
+      "iconUrl": "https://cdn-icons-png.flaticon.com/512/5968/5968779.png",
+      "category": "Editors",
+      "modInfo": "All Pro Filters",
+      "specificDownloadUrl": "https://liteapks.com/polarr.html"
+    },
+    {
+      "id": 91,
+      "title": "Brave Browser Mod",
+      "iconUrl": "https://cdn-icons-png.flaticon.com/512/2548/2548545.png",
+      "category": "Tools",
+      "modInfo": "Ultra Ad-Block & Optimized",
+      "specificDownloadUrl": "https://liteapks.com/brave-browser.html"
+    },
+    {
+      "id": 92,
+      "title": "Tor Browser",
+      "iconUrl": "https://cdn-icons-png.flaticon.com/512/2548/2548545.png",
+      "category": "Tools",
+      "modInfo": "Maximum Privacy Network",
+      "specificDownloadUrl": "https://liteapks.com/tor-browser.html"
+    },
+    {
+      "id": 93,
+      "title": "1.1.1.1 WARP+",
+      "iconUrl": "https://cdn-icons-png.flaticon.com/512/2548/2548545.png",
+      "category": "Tools",
+      "modInfo": "Unlimited WARP+ Data",
+      "specificDownloadUrl": "https://liteapks.com/1-1-1-1-warp.html"
+    },
+    {
+      "id": 94,
+      "title": "ProtonVPN Premium",
+      "iconUrl": "https://cdn-icons-png.flaticon.com/512/2548/2548545.png",
+      "category": "Tools",
+      "modInfo": "Fast & Secure Servers",
+      "specificDownloadUrl": "https://liteapks.com/protonvpn.html"
+    },
+    {
+      "id": 95,
+      "title": "Reddit ReVanced",
+      "iconUrl": "https://cdn-icons-png.flaticon.com/512/1384/1384063.png",
+      "category": "Social",
+      "modInfo": "Ad-Free & Premium UI",
+      "specificDownloadUrl": "https://liteapks.com/reddit.html"
+    },
+    {
+      "id": 96,
+      "title": "Discord Mod",
+      "iconUrl": "https://cdn-icons-png.flaticon.com/512/1384/1384063.png",
+      "category": "Social",
+      "modInfo": "Amoled Theme & Anti-Delete",
+      "specificDownloadUrl": "https://liteapks.com/discord.html"
+    },
+    {
+      "id": 97,
+      "title": "Aniyomi",
+      "iconUrl": "https://cdn-icons-png.flaticon.com/512/3242/3242212.png",
+      "category": "Media",
+      "modInfo": "Anime & Manga Tracker",
+      "specificDownloadUrl": "https://github.com/aniyomiorg/aniyomi/releases/latest/download/aniyomi.apk"
+    },
+    {
+      "id": 98,
+      "title": "Dantotsu",
+      "iconUrl": "https://cdn-icons-png.flaticon.com/512/3242/3242212.png",
+      "category": "Media",
+      "modInfo": "Saikou Successor (Ad-Free)",
+      "specificDownloadUrl": "https://github.com/rebelonion/Dantotsu/releases/latest/download/dantotsu.apk"
+    },
+    {
+      "id": 99,
+      "title": "Webtoon Mod",
+      "iconUrl": "https://cdn-icons-png.flaticon.com/512/3242/3242212.png",
+      "category": "Media",
+      "modInfo": "Ad-Free Reader",
+      "specificDownloadUrl": "https://liteapks.com/webtoon.html"
+    },
+    {
+      "id": 100,
+      "title": "Bilibili Premium",
+      "iconUrl": "https://cdn-icons-png.flaticon.com/512/3242/3242212.png",
+      "category": "Media",
+      "modInfo": "HD Anime & No Ads",
+      "specificDownloadUrl": "https://liteapks.com/bilibili.html"
     }
   ]
 }
