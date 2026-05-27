@@ -2,11 +2,11 @@
   "apps": [
     {
       "id": 1,
-      "title": "Linda VIP App",
-      "iconUrl": "https://cdn-icons-png.flaticon.com/512/1155/1155253.png",
+      "title": "Linda YouTube",
+      "iconUrl": "https://cdn-icons-png.flaticon.com/512/1384/1384060.png",
       "category": "Exclusive",
       "modInfo": "Official Store App",
-      "specificDownloadUrl": "https://github.com/AbuLinda/MyRepo/releases/download/v1.0/LindaVIP.apk"
+      "specificDownloadUrl": "https://github.com/mandyoquinha-hash/Morphe-Builds-Beta-MicroG/releases/download/20260392/YouTube.Material.arm64.apk"
     },
     {
       "id": 2,
