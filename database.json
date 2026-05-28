@@ -762,6 +762,14 @@
     },
     {
       "id": 101,
+      "title": "SilkSong",
+      "iconUrl": "https://apkvision.org/wp-content/uploads/2025/09/hollow-knight-silksong-140x140.jpg",
+      "category": "Media",
+      "modInfo": "Mod Menu: God Mode, One-Hit Kill, Unlimited Silk/Focus, +999,999 Rosary Beads (Press the Button to Add), Infinite Jumps",
+      "specificDownloadUrl": "https://dl.apkvision.org/hollow-knight-silksong/Silksong-v1.2.0-mod-menu-apkvision.apk"
+    },
+    {
+      "id": 102,
       "title": "Bilibili Premium",
       "iconUrl": "https://liteapks.com/wp-content/uploads/2022/12/bilibili-150x150.jpg",
       "category": "Media",
