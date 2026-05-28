@@ -331,7 +331,7 @@
     {
       "id": 47,
       "title": "CamScanner Pro",
-      "iconUrl": "https://cdn-icons-png.flaticon.com/512/2850/2850931.png",
+      "iconUrl": "https://liteapks.com/wp-content/uploads/2022/04/camscanner-pdf-scanner-app-150x150.png",
       "category": "Productivity",
       "modInfo": "Best for Uni Lab Reports",
       "specificDownloadUrl": "https://liteapks.com/camscanner.html"
@@ -339,7 +339,7 @@
     {
       "id": 48,
       "title": "SD Maid SE",
-      "iconUrl": "https://cdn-icons-png.flaticon.com/512/4815/4815675.png",
+      "iconUrl": "https://liteapks.com/wp-content/uploads/2023/04/sd-maid-2se-system-cleaner-150x150.jpg",
       "category": "Tools",
       "modInfo": "Deep System Cleaning (Pro)",
       "specificDownloadUrl": "https://liteapks.com/sd-maid-2-se-system-cleaner.html"
@@ -347,15 +347,15 @@
     {
       "id": 49,
       "title": "Mihon",
-      "iconUrl": "https://cdn-icons-png.flaticon.com/512/2232/2232688.png",
+      "iconUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQLMmbL-Vry3yHnFaorrjAjXOpjysPi8_FhPA&s",
       "category": "Media",
       "modInfo": "Ad-Free Manga Reader",
-      "specificDownloadUrl": "https://github.com/mihonapp/mihon/releases/latest/download/mihon.apk"
+      "specificDownloadUrl": "https://github.com/mihonapp/mihon/releases/download/v0.19.9/mihon-arm64-v8a-v0.19.9.apk"
     },
     {
       "id": 50,
       "title": "Muslim Pro Premium",
-      "iconUrl": "https://cdn-icons-png.flaticon.com/512/2880/2880655.png",
+      "iconUrl": "https://liteapks.com/wp-content/uploads/2022/05/muslim-pro-quran-athan-prayer-150x150.png",
       "category": "Tools",
       "modInfo": "Ad-Free Quran & Azan",
       "specificDownloadUrl": "https://liteapks.com/muslim-pro.html"
@@ -363,55 +363,55 @@
     {
       "id": 51,
       "title": "PPSSPP Gold",
-      "iconUrl": "https://cdn-icons-png.flaticon.com/512/875/875501.png",
+      "iconUrl": "https://liteapks.com/wp-content/uploads/2022/12/ppsspp-gold-psp-emulator-150x150.jpg",
       "category": "Emulators",
       "modInfo": "PSP Emulator (Max Resolution)",
-      "specificDownloadUrl": "https://liteapks.com/ppsspp-gold.html"
+      "specificDownloadUrl": "https://liteapks.com/ppsspp-gold-psp-emulator.html"
     },
     {
       "id": 52,
       "title": "DuckStation",
-      "iconUrl": "https://cdn-icons-png.flaticon.com/512/588/588258.png",
+      "iconUrl": "https://play-lh.googleusercontent.com/0lQAIz9NFGArLCmXVfyLXwJlBuUPPMKg_rTdcrvtlTM17LLSuujzYfBy7Q9qUi7tiQ=w480-h960-rw",
       "category": "Emulators",
       "modInfo": "PS1 Emulator (4K Upscaling)",
-      "specificDownloadUrl": "https://liteapks.com/duckstation.html"
+      "specificDownloadUrl": "https://play.google.com/store/apps/details?id=com.github.stenzek.duckstation&hl=en_AU&gl=US"
     },
     {
       "id": 53,
       "title": "Dolphin Emulator",
-      "iconUrl": "https://cdn-icons-png.flaticon.com/512/10005/10005524.png",
+      "iconUrl": "https://www.clipartmax.com/png/middle/56-560274_dolphin-emulator-dolphin-emulator-icon.png",
       "category": "Emulators",
       "modInfo": "Wii/GameCube (Snapdragon Opt)",
-      "specificDownloadUrl": "https://liteapks.com/dolphin-emulator.html"
+      "specificDownloadUrl": "https://dl.dolphin-emu.org/releases/2603a/dolphin-2603a.apk"
     },
     {
       "id": 54,
       "title": "Citra MMJ",
-      "iconUrl": "https://cdn-icons-png.flaticon.com/512/3004/3004381.png",
+      "iconUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d4/Citra_Logo.svg/960px-Citra_Logo.svg.png?utm_source=commons.wikimedia.org&utm_campaign=index&utm_content=thumbnail",
       "category": "Emulators",
       "modInfo": "Nintendo 3DS Emulator",
-      "specificDownloadUrl": "https://github.com/weihuoya/citra/releases/latest/download/Citra_MMJ.apk"
+      "specificDownloadUrl": "https://github.com/weihuoya/citra/releases/download/20251112/Citra_MMJ_20251112_Antutu.apk"
     },
     {
       "id": 55,
       "title": "Vita3K",
-      "iconUrl": "https://cdn-icons-png.flaticon.com/512/3004/3004381.png",
+      "iconUrl": "https://img.utdstc.com/icon/704/caa/704caaa5873673d74bf461dcf3b4d4bf005db0dc1d5e5faf44c0371d39944ead:600",
       "category": "Emulators",
       "modInfo": "PS Vita Emulator (Beta)",
-      "specificDownloadUrl": "https://github.com/Vita3K/Vita3K-Android/releases/latest/download/vita3k-android.apk"
+      "specificDownloadUrl": "https://github.com/Vita3K/Vita3K-Android/releases/download/v12/vita3k-android-release-12.apk"
     },
     {
       "id": 56,
       "title": "DraStic DS",
-      "iconUrl": "https://cdn-icons-png.flaticon.com/512/3004/3004381.png",
+      "iconUrl": "https://liteapks.com/wp-content/uploads/2023/02/drastic-ds-emulator-150x150.jpg",
       "category": "Emulators",
       "modInfo": "Nintendo DS (Premium)",
-      "specificDownloadUrl": "https://liteapks.com/drastic-ds-emulator-1.html"
+      "specificDownloadUrl": "https://liteapks.com/drastic-ds-emulator.html"
     },
     {
       "id": 57,
       "title": "Hollow Knight Mobile",
-      "iconUrl": "https://cdn-icons-png.flaticon.com/512/3305/3305779.png",
+      "iconUrl": "https://liteapks.com/wp-content/uploads/2025/09/hollow-knight-1-150x150.png",
       "category": "Games",
       "modInfo": "Unofficial Android Port",
       "specificDownloadUrl": "https://liteapks.com/hollow-knight.html"
@@ -419,10 +419,10 @@
     {
       "id": 58,
       "title": "Dead Cells",
-      "iconUrl": "https://cdn-icons-png.flaticon.com/512/1221/1221124.png",
+      "iconUrl": "https://liteapks.com/wp-content/uploads/2022/06/dead-cells-150x150.png",
       "category": "Games",
       "modInfo": "All DLCs Unlocked",
-      "specificDownloadUrl": "https://liteapks.com/dead-cells-1.html"
+      "specificDownloadUrl": "https://liteapks.com/dead-cells.html"
     },
     {
       "id": 59,
