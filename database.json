@@ -235,7 +235,7 @@
     {
       "id": 33,
       "title": "CloudStream 3",
-      "iconUrl": "https://cdn-icons-png.flaticon.com/512/3242/3242212.png",
+      "iconUrl": "https://avatars.githubusercontent.com/u/110591699?s=48&v=4",
       "category": "Media",
       "modInfo": "Ad-Free Anime Tracker",
       "specificDownloadUrl": "https://github.com/recloudstream/cloudstream/releases/download/pre-release/app-prerelease-release.apk"
@@ -243,15 +243,15 @@
     {
       "id": 34,
       "title": "DevCheck Pro",
-      "iconUrl": "https://cdn-icons-png.flaticon.com/512/2888/2888944.png",
+      "iconUrl": "https://liteapks.com/wp-content/uploads/2022/07/devcheck-device-system-info-150x150.jpg",
       "category": "Tools",
       "modInfo": "Advanced System Monitor",
-      "specificDownloadUrl": "https://liteapks.com/devcheck.html"
+      "specificDownloadUrl": "https://liteapks.com/devcheck-device-system-info.html"
     },
     {
       "id": 35,
       "title": "GFX Tool Pro",
-      "iconUrl": "https://cdn-icons-png.flaticon.com/512/1368/1368465.png",
+      "iconUrl": "https://liteapks.com/wp-content/uploads/2022/12/gfx-tool-for-pubg-bgmi-150x150.jpg",
       "category": "Tools",
       "modInfo": "Max FPS for Shooters",
       "specificDownloadUrl": "https://liteapks.com/gfx-tool-for-pubg.html"
@@ -259,39 +259,39 @@
     {
       "id": 36,
       "title": "Solid Explorer",
-      "iconUrl": "https://cdn-icons-png.flaticon.com/512/3241/3241857.png",
+      "iconUrl": "https://liteapks.com/wp-content/uploads/2022/06/solid-explorer-150x150.png",
       "category": "Tools",
       "modInfo": "Premium File Manager",
-      "specificDownloadUrl": "https://liteapks.com/solid-explorer.html"
+      "specificDownloadUrl": "https://liteapks.com/solid-explorer-file-manager.html"
     },
     {
       "id": 37,
       "title": "Nova Launcher Prime",
-      "iconUrl": "https://cdn-icons-png.flaticon.com/512/888/888879.png",
+      "iconUrl": "https://liteapks.com/wp-content/uploads/2022/12/nova-launcher-prime-150x150.jpg",
       "category": "Customization",
       "modInfo": "Unlocks All Gestures",
-      "specificDownloadUrl": "https://liteapks.com/nova-launcher.html"
+      "specificDownloadUrl": "https://liteapks.com/nova-launcher-prime.html"
     },
     {
       "id": 39,
-      "title": "SwiftKey Keyboard",
+      "title": "aX360e",
       "iconUrl": "https://cdn-icons-png.flaticon.com/512/2888/2888944.png",
-      "category": "Tools",
-      "modInfo": "Premium Themes Unlocked",
-      "specificDownloadUrl": "https://liteapks.com/microsoft-swiftkey.html"
+      "category": "Emulators",
+      "modInfo": "Xbox 360 Emulator",
+      "specificDownloadUrl": "https://liteapks.com/ax360e.html"
     },
     {
       "id": 41,
-      "title": "Sleep as Android",
+      "title": "Idle Miner Tycoon",
       "iconUrl": "https://cdn-icons-png.flaticon.com/512/10005/10005518.png",
-      "category": "Health",
-      "modInfo": "Smart Alarm Tracking",
-      "specificDownloadUrl": "https://liteapks.com/sleep-as-android.html"
+      "category": "Games",
+      "modInfo": "Game",
+      "specificDownloadUrl": "https://liteapks.com/idle-miner-tycoon.html"
     },
     {
       "id": 42,
       "title": "Forest",
-      "iconUrl": "https://cdn-icons-png.flaticon.com/512/3046/3046121.png",
+      "iconUrl": "https://liteapks.com/wp-content/uploads/2022/05/forest-focus-for-productivity-150x150.png",
       "category": "Productivity",
       "modInfo": "Focus Mode Premium",
       "specificDownloadUrl": "https://liteapks.com/forest.html"
@@ -299,26 +299,26 @@
     {
       "id": 43,
       "title": "Textra SMS",
-      "iconUrl": "https://cdn-icons-png.flaticon.com/512/1384/1384063.png",
+      "iconUrl": "https://liteapks.com/wp-content/uploads/2022/06/textra-sms-150x150.png",
       "category": "Tools",
       "modInfo": "Pro Personalization",
       "specificDownloadUrl": "https://liteapks.com/textra-sms.html"
     },
     {
       "id": 44,
-      "title": "RetroArch",
-      "iconUrl": "https://cdn-icons-png.flaticon.com/512/9312/9312151.png",
+      "title": "AhaTik Downloader",
+      "iconUrl": "https://liteapks.com/wp-content/uploads/2025/06/download-video-no-watermark-150x150.webp",
       "category": "Games",
       "modInfo": "Multi-System Emulator",
-      "specificDownloadUrl": "https://liteapks.com/retroarch.html"
+      "specificDownloadUrl": "https://liteapks.com/ahatik-downloader.html"
     },
     {
       "id": 45,
       "title": "1DM+",
-      "iconUrl": "https://cdn-icons-png.flaticon.com/512/716/716784.png",
+      "iconUrl": "https://liteapks.com/wp-content/uploads/2022/05/1dm-browser-downloader-150x150.png",
       "category": "Tools",
       "modInfo": "Advanced Download Manager",
-      "specificDownloadUrl": "https://liteapks.com/1dm.html"
+      "specificDownloadUrl": "https://liteapks.com/1dm-browser-downloader.html"
     },
     {
       "id": 46,
