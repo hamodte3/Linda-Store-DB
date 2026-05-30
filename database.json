@@ -770,6 +770,14 @@
     },
     {
       "id": 102,
+      "title": "SilkSong",
+      "iconUrl": "https://apkvision.org/wp-content/uploads/2026/04/otr-2-140x140.png",
+      "category": "Games",
+      "modInfo": "Free in-app purchases, vip club and elite club subscriptions activated",
+      "specificDownloadUrl": "https://dl.apkvision.org/otr-2-off-the-road-2/OTR2-v1.0.1-mod-apkvision.apk"
+    },
+    {
+      "id": 103,
       "title": "Bilibili Premium",
       "iconUrl": "https://liteapks.com/wp-content/uploads/2022/12/bilibili-150x150.jpg",
       "category": "Media",
