@@ -778,6 +778,38 @@
     },
     {
       "id": 103,
+      "title": "Grand Theft Auto: Vice City",
+      "iconUrl": "https://apkvision.org/wp-content/uploads/2017/09/2820-140x140.jpg",
+      "category": "Games",
+      "modInfo": "Unlimited Money",
+      "specificDownloadUrl": "https://dl.apkvision.org/grand-theft-auto-vice-city/GTA-VC-v1.12.259-mod-apkvision.apk"
+    },
+    {
+      "id": 104,
+      "title": "Bully: Anniversary Edition",
+      "iconUrl": "https://apkvision.org/wp-content/uploads/2019/11/Bully-Anniversary-Edition-140x140.png",
+      "category": "Games",
+      "modInfo": "Unlock Debug Menu , Enable 60 FPS , Unlimited Money",
+      "specificDownloadUrl": "https://dl.apkvision.org/bully-anniversary-edition/Bully-v1.4.311-mod-menu-apkvision.apk"
+    },
+    {
+      "id": 105,
+      "title": "Grand Theft Auto 3",
+      "iconUrl": "https://apkvision.org/wp-content/uploads/2017/09/3166-140x140.jpg",
+      "category": "Games",
+      "modInfo": "Unlimited Money",
+      "specificDownloadUrl": "https://dl.apkvision.org/grand-theft-auto-3/GTA-III-v1.10.106-mod-apkvision.apk"
+    },
+    {
+      "id": 106,
+      "title": "Red Dead Redemption NETFLIX",
+      "iconUrl": "https://apkvision.org/wp-content/uploads/2025/11/red-dead-redemption-netflix-140x140.png",
+      "category": "Games",
+      "modInfo": "unlocked graphics settings (FPS 30/40/60)",
+      "specificDownloadUrl": "https://dl.apkvision.org/otr-2-off-the-road-2/OTR2-v1.0.1-mod-apkvision.apk"
+    },
+    {
+      "id": 107,
       "title": "Bilibili Premium",
       "iconUrl": "https://liteapks.com/wp-content/uploads/2022/12/bilibili-150x150.jpg",
       "category": "Media",
