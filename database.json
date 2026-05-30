@@ -810,6 +810,110 @@
     },
     {
       "id": 107,
+      "title": "Blasphemous",
+      "iconUrl": "https://apkvision.org/wp-content/uploads/2024/11/blasphemous-140x140.jpg",
+      "category": "Games",
+      "modInfo": "God Mode , One-Hit Kill , Free Upgrade",
+      "specificDownloadUrl": "https://dl.apkvision.org/blasphemous/Blasphemous-v1.9.0-mod-menu-apkvision.apk"
+    },
+    {
+      "id": 108,
+      "title": "ULTRAKILL",
+      "iconUrl": "https://apkvision.org/wp-content/uploads/2025/02/ultrakill-square_2-140x140.png",
+      "category": "Games",
+      "modInfo": "Unofficial port",
+      "specificDownloadUrl": "https://dl.apkvision.org/ultrakill/ULTRAKILL-v8.5-full-apkvision.apk"
+    },
+    {
+      "id": 109,
+      "title": "INSIDE",
+      "iconUrl": "https://apkvision.org/wp-content/uploads/2026/01/INSIDE-GAME-FONT-140x140.png",
+      "category": "Games",
+      "modInfo": "unofficial Android release of INSIDE, running via the Eden Nintendo Switch emulator",
+      "specificDownloadUrl": "https://dl.apkvision.org/inside/INSIDE-v1.0.3-full-apkvision.apk"
+    },
+    {
+      "id": 110,
+      "title": "DAVE THE DIVER",
+      "iconUrl": "https://apkvision.org/wp-content/uploads/2025/12/dave_the_diver-square_2-1-140x140.jpg",
+      "category": "Games",
+      "modInfo": "Official build (v1.0.30) with full content , DLCs Unlocked",
+      "specificDownloadUrl": "https://apkvision.org/games/action/dave-the-diver-131882/download/v1.0.30-mod/"
+    },
+    {
+      "id": 111,
+      "title": "Subnautica",
+      "iconUrl": "https://apkvision.org/wp-content/uploads/2025/07/subnautica-140x140.png",
+      "category": "Games",
+      "modInfo": "Full",
+      "specificDownloadUrl": "https://dl.apkvision.org/subnautica/Subnautica-v1.22.83315-full-apkvision.apks"
+    },
+    {
+      "id": 112,
+      "title": "Bright Memory: Infinite",
+      "iconUrl": "https://apkvision.org/wp-content/uploads/2025/01/bright-memory-infinite-140x140.png",
+      "category": "Games",
+      "modInfo": "Menu/Unlocked All Paid DLCs",
+      "specificDownloadUrl": "https://dl.apkvision.org/bright-memory-infinite/Bright-Memory-Infinite-v1.31-mod-menu-apkvision.apk"
+    },
+    {
+      "id": 113,
+      "title": "ARK: Ultimate Mobile",
+      "iconUrl": "https://apkvision.org/wp-content/uploads/2024/12/ark-ultimate-mobile-edition-1-140x140.jpg",
+      "category": "Games",
+      "modInfo": "All Paid DLC Unlocked (Maps & God Console)",
+      "specificDownloadUrl": "https://dl.apkvision.org/ark-ultimate-mobile-edition/ARK-Ultimate-Mobile-v1.10192-unlocked-apkvision.apk"
+    },
+    {
+      "id": 114,
+      "title": "Age of History 3",
+      "iconUrl": "https://apkvision.org/wp-content/uploads/2024/10/age-of-history-3-1-140x140.png",
+      "category": "Games",
+      "modInfo": "Full",
+      "specificDownloadUrl": "https://dl.apkvision.org/age-of-history-3/Age-of-History-3-v1.136-b13-full-apkvision.apk"
+    },
+    {
+      "id": 115,
+      "title": "Plants vs. Zombies – Hybrid Edition Mod",
+      "iconUrl": "https://apkvision.org/wp-content/uploads/2024/09/plants-vs-zombies-hybrid-edition-140x140.png",
+      "category": "Games",
+      "modInfo": "Hybrid Edition Mod",
+      "specificDownloadUrl": "https://dl.apkvision.org/plants-vs-zombies-hybrid-edition/plants-vs-zombies-hybrid-edition-winlator-pvzzj_2_5_1.apk"
+    },
+    {
+      "id": 116,
+      "title": "Hotline Miami",
+      "iconUrl": "https://apkvision.org/wp-content/uploads/2017/09/Hotline-Miami-Cover-140x140.png",
+      "category": "Games",
+      "modInfo": "Full",
+      "specificDownloadUrl": "https://dl.apkvision.org/hotline-miami/Hotline-Miami-v1.0.180-full-apkvision.apk"
+    },
+    {
+      "id": 117,
+      "title": "Hotline Miami 2",
+      "iconUrl": "https://apkvision.org/wp-content/uploads/2025/10/my55yxg4zr2ptcwaezhd72dgzv9ud9cr-1-140x140.jpg",
+      "category": "Games",
+      "modInfo": "Full",
+      "specificDownloadUrl": "https://dl.apkvision.org/hotline-miami-2/Hotline-Miami-2-Wrong-Number-v0.8.1-full-apkvision.apk"
+    },
+    {
+      "id": 118,
+      "title": "DREDGE",
+      "iconUrl": "https://apkvision.org/wp-content/uploads/2024/10/dredge-140x140.jpg",
+      "category": "Games",
+      "modInfo": "Unlocked",
+      "specificDownloadUrl": "https://dl.apkvision.org/dredge/DREDGE-v1.5.18-b100518171-unlocked-apkvision.apk"
+    },
+    {
+      "id": 119,
+      "title": "Prince of Persia: Lost Crown",
+      "iconUrl": "https://apkvision.org/wp-content/uploads/2025/03/prince-of-persia-lost-crown-140x140.png",
+      "category": "Games",
+      "modInfo": "Unlocked + MOD Menu",
+      "specificDownloadUrl": "https://apkvision.org/games/adventure/prince-of-persia-lost-crown-128858/download/v1.1.9-mod/"
+    },
+    {
+      "id": 120,
       "title": "Bilibili Premium",
       "iconUrl": "https://liteapks.com/wp-content/uploads/2022/12/bilibili-150x150.jpg",
       "category": "Media",
