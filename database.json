@@ -914,6 +914,86 @@
     },
     {
       "id": 120,
+      "title": "Project Zomboid",
+      "iconUrl": "https://apkvision.org/wp-content/uploads/2025/09/output-140x140.png",
+      "category": "Games",
+      "modInfo": "Full",
+      "specificDownloadUrl": "https://dl.apkvision.org/project-zomboid/Project-Zomboid-v1.2.0-full-apkvision.apk"
+    },
+    {
+      "id": 121,
+      "title": "GRID™ Legends: Deluxe Edition",
+      "iconUrl": "https://apkvision.org/wp-content/uploads/2024/10/grid-legends-deluxe-edition-140x140.png",
+      "category": "Games",
+      "modInfo": "Full , install Through  ZArchiver or SAI , 20 GB Size",
+      "specificDownloadUrl": "https://dl.apkvision.org/grid-legends-deluxe-edition/grid-legends-1.1.4RC7-mod-apkvision.apks"
+    },
+    {
+      "id": 122,
+      "title": "Planet of Lana",
+      "iconUrl": "https://apkvision.org/wp-content/uploads/2025/10/planet-of-lana-1-140x140.jpg",
+      "category": "Games",
+      "modInfo": "Full",
+      "specificDownloadUrl": "https://dl.apkvision.org/planet-of-lana/Planet-of-Lana-v1.6.9-full-apkvision.apk"
+    },
+    {
+      "id": 123,
+      "title": "Carrion",
+      "iconUrl": "https://apkvision.org/wp-content/uploads/2024/10/carrion-140x140.png",
+      "category": "Games",
+      "modInfo": "Unlocked",
+      "specificDownloadUrl": "https://dl.apkvision.org/carrion/Carrion-v1.0.43-unlocked-apkvision.apk"
+    },
+    {
+      "id": 124,
+      "title": "Nine Sols",
+      "iconUrl": "https://apkvision.org/wp-content/uploads/2026/01/ninesols_ava-140x140.jpg",
+      "category": "Games",
+      "modInfo": "2.8 GB + Eden Emulator",
+      "specificDownloadUrl": "https://dl.apkvision.org/nine-sols/Nine-Sols-v1.4-full-apkvision.apk"
+    },
+    {
+      "id": 125,
+      "title": "Black Border 2",
+      "iconUrl": "https://apkvision.org/wp-content/uploads/2024/09/black-border-2-140x140.jpg",
+      "category": "Games",
+      "modInfo": "Full",
+      "specificDownloadUrl": "https://apkvision.org/wp-content/uploads/2024/09/black-border-2-140x140.jpg"
+    },
+    {
+      "id": 126,
+      "title": "Forgotten Memories: Remastered",
+      "iconUrl": "https://apkvision.org/wp-content/uploads/2024/10/forgotten-memories-remastered-140x140.jpg",
+      "category": "Games",
+      "modInfo": "Patched/No more deer!",
+      "specificDownloadUrl": "https://dl.apkvision.org/forgotten-memories-remastered/Forgotten-Memories-RE-v1.9.102-full-no-more-deer-apkvision.apk"
+    },
+    {
+      "id": 127,
+      "title": "Age of History 2: Definitive",
+      "iconUrl": "https://apkvision.org/wp-content/uploads/2026/04/age-of-history-2-definitive-140x140.png",
+      "category": "Games",
+      "modInfo": "Full",
+      "specificDownloadUrl": "https://dl.apkvision.org/age-of-history-2-definitive/Age-of-History-2-Definitive-Edition-v2.01957652812950-full-apkvision.apk"
+    },
+    {
+      "id": 128,
+      "title": "Where Winds Meet",
+      "iconUrl": "https://apkvision.org/wp-content/uploads/2025/01/where-winds-meet-140x140.jpg",
+      "category": "Games",
+      "modInfo": "Original No Mods",
+      "specificDownloadUrl": "https://dl.apkvision.org/where-winds-meet/Where+Winds+Meet_3.8_apkvision.xapk"
+    },
+    {
+      "id": 129,
+      "title": "R.E.P.O. Mobile",
+      "iconUrl": "https://apkvision.org/wp-content/uploads/2025/04/r-e-p-o-mobile-orignal-game-1-140x140.jpg",
+      "category": "Games",
+      "modInfo": "Full",
+      "specificDownloadUrl": "https://dl.apkvision.org/r-e-p-o-mobile-orignal-game/R.E.P.O.-Mobile-Orignal-Game-v1.0-full-apkvision.apk"
+    },
+    {
+      "id": 130,
       "title": "Bilibili Premium",
       "iconUrl": "https://liteapks.com/wp-content/uploads/2022/12/bilibili-150x150.jpg",
       "category": "Media",
