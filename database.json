@@ -4,8 +4,8 @@
       "id": 1,
       "title": "Linda YouTube",
       "iconUrl": "https://cdn-icons-png.flaticon.com/512/1384/1384060.png",
-      "category": "Exclusive",
-      "modInfo": "Best Youtube Mod",
+      "category": "Media",
+      "modInfo": "Premium Unlocked | MicroG",
       "specificDownloadUrl": "https://github.com/mandyoquinha-hash/Morphe-Builds-Beta-MicroG/releases/download/20260403/YouTube.Material.arm64.apk"
     },
     {
@@ -13,7 +13,7 @@
       "title": "InstaPrime",
       "iconUrl": "https://cdn-icons-png.flaticon.com/512/1384/1384063.png",
       "category": "Social",
-      "modInfo": "Full Ghost Mode & Downloader & Ios Emojies and Fonts",
+      "modInfo": "Ghost Mode | iOS Fonts",
       "specificDownloadUrl": "https://github.com/hamodte3/Linda-Apps/releases/download/apps/InstaPrime.V6.2.Clone.apk"
     },
     {
@@ -21,47 +21,47 @@
       "title": "WhatsApp Gold",
       "iconUrl": "https://cdn-icons-png.flaticon.com/512/311/311337.png",
       "category": "Social",
-      "modInfo": "Anti-Ban & Privacy",
+      "modInfo": "Anti-Ban | Advanced Privacy",
       "specificDownloadUrl": "https://github.com/hamodte3/Linda-Apps/releases/download/apps/WA2_Abo3rab_v14.50.apk"
     },
     {
       "id": 4,
-      "title": "TikTok Mod",
+      "title": "TikTok",
       "iconUrl": "https://cdn-icons-png.flaticon.com/512/3046/3046121.png",
       "category": "Social",
-      "modInfo": "No Watermark & Region Unlocked",
+      "modInfo": "No Watermark | Region Unlocked",
       "specificDownloadUrl": "https://liteapks.com/tiktok-1.html"
     },
     {
       "id": 5,
-      "title": "Truecaller Premium",
+      "title": "Truecaller",
       "iconUrl": "https://cdn-icons-png.flaticon.com/512/724/724664.png",
       "category": "Tools",
-      "modInfo": "Gold Caller ID & No Ads",
+      "modInfo": "Gold Caller ID | Ad-Free",
       "specificDownloadUrl": "https://liteapks.com/truecaller.html"
     },
     {
       "id": 6,
-      "title": "Telegram Premium",
+      "title": "Telegram",
       "iconUrl": "https://cdn-icons-png.flaticon.com/512/2111/2111646.png",
       "category": "Social",
-      "modInfo": "Unlocked Features",
+      "modInfo": "Premium Unlocked",
       "specificDownloadUrl": "https://liteapks.com/telegram.html"
     },
     {
       "id": 7,
-      "title": "X Mod",
+      "title": "X (Twitter)",
       "iconUrl": "https://cdn-icons-png.flaticon.com/512/5969/5969020.png",
       "category": "Social",
-      "modInfo": "No Ads & Video DL",
+      "modInfo": "Ad-Free | Video Downloader",
       "specificDownloadUrl": "https://liteapks.com/twitter.html"
     },
     {
       "id": 9,
-      "title": "YouTube Re",
+      "title": "YouTube ReVanced",
       "iconUrl": "https://cdn-icons-png.flaticon.com/512/1384/1384060.png",
       "category": "Media",
-      "modInfo": "Background Play & SponsorBlock",
+      "modInfo": "Background Play | SponsorBlock",
       "specificDownloadUrl": "https://liteapks.com/youtube-revanced.html"
     },
     {
@@ -69,7 +69,7 @@
       "title": "Netflix",
       "iconUrl": "https://cdn-icons-png.flaticon.com/512/732/732228.png",
       "category": "Media",
-      "modInfo": "4K Free Watching",
+      "modInfo": "4K Unlocked | Free Streaming",
       "specificDownloadUrl": "https://liteapks.com/netflix.html"
     },
     {
@@ -77,12 +77,12 @@
       "title": "Crunchyroll",
       "iconUrl": "https://liteapks.com/wp-content/uploads/2022/04/crunchyroll-150x150.png",
       "category": "Media",
-      "modInfo": "No Ads & Premium",
+      "modInfo": "Premium Unlocked | Ad-Free",
       "specificDownloadUrl": "https://liteapks.com/crunchyroll.html"
     },
     {
       "id": 14,
-      "title": "CapCut Pro",
+      "title": "CapCut",
       "iconUrl": "https://static.vecteezy.com/system/resources/thumbnails/048/759/325/small_2x/capcut-transparent-icon-free-png.png",
       "category": "Editors",
       "modInfo": "Pro Features Unlocked",
@@ -90,66 +90,66 @@
     },
     {
       "id": 15,
-      "title": "Alight Motion Pro",
+      "title": "Alight Motion",
       "iconUrl": "https://liteapks.com/wp-content/uploads/2022/04/alight-motion-150x150.png",
       "category": "Editors",
-      "modInfo": "No Watermark & XML",
+      "modInfo": "No Watermark | XML Support",
       "specificDownloadUrl": "https://liteapks.com/alight-motion.html"
     },
     {
       "id": 16,
-      "title": "InShot Pro",
+      "title": "InShot",
       "iconUrl": "https://liteapks.com/wp-content/uploads/2022/04/video-editor-maker-inshot-150x150.png",
       "category": "Editors",
-      "modInfo": "All Filters Unlocked",
+      "modInfo": "Pro Unlocked | All Filters",
       "specificDownloadUrl": "https://liteapks.com/inshot-pro-3.html"
     },
     {
       "id": 17,
-      "title": "PicsArt Gold",
+      "title": "PicsArt",
       "iconUrl": "https://liteapks.com/wp-content/uploads/2022/04/picsart-photo-video-editor-150x150.png",
       "category": "Editors",
-      "modInfo": "AI Features Unlocked",
+      "modInfo": "Gold Unlocked | AI Features",
       "specificDownloadUrl": "https://liteapks.com/picsart-studio.html"
     },
     {
       "id": 18,
-      "title": "Lightroom Premium",
+      "title": "Adobe Lightroom",
       "iconUrl": "https://liteapks.com/wp-content/uploads/2022/04/lightroom-photo-editor-150x150.png",
       "category": "Editors",
-      "modInfo": "Premium Presets",
+      "modInfo": "Premium Unlocked | Pro Presets",
       "specificDownloadUrl": "https://liteapks.com/adobe-lightroom.html"
     },
     {
       "id": 19,
-      "title": "KineMaster Pro",
+      "title": "KineMaster",
       "iconUrl": "https://liteapks.com/wp-content/uploads/2022/04/kinemaster-video-editor-150x150.png",
       "category": "Editors",
-      "modInfo": "4K Export Unlocked",
+      "modInfo": "Pro Unlocked | 4K Export",
       "specificDownloadUrl": "https://liteapks.com/kinemaster.html"
     },
     {
       "id": 20,
       "title": "Snapchat",
       "iconUrl": "https://liteapks.com/wp-content/uploads/2023/01/snapchat-150x150.jpg",
-      "category": "Editors",
-      "modInfo": "MOD: VIP Unlocked",
+      "category": "Social",
+      "modInfo": "VIP Unlocked",
       "specificDownloadUrl": "https://liteapks.com/snapchat.html"
     },
     {
       "id": 21,
-      "title": "Remini Pro",
+      "title": "Remini",
       "iconUrl": "https://liteapks.com/wp-content/uploads/2022/04/remini-ai-photo-enhancer-150x150.png",
       "category": "Editors",
-      "modInfo": "Unlimited Enhance",
+      "modInfo": "Pro Unlocked | Unlimited Enhance",
       "specificDownloadUrl": "https://liteapks.com/remini-ai-photo-enhancer-2.html"
     },
     {
       "id": 22,
-      "title": "AdGuard Premium",
+      "title": "AdGuard",
       "iconUrl": "https://liteapks.com/wp-content/uploads/2022/04/adguard-content-blocker-for-samsung-and-yandex-150x150.png",
       "category": "Tools",
-      "modInfo": "System-Wide AdBlock",
+      "modInfo": "Premium Unlocked | System AdBlock",
       "specificDownloadUrl": "https://liteapks.com/adguard.html"
     },
     {
@@ -157,31 +157,31 @@
       "title": "X-plore File Manager",
       "iconUrl": "https://liteapks.com/wp-content/uploads/2022/08/x-plore-file-manager-150x150.jpg",
       "category": "Tools",
-      "modInfo": "Donate Version",
+      "modInfo": "Donate Version Unlocked",
       "specificDownloadUrl": "https://liteapks.com/x-plore-file-manager.html"
     },
     {
       "id": 24,
-      "title": "ZArchiver Pro",
+      "title": "ZArchiver",
       "iconUrl": "https://liteapks.com/wp-content/uploads/2023/03/zarchiver-donate-150x150.jpg",
       "category": "Tools",
-      "modInfo": "Pro Features",
+      "modInfo": "Pro Features Unlocked",
       "specificDownloadUrl": "https://liteapks.com/zarchiver-donate.html"
     },
     {
       "id": 25,
-      "title": "ExpressVPN Mod",
+      "title": "ExpressVPN",
       "iconUrl": "https://cdn-icons-png.flaticon.com/512/2548/2548545.png",
       "category": "Tools",
-      "modInfo": "Unlimited VIP Servers",
+      "modInfo": "VIP Servers Unlocked",
       "specificDownloadUrl": "https://liteapks.com/expressvpn.html"
     },
     {
       "id": 26,
-      "title": "Minecraft PE",
+      "title": "Minecraft",
       "iconUrl": "https://liteapks.com/wp-content/uploads/2022/06/minecraft-150x150.png",
       "category": "Games",
-      "modInfo": "Immortality & Skins",
+      "modInfo": "Immortality | Skins Unlocked",
       "specificDownloadUrl": "https://liteapks.com/minecraft.html"
     },
     {
@@ -189,15 +189,15 @@
       "title": "Subway Surfers",
       "iconUrl": "https://liteapks.com/wp-content/uploads/2025/08/download-6-150x150.jpg",
       "category": "Games",
-      "modInfo": "Unlimited Coins/Keys",
+      "modInfo": "Unlimited Coins & Keys",
       "specificDownloadUrl": "https://liteapks.com/subway-surfers.html"
     },
     {
       "id": 28,
-      "title": "GTA San Andreas",
+      "title": "GTA: San Andreas",
       "iconUrl": "https://liteapks.com/wp-content/uploads/2023/12/gta-san-andreas-netflix-150x150.webp",
       "category": "Games",
-      "modInfo": "Cleo Mod Menu",
+      "modInfo": "Netflix Edition | Cleo Mod Menu",
       "specificDownloadUrl": "https://liteapks.com/gta-san-andreas-netflix.html"
     },
     {
@@ -205,7 +205,7 @@
       "title": "8 Ball Pool",
       "iconUrl": "https://liteapks.com/wp-content/uploads/2022/06/8-ball-pool-150x150.png",
       "category": "Games",
-      "modInfo": "Long Lines Mod",
+      "modInfo": "Long Lines Unlocked",
       "specificDownloadUrl": "https://liteapks.com/8-ball-pool.html"
     },
     {
@@ -226,10 +226,10 @@
     },
     {
       "id": 32,
-      "title": "NetherSX2 SD",
+      "title": "NetherSX2",
       "iconUrl": "https://liteapks.com/wp-content/uploads/2025/11/nethersx2-avatar-150x150.png",
       "category": "Emulators",
-      "modInfo": "PS2 Emulator (No Ads)",
+      "modInfo": "PS2 Emulator | Ad-Free",
       "specificDownloadUrl": "https://github.com/nckstwrt/NetherSX2-Turnip/releases/download/v0.6/NetherSX2-v2.2n-4248-Turnip-v0.6.apk"
     },
     {
@@ -237,23 +237,23 @@
       "title": "CloudStream 3",
       "iconUrl": "https://avatars.githubusercontent.com/u/110591699?s=48&v=4",
       "category": "Media",
-      "modInfo": "Ad-Free Anime Tracker",
+      "modInfo": "Ad-Free Streaming",
       "specificDownloadUrl": "https://github.com/recloudstream/cloudstream/releases/download/pre-release/app-prerelease-release.apk"
     },
     {
       "id": 34,
-      "title": "DevCheck Pro",
+      "title": "DevCheck",
       "iconUrl": "https://liteapks.com/wp-content/uploads/2022/07/devcheck-device-system-info-150x150.jpg",
       "category": "Tools",
-      "modInfo": "Advanced System Monitor",
+      "modInfo": "Pro Unlocked | System Monitor",
       "specificDownloadUrl": "https://liteapks.com/devcheck-device-system-info.html"
     },
     {
       "id": 35,
-      "title": "GFX Tool Pro",
+      "title": "GFX Tool",
       "iconUrl": "https://liteapks.com/wp-content/uploads/2022/12/gfx-tool-for-pubg-bgmi-150x150.jpg",
       "category": "Tools",
-      "modInfo": "Max FPS for Shooters",
+      "modInfo": "Pro Unlocked | Max FPS",
       "specificDownloadUrl": "https://liteapks.com/gfx-tool-for-pubg.html"
     },
     {
@@ -261,15 +261,15 @@
       "title": "Solid Explorer",
       "iconUrl": "https://liteapks.com/wp-content/uploads/2022/06/solid-explorer-150x150.png",
       "category": "Tools",
-      "modInfo": "Premium File Manager",
+      "modInfo": "Premium Unlocked",
       "specificDownloadUrl": "https://liteapks.com/solid-explorer-file-manager.html"
     },
     {
       "id": 37,
-      "title": "Nova Launcher Prime",
+      "title": "Nova Launcher",
       "iconUrl": "https://liteapks.com/wp-content/uploads/2022/12/nova-launcher-prime-150x150.jpg",
       "category": "Customization",
-      "modInfo": "Unlocks All Gestures",
+      "modInfo": "Prime Unlocked | All Gestures",
       "specificDownloadUrl": "https://liteapks.com/nova-launcher-prime.html"
     },
     {
@@ -285,7 +285,7 @@
       "title": "Idle Miner Tycoon",
       "iconUrl": "https://liteapks.com/wp-content/uploads/2022/06/idle-miner-tycoon-gold-cash-150x150.png",
       "category": "Games",
-      "modInfo": "Game",
+      "modInfo": "Unlimited Gold & Cash",
       "specificDownloadUrl": "https://liteapks.com/idle-miner-tycoon.html"
     },
     {
@@ -293,7 +293,7 @@
       "title": "Forest",
       "iconUrl": "https://liteapks.com/wp-content/uploads/2022/05/forest-focus-for-productivity-150x150.png",
       "category": "Productivity",
-      "modInfo": "Focus Mode Premium",
+      "modInfo": "Premium Unlocked | Focus Mode",
       "specificDownloadUrl": "https://liteapks.com/forest.html"
     },
     {
@@ -301,7 +301,7 @@
       "title": "Textra SMS",
       "iconUrl": "https://liteapks.com/wp-content/uploads/2022/06/textra-sms-150x150.png",
       "category": "Tools",
-      "modInfo": "Pro Personalization",
+      "modInfo": "Pro Unlocked | Personalization",
       "specificDownloadUrl": "https://liteapks.com/textra-sms.html"
     },
     {
@@ -309,7 +309,7 @@
       "title": "AhaTik Downloader",
       "iconUrl": "https://liteapks.com/wp-content/uploads/2025/06/download-video-no-watermark-150x150.webp",
       "category": "Tools",
-      "modInfo": "Multi-System Emulator",
+      "modInfo": "No Watermark Video Downloader",
       "specificDownloadUrl": "https://liteapks.com/ahatik-downloader.html"
     },
     {
@@ -317,23 +317,23 @@
       "title": "1DM+",
       "iconUrl": "https://liteapks.com/wp-content/uploads/2022/05/1dm-browser-downloader-150x150.png",
       "category": "Tools",
-      "modInfo": "Advanced Download Manager",
+      "modInfo": "Premium Unlocked | Download Manager",
       "specificDownloadUrl": "https://liteapks.com/1dm-browser-downloader.html"
     },
     {
       "id": 46,
-      "title": "Eden",
+      "title": "Eden Emulator",
       "iconUrl": "https://cdn2.steamgriddb.com/icon/51f072c443c5650d9e41d2dfb945c83d.ico",
       "category": "Emulators",
-      "modInfo": "Switch Games for Snapdragon",
+      "modInfo": "Nintendo Switch Emulator",
       "specificDownloadUrl": "https://stable.eden-emu.dev/v0.2.0/Eden-Android-v0.2.0-standard.apk"
     },
     {
       "id": 47,
-      "title": "CamScanner Pro",
+      "title": "CamScanner",
       "iconUrl": "https://liteapks.com/wp-content/uploads/2022/04/camscanner-pdf-scanner-app-150x150.png",
       "category": "Productivity",
-      "modInfo": "Best for Uni Lab Reports",
+      "modInfo": "Pro Unlocked | Premium Scanner",
       "specificDownloadUrl": "https://liteapks.com/camscanner.html"
     },
     {
@@ -341,7 +341,7 @@
       "title": "SD Maid SE",
       "iconUrl": "https://liteapks.com/wp-content/uploads/2023/04/sd-maid-2se-system-cleaner-150x150.jpg",
       "category": "Tools",
-      "modInfo": "Deep System Cleaning (Pro)",
+      "modInfo": "Pro Unlocked | Deep Cleaning",
       "specificDownloadUrl": "https://liteapks.com/sd-maid-2-se-system-cleaner.html"
     },
     {
@@ -349,15 +349,15 @@
       "title": "Mihon",
       "iconUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQLMmbL-Vry3yHnFaorrjAjXOpjysPi8_FhPA&s",
       "category": "Media",
-      "modInfo": "Ad-Free Manga Reader",
+      "modInfo": "Manga Reader | Ad-Free",
       "specificDownloadUrl": "https://github.com/mihonapp/mihon/releases/download/v0.19.9/mihon-arm64-v8a-v0.19.9.apk"
     },
     {
       "id": 50,
-      "title": "Muslim Pro Premium",
+      "title": "Muslim Pro",
       "iconUrl": "https://liteapks.com/wp-content/uploads/2022/05/muslim-pro-quran-athan-prayer-150x150.png",
-      "category": "Tools",
-      "modInfo": "Ad-Free Quran & Azan",
+      "category": "Productivity",
+      "modInfo": "Premium Unlocked | Ad-Free",
       "specificDownloadUrl": "https://liteapks.com/muslim-pro.html"
     },
     {
@@ -365,7 +365,7 @@
       "title": "PPSSPP Gold",
       "iconUrl": "https://liteapks.com/wp-content/uploads/2022/12/ppsspp-gold-psp-emulator-150x150.jpg",
       "category": "Emulators",
-      "modInfo": "PSP Emulator (Max Resolution)",
+      "modInfo": "PSP Emulator | Max Resolution",
       "specificDownloadUrl": "https://liteapks.com/ppsspp-gold-psp-emulator.html"
     },
     {
@@ -373,7 +373,7 @@
       "title": "DuckStation",
       "iconUrl": "https://play-lh.googleusercontent.com/0lQAIz9NFGArLCmXVfyLXwJlBuUPPMKg_rTdcrvtlTM17LLSuujzYfBy7Q9qUi7tiQ=w480-h960-rw",
       "category": "Emulators",
-      "modInfo": "PS1 Emulator (4K Upscaling)",
+      "modInfo": "PS1 Emulator | 4K Upscaling",
       "specificDownloadUrl": "https://play.google.com/store/apps/details?id=com.github.stenzek.duckstation&hl=en_AU&gl=US"
     },
     {
@@ -381,7 +381,7 @@
       "title": "Dolphin Emulator",
       "iconUrl": "https://cdn2.steamgriddb.com/icon/8146f98d564daf7f6cc87d9edcb92705.ico",
       "category": "Emulators",
-      "modInfo": "Wii/GameCube (Snapdragon Opt)",
+      "modInfo": "Wii & GameCube | Optimized",
       "specificDownloadUrl": "https://dl.dolphin-emu.org/releases/2603a/dolphin-2603a.apk"
     },
     {
@@ -397,7 +397,7 @@
       "title": "Vita3K",
       "iconUrl": "https://img.utdstc.com/icon/704/caa/704caaa5873673d74bf461dcf3b4d4bf005db0dc1d5e5faf44c0371d39944ead:600",
       "category": "Emulators",
-      "modInfo": "PS Vita Emulator (Beta)",
+      "modInfo": "PS Vita Emulator",
       "specificDownloadUrl": "https://github.com/Vita3K/Vita3K-Android/releases/download/v12/vita3k-android-release-12.apk"
     },
     {
@@ -405,15 +405,15 @@
       "title": "DraStic DS",
       "iconUrl": "https://liteapks.com/wp-content/uploads/2023/02/drastic-ds-emulator-150x150.jpg",
       "category": "Emulators",
-      "modInfo": "Nintendo DS (Premium)",
+      "modInfo": "Nintendo DS | Premium",
       "specificDownloadUrl": "https://liteapks.com/drastic-ds-emulator.html"
     },
     {
       "id": 57,
-      "title": "Hollow Knight Mobile",
+      "title": "Hollow Knight",
       "iconUrl": "https://liteapks.com/wp-content/uploads/2025/09/hollow-knight-1-150x150.png",
       "category": "Games",
-      "modInfo": "Unofficial Android Port",
+      "modInfo": "Unofficial Port | Full Game",
       "specificDownloadUrl": "https://liteapks.com/hollow-knight.html"
     },
     {
@@ -429,7 +429,7 @@
       "title": "Stardew Valley",
       "iconUrl": "https://liteapks.com/wp-content/uploads/2023/01/stardew-valley-150x150.jpg",
       "category": "Games",
-      "modInfo": "Unlimited Money Mod",
+      "modInfo": "Unlimited Money Menu",
       "specificDownloadUrl": "https://liteapks.com/stardew-valley-1.html"
     },
     {
@@ -437,7 +437,7 @@
       "title": "Zombie Battlefield",
       "iconUrl": "https://liteapks.com/wp-content/uploads/2025/08/zombie-battlefield-150x150.webp",
       "category": "Games",
-      "modInfo": "Full Premium Game",
+      "modInfo": "Full Game Unlocked",
       "specificDownloadUrl": "https://liteapks.com/zombie-battlefield.html"
     },
     {
@@ -445,7 +445,7 @@
       "title": "AutoCAD",
       "iconUrl": "https://liteapks.com/wp-content/uploads/2023/01/autocad-dwg-viewer-editor-150x150.jpg",
       "category": "Productivity",
-      "modInfo": "DWG Viewer & Editor Pro",
+      "modInfo": "Pro Unlocked | DWG Editor",
       "specificDownloadUrl": "https://liteapks.com/autocad.html"
     },
     {
@@ -453,71 +453,71 @@
       "title": "Raising the Divine Archer",
       "iconUrl": "https://liteapks.com/wp-content/uploads/2025/03/rpg-150x150.webp",
       "category": "Games",
-      "modInfo": "MOD: Menu, Damage, God Mode",
+      "modInfo": "Mod Menu | God Mode",
       "specificDownloadUrl": "https://liteapks.com/raising-the-divine-archer.html"
     },
     {
       "id": 63,
-      "title": "Symbolab Pro",
+      "title": "Symbolab",
       "iconUrl": "https://liteapks.com/wp-content/uploads/2022/05/symbolab-math-problem-solver-150x150.png",
       "category": "Tools",
-      "modInfo": "Math Solver Premium",
+      "modInfo": "Pro Unlocked | Math Solver",
       "specificDownloadUrl": "https://liteapks.com/symbolab-math-problem-solver.html"
     },
     {
       "id": 64,
-      "title": "Photomath Plus",
+      "title": "Photomath",
       "iconUrl": "https://liteapks.com/wp-content/uploads/2022/04/photomath-150x150.png",
       "category": "Tools",
-      "modInfo": "Plus Features Unlocked",
+      "modInfo": "Plus Unlocked",
       "specificDownloadUrl": "https://liteapks.com/photomath.html"
     },
     {
       "id": 65,
       "title": "Smart Launcher 6",
       "iconUrl": "https://liteapks.com/wp-content/uploads/2022/04/smart-launcher-6-150x150.png",
-      "category": "Productivity",
-      "modInfo": "Ad-Free Launcher",
+      "category": "Customization",
+      "modInfo": "Pro Unlocked | Ad-Free",
       "specificDownloadUrl": "https://liteapks.com/smart-launcher-6.html"
     },
     {
       "id": 66,
-      "title": "WPS Office Pro",
+      "title": "WPS Office",
       "iconUrl": "https://liteapks.com/wp-content/uploads/2022/04/wps-office-pdfwordexcelppt-150x150.png",
       "category": "Productivity",
-      "modInfo": "Premium Unlocked & No Ads",
+      "modInfo": "Premium Unlocked | Ad-Free",
       "specificDownloadUrl": "https://liteapks.com/wps-office.html"
     },
     {
       "id": 67,
-      "title": "ChatGPT Mod",
+      "title": "ChatGPT",
       "iconUrl": "https://cdn-icons-png.flaticon.com/512/12222/12222588.png",
-      "category": "Tools",
-      "modInfo": "Optimized & Analytics Disabled",
+      "category": "Productivity",
+      "modInfo": "Optimized | No Analytics",
       "specificDownloadUrl": "https://liteapks.com/chatgpt.html"
     },
     {
       "id": 68,
       "title": "Wolfram Alpha",
       "iconUrl": "https://liteapks.com/wp-content/uploads/2023/01/wolframalpha-150x150.jpg",
-      "category": "Tools",
-      "modInfo": "Paid Version Free",
+      "category": "Productivity",
+      "modInfo": "Pro Version Unlocked",
       "specificDownloadUrl": "https://liteapks.com/wolframalpha-2.html"
     },
     {
       "id": 69,
       "title": "RealCalc Plus",
       "iconUrl": "https://liteapks.com/wp-content/uploads/2024/09/realcalc-plus-150x150.webp",
-      "category": "Tools",
-      "modInfo": "Scientific Calculator Pro",
+      "category": "Productivity",
+      "modInfo": "Pro Version Unlocked",
       "specificDownloadUrl": "https://liteapks.com/realcalc.html"
     },
     {
       "id": 70,
-      "title": "TapScanner Pro",
+      "title": "TapScanner",
       "iconUrl": "https://liteapks.com/wp-content/uploads/2022/05/scanner-app-to-pdf-tapscanner-150x150.png",
       "category": "Productivity",
-      "modInfo": "PDF Scanner Premium",
+      "modInfo": "Premium Unlocked | PDF Scanner",
       "specificDownloadUrl": "https://liteapks.com/tapscanner.html"
     },
     {
@@ -533,7 +533,7 @@
       "title": "Tasker",
       "iconUrl": "https://liteapks.com/wp-content/uploads/2024/01/tasker-150x150.webp",
       "category": "Tools",
-      "modInfo": "Automation Premium",
+      "modInfo": "Premium Automation Unlocked",
       "specificDownloadUrl": "https://liteapks.com/tasker.html"
     },
     {
@@ -546,18 +546,18 @@
     },
     {
       "id": 74,
-      "title": "AccuBattery Pro",
+      "title": "AccuBattery",
       "iconUrl": "https://liteapks.com/wp-content/uploads/2022/06/accubattery-150x150.png",
       "category": "Tools",
-      "modInfo": "Battery Health Tracker",
+      "modInfo": "Pro Unlocked | Battery Tracker",
       "specificDownloadUrl": "https://liteapks.com/accubattery.html"
     },
     {
       "id": 75,
-      "title": "App Cloner Premium",
+      "title": "App Cloner",
       "iconUrl": "https://liteapks.com/wp-content/uploads/2022/05/app-cloner-premium-150x150.png",
       "category": "Tools",
-      "modInfo": "Clone Any App",
+      "modInfo": "Premium Unlocked",
       "specificDownloadUrl": "https://liteapks.com/app-cloner.html"
     },
     {
@@ -570,18 +570,18 @@
     },
     {
       "id": 77,
-      "title": "KWGT Pro",
+      "title": "KWGT Kustom Widget",
       "iconUrl": "https://play-lh.googleusercontent.com/3suGedYA-1i1u4X9YGyqwriR0qYWWfbxD787f5Cw2jmnEMC_uohihcq8M4woVrUPbw=w480-h960-rw",
       "category": "Customization",
-      "modInfo": "Custom Widgets Unlocked",
+      "modInfo": "Pro Unlocked | Custom Widgets",
       "specificDownloadUrl": "https://liteapks.com/kwgt-kustom-widget-maker.html"
     },
     {
       "id": 78,
-      "title": "Mico",
+      "title": "Mico Live Wallpapers",
       "iconUrl": "https://liteapks.com/wp-content/uploads/2025/03/mico-live-wallpaper-widget-150x150.webp",
       "category": "Customization",
-      "modInfo": "Live PC Wallpapers",
+      "modInfo": "Premium Live Wallpapers",
       "specificDownloadUrl": "https://liteapks.com/mico-live-wallpaper-widget.html"
     },
     {
@@ -589,7 +589,7 @@
       "title": "Pika! Super Wallpaper",
       "iconUrl": "https://liteapks.com/wp-content/uploads/2024/01/pika-super-wallpaper-150x150.webp",
       "category": "Customization",
-      "modInfo": "Pitch Black 4K Backgrounds",
+      "modInfo": "4K Backgrounds Unlocked",
       "specificDownloadUrl": "https://liteapks.com/pika-super-wallpaper.html"
     },
     {
@@ -602,34 +602,34 @@
     },
     {
       "id": 81,
-      "title": "Snapseed Mod",
+      "title": "Snapseed",
       "iconUrl": "https://liteapks.com/wp-content/uploads/2023/02/snapseed-150x150.jpg",
       "category": "Editors",
-      "modInfo": "Dark Theme & Optimized",
+      "modInfo": "Optimized | Dark Theme",
       "specificDownloadUrl": "https://liteapks.com/snapseed.html"
     },
     {
       "id": 82,
-      "title": "VSCO Pro",
+      "title": "VSCO",
       "iconUrl": "https://liteapks.com/wp-content/uploads/2022/04/vsco-photo-video-editor-150x150.png",
       "category": "Editors",
-      "modInfo": "All Filters Unlocked",
+      "modInfo": "Pro Unlocked | All Filters",
       "specificDownloadUrl": "https://liteapks.com/vsco-photo-video-editor.html"
     },
     {
       "id": 83,
-      "title": "PixelLab Pro",
+      "title": "PixelLab",
       "iconUrl": "https://liteapks.com/wp-content/uploads/2022/06/pixellab-text-on-pictures-150x150.png",
       "category": "Editors",
-      "modInfo": "Ad-Free & Fonts Added",
+      "modInfo": "Pro Unlocked | Custom Fonts",
       "specificDownloadUrl": "https://liteapks.com/pixellab.html"
     },
     {
       "id": 84,
-      "title": "Node Video Pro",
+      "title": "Node Video",
       "iconUrl": "https://liteapks.com/wp-content/uploads/2022/05/node-video-pro-video-editor-150x150.png",
       "category": "Editors",
-      "modInfo": "PC-Level Editing",
+      "modInfo": "Pro Unlocked | PC-Level Editing",
       "specificDownloadUrl": "https://liteapks.com/node-video.html"
     },
     {
@@ -637,23 +637,23 @@
       "title": "Motion Ninja",
       "iconUrl": "https://liteapks.com/wp-content/uploads/2022/04/motion-ninja-video-editor-150x150.png",
       "category": "Editors",
-      "modInfo": "Keyframe Animation Unlocked",
+      "modInfo": "Pro Unlocked | Animations",
       "specificDownloadUrl": "https://liteapks.com/motion-ninja-video-editor.html"
     },
     {
       "id": 86,
-      "title": "PhotoRoom Pro",
+      "title": "PhotoRoom",
       "iconUrl": "https://liteapks.com/wp-content/uploads/2022/04/photoroom-studio-photo-editor-150x150.png",
       "category": "Editors",
-      "modInfo": "Pro AI Features",
+      "modInfo": "Pro Unlocked | AI Features",
       "specificDownloadUrl": "https://liteapks.com/photoroom-studio-photo-editor-2.html"
     },
     {
       "id": 87,
-      "title": "Mojo Pro",
+      "title": "Mojo",
       "iconUrl": "https://liteapks.com/wp-content/uploads/2022/07/mojo-stories-reels-maker-150x150.jpg",
       "category": "Editors",
-      "modInfo": "Insta Stories Editor",
+      "modInfo": "Pro Unlocked | Stories Editor",
       "specificDownloadUrl": "https://liteapks.com/mojo.html"
     },
     {
@@ -661,7 +661,7 @@
       "title": "VN Video Editor",
       "iconUrl": "https://liteapks.com/wp-content/uploads/2022/06/vn-video-editor-maker-vlognow-150x150.png",
       "category": "Editors",
-      "modInfo": "No Watermark & Pro",
+      "modInfo": "Pro Unlocked | No Watermark",
       "specificDownloadUrl": "https://liteapks.com/vn-video-editor.html"
     },
     {
@@ -669,15 +669,15 @@
       "title": "Lensa AI",
       "iconUrl": "https://liteapks.com/wp-content/uploads/2022/05/lensa-photopictures-editor-150x150.png",
       "category": "Editors",
-      "modInfo": "Premium Avatars Unlocked",
+      "modInfo": "Premium Unlocked | AI Avatars",
       "specificDownloadUrl": "https://liteapks.com/lensa-photo-editor.html"
     },
     {
       "id": 90,
-      "title": "Polarr Pro",
+      "title": "Polarr",
       "iconUrl": "https://liteapks.com/wp-content/uploads/2022/05/polarr-mod-apk-150x150.png",
       "category": "Editors",
-      "modInfo": "All Pro Filters",
+      "modInfo": "Pro Unlocked | All Filters",
       "specificDownloadUrl": "https://liteapks.com/polarr.html"
     },
     {
@@ -685,7 +685,7 @@
       "title": "Aloha Browser",
       "iconUrl": "https://liteapks.com/wp-content/uploads/2022/05/aloha-browser-mod-apk-150x150.png",
       "category": "Tools",
-      "modInfo": "Ultra Ad-Block & Optimized",
+      "modInfo": "Premium Unlocked | Ad-Block",
       "specificDownloadUrl": "https://liteapks.com/aloha-browser.html"
     },
     {
@@ -693,7 +693,7 @@
       "title": "Ornet Browser",
       "iconUrl": "https://liteapks.com/wp-content/uploads/2025/06/ornet-dark-web-browser-150x150.webp",
       "category": "Tools",
-      "modInfo": "Maximum Privacy Network",
+      "modInfo": "Premium Privacy Unlocked",
       "specificDownloadUrl": "https://liteapks.com/ornet-dark-web-browser.html"
     },
     {
@@ -701,7 +701,7 @@
       "title": "1.1.1.1 WARP+",
       "iconUrl": "https://liteapks.com/wp-content/uploads/2022/04/1-1-1-1-faster-safer-internet-150x150.png",
       "category": "Tools",
-      "modInfo": "Unlimited WARP+ Data",
+      "modInfo": "Unlimited WARP+ Unlocked",
       "specificDownloadUrl": "https://liteapks.com/1-1-1-1.html"
     },
     {
@@ -709,7 +709,7 @@
       "title": "Tomato VPN",
       "iconUrl": "https://liteapks.com/wp-content/uploads/2023/01/tomato-vpn-vpn-proxy-150x150.jpg",
       "category": "Tools",
-      "modInfo": "Fast & Secure Servers",
+      "modInfo": "VIP Servers Unlocked",
       "specificDownloadUrl": "https://liteapks.com/tomato-vpn.html"
     },
     {
@@ -717,15 +717,15 @@
       "title": "Reddit ReVanced",
       "iconUrl": "https://liteapks.com/wp-content/uploads/2022/04/reddit-150x150.png",
       "category": "Social",
-      "modInfo": "Ad-Free & Premium UI",
+      "modInfo": "Premium UI | Ad-Free",
       "specificDownloadUrl": "https://liteapks.com/reddit.html"
     },
     {
       "id": 96,
-      "title": "Discord Mod",
+      "title": "Discord",
       "iconUrl": "https://cdn-icons-png.flaticon.com/512/5968/5968756.png",
       "category": "Social",
-      "modInfo": "Amoled Theme & Anti-Delete",
+      "modInfo": "AMOLED Theme | Anti-Delete",
       "specificDownloadUrl": "https://liteapks.com/discord.html"
     },
     {
@@ -733,7 +733,7 @@
       "title": "Aniyomi",
       "iconUrl": "https://aniyomi.net/wp-content/uploads/2022/12/Aniyomi-Favicon.png",
       "category": "Media",
-      "modInfo": "Anime & Manga Tracker",
+      "modInfo": "Anime & Manga | Ad-Free",
       "specificDownloadUrl": "https://github.com/aniyomiorg/aniyomi/releases/download/v0.18.1.2/aniyomi-arm64-v8a-v0.18.1.2.apk"
     },
     {
@@ -741,44 +741,44 @@
       "title": "MicroG Morphe",
       "iconUrl": "https://downloadr2.apkmirror.com/wp-content/uploads/2024/04/MicroG_round.png",
       "category": "Tools",
-      "modInfo": "Required for Modded Youtube",
+      "modInfo": "YouTube ReVanced Support",
       "specificDownloadUrl": "https://github.com/MorpheApp/MicroG-RE/releases/download/6.1.4/microg-6.1.4.apk"
     },
     {
       "id": 99,
-      "title": "Terraria MOD",
+      "title": "Terraria",
       "iconUrl": "https://liteapks.com/wp-content/uploads/2022/06/terraria-150x150.png",
       "category": "Games",
-      "modInfo": "MOD: Unlimited Items, Immortality",
+      "modInfo": "Mod Menu | Immortality",
       "specificDownloadUrl": "https://liteapks.com/terraria.html"
     },
     {
       "id": 100,
-      "title": "Webtoon Mod",
+      "title": "Webtoon",
       "iconUrl": "https://liteapks.com/wp-content/uploads/2022/05/webtoon-150x150.png",
       "category": "Media",
-      "modInfo": "Ad-Free Reader",
+      "modInfo": "Premium Unlocked | Ad-Free",
       "specificDownloadUrl": "https://liteapks.com/webtoon.html"
     },
     {
       "id": 101,
-      "title": "SilkSong",
+      "title": "Hollow Knight: Silksong",
       "iconUrl": "https://apkvision.org/wp-content/uploads/2025/09/hollow-knight-silksong-140x140.jpg",
       "category": "Games",
-      "modInfo": "Mod Menu: God Mode, One-Hit Kill, Unlimited Silk/Focus, +999,999 Rosary Beads (Press the Button to Add), Infinite Jumps",
+      "modInfo": "Mod Menu | God Mode | Infinite Jumps",
       "specificDownloadUrl": "https://dl.apkvision.org/hollow-knight-silksong/Silksong-v1.2.0-mod-menu-apkvision.apk"
     },
     {
       "id": 102,
-      "title": "OTR 2",
+      "title": "Off The Road 2",
       "iconUrl": "https://apkvision.org/wp-content/uploads/2026/04/otr-2-140x140.png",
       "category": "Games",
-      "modInfo": "Free in-app purchases, vip club and elite club subscriptions activated",
+      "modInfo": "Free Purchases | VIP Unlocked",
       "specificDownloadUrl": "https://dl.apkvision.org/otr-2-off-the-road-2/OTR2-v1.0.1-mod-apkvision.apk"
     },
     {
       "id": 103,
-      "title": "Grand Theft Auto: Vice City",
+      "title": "GTA: Vice City",
       "iconUrl": "https://apkvision.org/wp-content/uploads/2017/09/2820-140x140.jpg",
       "category": "Games",
       "modInfo": "Unlimited Money",
@@ -789,12 +789,12 @@
       "title": "Bully: Anniversary Edition",
       "iconUrl": "https://apkvision.org/wp-content/uploads/2019/11/Bully-Anniversary-Edition-140x140.png",
       "category": "Games",
-      "modInfo": "Unlock Debug Menu , Enable 60 FPS , Unlimited Money",
+      "modInfo": "Debug Menu | 60FPS | Unlimited Money",
       "specificDownloadUrl": "https://dl.apkvision.org/bully-anniversary-edition/Bully-v1.4.311-mod-menu-apkvision.apk"
     },
     {
       "id": 105,
-      "title": "Grand Theft Auto 3",
+      "title": "GTA III",
       "iconUrl": "https://apkvision.org/wp-content/uploads/2017/09/3166-140x140.jpg",
       "category": "Games",
       "modInfo": "Unlimited Money",
@@ -802,10 +802,10 @@
     },
     {
       "id": 106,
-      "title": "Red Dead Redemption NETFLIX",
+      "title": "Red Dead Redemption",
       "iconUrl": "https://apkvision.org/wp-content/uploads/2025/11/red-dead-redemption-netflix-140x140.png",
       "category": "Games",
-      "modInfo": "unlocked graphics settings (FPS 30/40/60)",
+      "modInfo": "Netflix Edition | 60FPS Unlocked",
       "specificDownloadUrl": "https://dl.apkvision.org/otr-2-off-the-road-2/OTR2-v1.0.1-mod-apkvision.apk"
     },
     {
@@ -813,7 +813,7 @@
       "title": "Blasphemous",
       "iconUrl": "https://apkvision.org/wp-content/uploads/2024/11/blasphemous-140x140.jpg",
       "category": "Games",
-      "modInfo": "God Mode , One-Hit Kill , Free Upgrade",
+      "modInfo": "God Mode | Free Upgrades",
       "specificDownloadUrl": "https://dl.apkvision.org/blasphemous/Blasphemous-v1.9.0-mod-menu-apkvision.apk"
     },
     {
@@ -821,7 +821,7 @@
       "title": "ULTRAKILL",
       "iconUrl": "https://apkvision.org/wp-content/uploads/2025/02/ultrakill-square_2-140x140.png",
       "category": "Games",
-      "modInfo": "Unofficial port",
+      "modInfo": "Unofficial Port | Full Game",
       "specificDownloadUrl": "https://dl.apkvision.org/ultrakill/ULTRAKILL-v8.5-full-apkvision.apk"
     },
     {
@@ -829,15 +829,15 @@
       "title": "INSIDE",
       "iconUrl": "https://apkvision.org/wp-content/uploads/2026/01/INSIDE-GAME-FONT-140x140.png",
       "category": "Games",
-      "modInfo": "unofficial Android release of INSIDE, running via the Eden Nintendo Switch emulator",
+      "modInfo": "Nintendo Switch Port | Full Game",
       "specificDownloadUrl": "https://dl.apkvision.org/inside/INSIDE-v1.0.3-full-apkvision.apk"
     },
     {
       "id": 110,
-      "title": "DAVE THE DIVER",
+      "title": "Dave The Diver",
       "iconUrl": "https://apkvision.org/wp-content/uploads/2025/12/dave_the_diver-square_2-1-140x140.jpg",
       "category": "Games",
-      "modInfo": "Official build (v1.0.30) with full content , DLCs Unlocked",
+      "modInfo": "Full Game | All DLCs Unlocked",
       "specificDownloadUrl": "https://apkvision.org/games/action/dave-the-diver-131882/download/v1.0.30-mod/"
     },
     {
@@ -845,7 +845,7 @@
       "title": "Subnautica",
       "iconUrl": "https://apkvision.org/wp-content/uploads/2025/07/subnautica-140x140.png",
       "category": "Games",
-      "modInfo": "Full",
+      "modInfo": "Full Game Unlocked",
       "specificDownloadUrl": "https://dl.apkvision.org/subnautica/Subnautica-v1.22.83315-full-apkvision.apks"
     },
     {
@@ -853,7 +853,7 @@
       "title": "Bright Memory: Infinite",
       "iconUrl": "https://apkvision.org/wp-content/uploads/2025/01/bright-memory-infinite-140x140.png",
       "category": "Games",
-      "modInfo": "Menu/Unlocked All Paid DLCs",
+      "modInfo": "Mod Menu | All DLCs Unlocked",
       "specificDownloadUrl": "https://dl.apkvision.org/bright-memory-infinite/Bright-Memory-Infinite-v1.31-mod-menu-apkvision.apk"
     },
     {
@@ -861,7 +861,7 @@
       "title": "ARK: Ultimate Mobile",
       "iconUrl": "https://apkvision.org/wp-content/uploads/2024/12/ark-ultimate-mobile-edition-1-140x140.jpg",
       "category": "Games",
-      "modInfo": "All Paid DLC Unlocked (Maps & God Console)",
+      "modInfo": "All DLCs Unlocked | God Console",
       "specificDownloadUrl": "https://dl.apkvision.org/ark-ultimate-mobile-edition/ARK-Ultimate-Mobile-v1.10192-unlocked-apkvision.apk"
     },
     {
@@ -869,15 +869,15 @@
       "title": "Age of History 3",
       "iconUrl": "https://apkvision.org/wp-content/uploads/2024/10/age-of-history-3-1-140x140.png",
       "category": "Games",
-      "modInfo": "Full",
+      "modInfo": "Full Game Unlocked",
       "specificDownloadUrl": "https://dl.apkvision.org/age-of-history-3/Age-of-History-3-v1.136-b13-full-apkvision.apk"
     },
     {
       "id": 115,
-      "title": "Plants vs. Zombies – Hybrid Edition Mod",
+      "title": "PvZ: Hybrid Edition",
       "iconUrl": "https://apkvision.org/wp-content/uploads/2024/09/plants-vs-zombies-hybrid-edition-140x140.png",
       "category": "Games",
-      "modInfo": "Hybrid Edition Mod",
+      "modInfo": "Hybrid Mod | Full Game",
       "specificDownloadUrl": "https://dl.apkvision.org/plants-vs-zombies-hybrid-edition/plants-vs-zombies-hybrid-edition-winlator-pvzzj_2_5_1.apk"
     },
     {
@@ -885,7 +885,7 @@
       "title": "Hotline Miami",
       "iconUrl": "https://apkvision.org/wp-content/uploads/2017/09/Hotline-Miami-Cover-140x140.png",
       "category": "Games",
-      "modInfo": "Full",
+      "modInfo": "Full Game Unlocked",
       "specificDownloadUrl": "https://dl.apkvision.org/hotline-miami/Hotline-Miami-v1.0.180-full-apkvision.apk"
     },
     {
@@ -893,7 +893,7 @@
       "title": "Hotline Miami 2",
       "iconUrl": "https://apkvision.org/wp-content/uploads/2025/10/my55yxg4zr2ptcwaezhd72dgzv9ud9cr-1-140x140.jpg",
       "category": "Games",
-      "modInfo": "Full",
+      "modInfo": "Full Game Unlocked",
       "specificDownloadUrl": "https://dl.apkvision.org/hotline-miami-2/Hotline-Miami-2-Wrong-Number-v0.8.1-full-apkvision.apk"
     },
     {
@@ -901,7 +901,7 @@
       "title": "DREDGE",
       "iconUrl": "https://apkvision.org/wp-content/uploads/2024/10/dredge-140x140.jpg",
       "category": "Games",
-      "modInfo": "Unlocked",
+      "modInfo": "Full Game Unlocked",
       "specificDownloadUrl": "https://dl.apkvision.org/dredge/DREDGE-v1.5.18-b100518171-unlocked-apkvision.apk"
     },
     {
@@ -909,7 +909,7 @@
       "title": "Prince of Persia: Lost Crown",
       "iconUrl": "https://apkvision.org/wp-content/uploads/2025/03/prince-of-persia-lost-crown-140x140.png",
       "category": "Games",
-      "modInfo": "Unlocked + MOD Menu",
+      "modInfo": "Full Game | Mod Menu",
       "specificDownloadUrl": "https://apkvision.org/games/adventure/prince-of-persia-lost-crown-128858/download/v1.1.9-mod/"
     },
     {
@@ -917,15 +917,15 @@
       "title": "Project Zomboid",
       "iconUrl": "https://apkvision.org/wp-content/uploads/2025/09/output-140x140.png",
       "category": "Games",
-      "modInfo": "Full",
+      "modInfo": "Full Game Unlocked",
       "specificDownloadUrl": "https://dl.apkvision.org/project-zomboid/Project-Zomboid-v1.2.0-full-apkvision.apk"
     },
     {
       "id": 121,
-      "title": "GRID™ Legends: Deluxe Edition",
+      "title": "GRID Legends",
       "iconUrl": "https://apkvision.org/wp-content/uploads/2024/10/grid-legends-deluxe-edition-140x140.png",
       "category": "Games",
-      "modInfo": "Full , install Through  ZArchiver or SAI , 20 GB Size",
+      "modInfo": "Deluxe Edition | Full Game",
       "specificDownloadUrl": "https://dl.apkvision.org/grid-legends-deluxe-edition/grid-legends-1.1.4RC7-mod-apkvision.apks"
     },
     {
@@ -933,7 +933,7 @@
       "title": "Planet of Lana",
       "iconUrl": "https://apkvision.org/wp-content/uploads/2025/10/planet-of-lana-1-140x140.jpg",
       "category": "Games",
-      "modInfo": "Full",
+      "modInfo": "Full Game Unlocked",
       "specificDownloadUrl": "https://dl.apkvision.org/planet-of-lana/Planet-of-Lana-v1.6.9-full-apkvision.apk"
     },
     {
@@ -941,7 +941,7 @@
       "title": "Carrion",
       "iconUrl": "https://apkvision.org/wp-content/uploads/2024/10/carrion-140x140.png",
       "category": "Games",
-      "modInfo": "Unlocked",
+      "modInfo": "Full Game Unlocked",
       "specificDownloadUrl": "https://dl.apkvision.org/carrion/Carrion-v1.0.43-unlocked-apkvision.apk"
     },
     {
@@ -949,7 +949,7 @@
       "title": "Nine Sols",
       "iconUrl": "https://apkvision.org/wp-content/uploads/2026/01/ninesols_ava-140x140.jpg",
       "category": "Games",
-      "modInfo": "2.8 GB + Eden Emulator",
+      "modInfo": "Nintendo Switch Port | Full Game",
       "specificDownloadUrl": "https://dl.apkvision.org/nine-sols/Nine-Sols-v1.4-full-apkvision.apk"
     },
     {
@@ -957,23 +957,23 @@
       "title": "Black Border 2",
       "iconUrl": "https://apkvision.org/wp-content/uploads/2024/09/black-border-2-140x140.jpg",
       "category": "Games",
-      "modInfo": "Full",
+      "modInfo": "Full Game Unlocked",
       "specificDownloadUrl": "https://apkvision.org/wp-content/uploads/2024/09/black-border-2-140x140.jpg"
     },
     {
       "id": 126,
-      "title": "Forgotten Memories: Remastered",
+      "title": "Forgotten Memories",
       "iconUrl": "https://apkvision.org/wp-content/uploads/2024/10/forgotten-memories-remastered-140x140.jpg",
       "category": "Games",
-      "modInfo": "Patched/No more deer!",
+      "modInfo": "Remastered | Fully Patched",
       "specificDownloadUrl": "https://dl.apkvision.org/forgotten-memories-remastered/Forgotten-Memories-RE-v1.9.102-full-no-more-deer-apkvision.apk"
     },
     {
       "id": 127,
-      "title": "Age of History 2: Definitive",
+      "title": "Age of History 2",
       "iconUrl": "https://apkvision.org/wp-content/uploads/2026/04/age-of-history-2-definitive-140x140.png",
       "category": "Games",
-      "modInfo": "Full",
+      "modInfo": "Definitive Edition Unlocked",
       "specificDownloadUrl": "https://dl.apkvision.org/age-of-history-2-definitive/Age-of-History-2-Definitive-Edition-v2.01957652812950-full-apkvision.apk"
     },
     {
@@ -981,7 +981,7 @@
       "title": "Where Winds Meet",
       "iconUrl": "https://apkvision.org/wp-content/uploads/2025/01/where-winds-meet-140x140.jpg",
       "category": "Games",
-      "modInfo": "Original No Mods",
+      "modInfo": "Original | No Mods",
       "specificDownloadUrl": "https://dl.apkvision.org/where-winds-meet/Where+Winds+Meet_3.8_apkvision.xapk"
     },
     {
@@ -989,15 +989,15 @@
       "title": "R.E.P.O. Mobile",
       "iconUrl": "https://apkvision.org/wp-content/uploads/2025/04/r-e-p-o-mobile-orignal-game-1-140x140.jpg",
       "category": "Games",
-      "modInfo": "Full",
+      "modInfo": "Full Game Unlocked",
       "specificDownloadUrl": "https://dl.apkvision.org/r-e-p-o-mobile-orignal-game/R.E.P.O.-Mobile-Orignal-Game-v1.0-full-apkvision.apk"
     },
     {
       "id": 130,
-      "title": "Bilibili Premium",
+      "title": "Bilibili",
       "iconUrl": "https://liteapks.com/wp-content/uploads/2022/12/bilibili-150x150.jpg",
       "category": "Media",
-      "modInfo": "HD Anime & No Ads",
+      "modInfo": "Premium Unlocked | Ad-Free",
       "specificDownloadUrl": "https://liteapks.com/bilibili.html"
     }
   ]
