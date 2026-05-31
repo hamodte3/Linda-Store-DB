@@ -6,9 +6,9 @@
       "iconUrl": "https://cdn-icons-png.flaticon.com/512/1384/1384060.png",
       "category": "Exclusive",
       "modInfo": "Best Youtube Mod",
-      "specificDownloadUrl": "https://github.com/mandyoquinha-hash/Morphe-Builds-Beta-MicroG/releases/download/20260392/YouTube.Material.arm64.apk",
-      "packageName": "com.google.android.youtube",
-      "versionName": "20260392"
+      "specificDownloadUrl": "https://github.com/mandyoquinha-hash/Morphe-Builds-Beta-MicroG/releases/download/20260403/YouTube.Material.arm64.apk",
+      "packageName": "app.morphe.android.youtube",
+      "versionName": "21.22.165"
     },
     {
       "id": 2,
