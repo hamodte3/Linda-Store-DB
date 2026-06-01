@@ -992,7 +992,7 @@
       "modInfo": "Full Game Unlocked",
       "specificDownloadUrl": "https://dl.apkvision.org/r-e-p-o-mobile-orignal-game/R.E.P.O.-Mobile-Orignal-Game-v1.0-full-apkvision.apk"
     },
-        {
+    {
       "id": 130,
       "title": "Asuka Player",
       "iconUrl": "https://raw.githubusercontent.com/hamodte3/Linda-Apps/main/icon5.png",
@@ -1055,6 +1055,14 @@
       "category": "Media",
       "modInfo": "Premium Unlocked | Ad-Free",
       "specificDownloadUrl": "https://liteapks.com/bilibili.html"
+    },
+    {
+      "id": 138,
+      "title": "Gold Rush: Miner Simulator",
+      "iconUrl": "https://apkvision.org/wp-content/uploads/2026/06/gold-rush-miner-simulator-3d-140x140.png",
+      "category": "Games",
+      "modInfo": "Free Shopping",
+      "specificDownloadUrl": "https://dl.apkvision.org/gold-rush-miner-simulator-3d/Gold-Rush-3D-Miner-Simulator-v1.2.1.0.3-mod-apkvision.apk"
     }
   ]
 }
