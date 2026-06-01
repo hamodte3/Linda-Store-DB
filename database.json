@@ -996,12 +996,20 @@
       "id": 130,
       "title": "Asuka Player",
       "iconUrl": "https://raw.githubusercontent.com/hamodte3/Linda-Apps/main/icon5.png",
-      "category": "Games",
-      "modInfo": "مشغّل الأنمي السينمائي الأقوى بمظهر AMOLED مينيمال، وسلاسة خرافية مدعومة بتقنيات معالجة ورندرة خارقة (Anime4K & Vulkan).",
+      "category": "Exclusive",
+      "modInfo": "مشغّل الأنمي السينمائي الأقوى بمظهر امولد مينيمال، وسلاسة خرافية مدعومة بتقنيات معالجة ورندرة خارقة (Anime4K & Vulkan).",
       "specificDownloadUrl": "https://github.com/hamodte3/Linda-Apps/releases/download/apps/Asuka_v1.2.9_20260601.apk"
     },
     {
       "id": 131,
+      "title": "Nagram XF",
+      "iconUrl": "https://raw.githubusercontent.com/hamodte3/Linda-Apps/main/N.png",
+      "category": "Exclusive",
+      "modInfo": "Ghost Mode + More!",
+      "specificDownloadUrl": "https://github.com/hamodte3/Linda-Apps/releases/download/apps/NagramXF-v12.7.3.1245.-arm64-v8a.apk"
+    },
+    {
+      "id": 132,
       "title": "Bilibili",
       "iconUrl": "https://liteapks.com/wp-content/uploads/2022/12/bilibili-150x150.jpg",
       "category": "Media",
