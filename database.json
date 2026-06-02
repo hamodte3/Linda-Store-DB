@@ -1619,6 +1619,18 @@
       "specificDownloadUrl": "https://github.com/hamodte3/Linda-Apps/releases/download/apps/app-release.apk",
       "isActive": true,
       "isFeatured": true
+    },
+    {
+      "id": 141,
+      "title": "TikTok Mod Ru",
+      "version": "v45.4.3",
+      "size": "649.5MB",
+      "iconUrl": "https://cdn-icons-png.flaticon.com/512/3046/3046121.png",
+      "category": "Social",
+      "modInfo": "v45.4.3",
+      "specificDownloadUrl": "https://clck.ru/3TxGpG",
+      "isActive": true,
+      "isFeatured": true
     }
   ]
 }
