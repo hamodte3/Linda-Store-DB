@@ -1607,6 +1607,18 @@
       "specificDownloadUrl": "https://dl.apkvision.org/naruto-ultimate-ninja-storm/Ultimate-Ninja-STORM-v1.2.9-unlocked-apkvision.apk",
       "isActive": true,
       "isFeatured": false
+    },
+    {
+      "id": 140,
+      "title": "Nebula YouTube",
+      "version": "V2.0",
+      "size": "40.7K",
+      "iconUrl": "https://raw.githubusercontent.com/hamodte3/Linda-Apps/main/N.png",
+      "category": "Exclusive",
+      "modInfo": "Most Lightweight YouTube Client only 40K!!!",
+      "specificDownloadUrl": "https://github.com/hamodte3/Linda-Apps/releases/download/apps/app-release.apk",
+      "isActive": true,
+      "isFeatured": true
     }
   ]
 }
