@@ -1631,6 +1631,18 @@
       "specificDownloadUrl": "https://clck.ru/3TxGpG",
       "isActive": true,
       "isFeatured": true
+    },
+    {
+      "id": 142,
+      "title": "Buckshot Roulette",
+      "version": "v1.2.2",
+      "size": "352.2MB",
+      "iconUrl": "https://apkvision.org/wp-content/uploads/2024/01/Buckshot-Roulette-140x140.png'",
+      "category": "Games",
+      "modInfo": "Full",
+      "specificDownloadUrl": "https://dl.apkvision.org/buckshot-roulette/buckshot-roulette-v1.2.2-full-apkvision.apk",
+      "isActive": true,
+      "isFeatured": false
     }
   ]
 }
