@@ -1799,6 +1799,18 @@
       "specificDownloadUrl": "https://d.apkpure.com/b/XAPK/com.BPGS.FogHospital?version=latest",
       "isActive": true,
       "isFeatured": true
+    },
+    {
+      "id": 156,
+      "title": "Max Payne Mobile",
+      "version": "v2.1.131",
+      "size": "1.35 GB",
+      "iconUrl": "https://apkvision.org/wp-content/uploads/2019/10/max-payne-mobile-2-140x140.png",
+      "category": "Games",
+      "modInfo": "Full",
+      "specificDownloadUrl": "https://dl.apkvision.org/max-payne-mobile/Max-Payne-v2.1.131-full-apkvision.apk",
+      "isActive": true,
+      "isFeatured": true
     }
   ]
 }
