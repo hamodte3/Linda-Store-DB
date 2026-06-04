@@ -1787,6 +1787,18 @@
       "specificDownloadUrl": "https://dl.apkvision.org/hitman-blood-money-reprisal/hitman-bmr-v1.2RC13-apkvision.apks",
       "isActive": true,
       "isFeatured": true
+    },
+    {
+      "id": 155,
+      "title": "Fog Hospital",
+      "version": "v0.336",
+      "size": "179.3 MB",
+      "iconUrl": "https://apkpure.com/fog-hospital-escape-game/com.BPGS.FogHospital",
+      "category": "Games",
+      "modInfo": "Orginal",
+      "specificDownloadUrl": "https://apkpure.com/fog-hospital-escape-game/com.BPGS.FogHospital",
+      "isActive": true,
+      "isFeatured": true
     }
   ]
 }
