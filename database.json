@@ -1655,6 +1655,18 @@
       "specificDownloadUrl": "https://old-data.apkmini.me/6:/liteapks/Grand%20Theft%20Auto%20IV/Grand-Theft-Auto-IV-v0.1-mod.apk?token=TVRjNE1EVTBNakE0TWc9PQ%3D%3D",
       "isActive": true,
       "isFeatured": true
+    },
+    {
+      "id": 144,
+      "title": "",
+      "version": null,
+      "size": "N/A",
+      "iconUrl": "https://old-data.apkmini.me/6:/liteapks/Grand%20Theft%20Auto%20V/GTA5_v0.8.1_Beta.apk?token=TVRjNE1EVTBNalEzTUE9PQ%3D%3D",
+      "category": "Games",
+      "modInfo": "",
+      "specificDownloadUrl": "",
+      "isActive": true,
+      "isFeatured": true
     }
   ]
 }
