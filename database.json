@@ -1763,6 +1763,18 @@
       "specificDownloadUrl": "https://dl.apkvision.org/tomb-raider-i-iii-remastered/Tomb-Raider-I-III-Remastered-v1.1.0-unlocked-apkvision.apk",
       "isActive": true,
       "isFeatured": true
+    },
+    {
+      "id": 153,
+      "title": "Heart of the Forest",
+      "version": "V1.0",
+      "size": "550.9 MB",
+      "iconUrl": "https://apkvision.org/wp-content/uploads/2026/02/heart-of-the-forest-1-140x140.jpg",
+      "category": "Games",
+      "modInfo": "Unlocked",
+      "specificDownloadUrl": "https://dl.apkvision.org/heart-of-the-forest/Heart-of-the-Forest-v1.0-unlocked-apkvision.apk",
+      "isActive": true,
+      "isFeatured": true
     }
   ]
 }
