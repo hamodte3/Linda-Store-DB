@@ -1751,6 +1751,18 @@
       "specificDownloadUrl": "https://dl.apkvision.org/tiny-bunny/Tiny-Bunny-v5.0.11-unlocked-apkvision.apk",
       "isActive": true,
       "isFeatured": true
+    },
+    {
+      "id": 152,
+      "title": "Tomb Raider I-III Remastered",
+      "version": "v1.1.0",
+      "size": "134.13 MB",
+      "iconUrl": "https://apkvision.org/wp-content/uploads/2026/03/tomb-raider-i-iii-remastered-1-140x140.jpg",
+      "category": "Games",
+      "modInfo": "Unlocked",
+      "specificDownloadUrl": "https://dl.apkvision.org/tomb-raider-i-iii-remastered/Tomb-Raider-I-III-Remastered-v1.1.0-unlocked-apkvision.apk",
+      "isActive": true,
+      "isFeatured": true
     }
   ]
 }
