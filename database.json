@@ -1739,6 +1739,18 @@
       "specificDownloadUrl": "https://dl.apkvision.org/ma-3-president-simulator-pro/Modern-Age-3-Premium-v1.0.33-mod-apkvision.apk",
       "isActive": true,
       "isFeatured": true
+    },
+    {
+      "id": 151,
+      "title": "Tiny Bunny",
+      "version": "v5.0.11",
+      "size": "3.68 GB",
+      "iconUrl": "https://apkvision.org/wp-content/uploads/2023/02/d0b7d0b0d0b9d187d0b8d0ba-interactive-horror-140x140.png",
+      "category": "Games",
+      "modInfo": "Unlocked/Free Shopping",
+      "specificDownloadUrl": "https://dl.apkvision.org/tiny-bunny/Tiny-Bunny-v5.0.11-unlocked-apkvision.apk",
+      "isActive": true,
+      "isFeatured": true
     }
   ]
 }
