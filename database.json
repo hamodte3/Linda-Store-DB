@@ -1703,6 +1703,18 @@
       "specificDownloadUrl": "https://liteapks.com/download/gta-vice-city-definitive-721709/1",
       "isActive": true,
       "isFeatured": true
+    },
+    {
+      "id": 148,
+      "title": "NTE: Neverness to Everness",
+      "version": "v1.0.7.70820",
+      "size": "991.83 MB",
+      "iconUrl": "https://apkvision.org/wp-content/uploads/2026/05/nte-neverness-to-everness-140x140.png",
+      "category": "Games",
+      "modInfo": "Original Game",
+      "specificDownloadUrl": "https://dl.apkvision.org/nte-neverness-to-everness/NTE_%20Neverness%20to%20Everness_1.0.7.70820_apkvision.xapk",
+      "isActive": true,
+      "isFeatured": true
     }
   ]
 }
