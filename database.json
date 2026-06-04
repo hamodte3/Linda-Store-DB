@@ -1667,6 +1667,18 @@
       "specificDownloadUrl": "",
       "isActive": true,
       "isFeatured": true
+    },
+    {
+      "id": 145,
+      "title": "GTA: Liberty City Stories",
+      "version": null,
+      "size": "N/A",
+      "iconUrl": "https://liteapks.com/wp-content/uploads/2022/06/gta-liberty-city-stories-150x150.png",
+      "category": "Games",
+      "modInfo": "Unlimited Money, Infinite sprint, Wanted 0",
+      "specificDownloadUrl": "https://download.liteapks.dev/GTA%20Liberty%20City%20Stories/GTA-LCS-v2.4.379-mod.apk?token=TVRjNE1EVTBNamMwTXc9PQ%3D%3D",
+      "isActive": true,
+      "isFeatured": true
     }
   ]
 }
