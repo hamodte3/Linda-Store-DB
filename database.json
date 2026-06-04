@@ -1679,6 +1679,18 @@
       "specificDownloadUrl": "https://download.liteapks.dev/GTA%20Liberty%20City%20Stories/GTA-LCS-v2.4.379-mod.apk?token=TVRjNE1EVTBNamMwTXc9PQ%3D%3D",
       "isActive": true,
       "isFeatured": true
+    },
+    {
+      "id": 146,
+      "title": "GTA: Chinatown Wars",
+      "version": null,
+      "size": "N/A",
+      "iconUrl": "https://liteapks.com/wp-content/uploads/2022/06/gta-chinatown-wars-150x150.png",
+      "category": "Games",
+      "modInfo": "Money, Ammo, Damage, HP",
+      "specificDownloadUrl": "https://download.liteapks.dev/GTA%20Chinatown%20Wars/GTA-ChinatownWars-v4.4.243-mod.apk?token=TVRjNE1EVTBNekEwTUE9PQ%3D%3D",
+      "isActive": true,
+      "isFeatured": true
     }
   ]
 }
