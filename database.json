@@ -1775,6 +1775,18 @@
       "specificDownloadUrl": "https://dl.apkvision.org/heart-of-the-forest/Heart-of-the-Forest-v1.0-unlocked-apkvision.apk",
       "isActive": true,
       "isFeatured": true
+    },
+    {
+      "id": 154,
+      "title": "Hitman: Blood Money — Reprisal",
+      "version": "v1.2RC13",
+      "size": "3.06 GB",
+      "iconUrl": "https://apkvision.org/wp-content/uploads/2023/11/hitman-blood-money-reprisal-140x140.png",
+      "category": "Games",
+      "modInfo": "Full",
+      "specificDownloadUrl": "https://dl.apkvision.org/hitman-blood-money-reprisal/hitman-bmr-v1.2RC13-apkvision.apks",
+      "isActive": true,
+      "isFeatured": true
     }
   ]
 }
