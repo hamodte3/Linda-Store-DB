@@ -1703,18 +1703,6 @@
       "specificDownloadUrl": "https://liteapks.com/download/gta-vice-city-definitive-721709/1",
       "isActive": true,
       "isFeatured": true
-    },
-    {
-      "id": 148,
-      "title": "Terraria",
-      "version": null,
-      "size": "N/A",
-      "iconUrl": "https://liteapks.com/wp-content/uploads/2022/06/terraria-150x150.png",
-      "category": "Games",
-      "modInfo": "Mod Menu | Immortality",
-      "specificDownloadUrl": "https://liteapks.com/terraria.html",
-      "isActive": true,
-      "isFeatured": false
     }
   ]
 }
