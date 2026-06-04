@@ -1727,6 +1727,18 @@
       "specificDownloadUrl": "https://dl.apkvision.org/beholder-conductor/Beholder-Conductor-v1.0.54-fix-full-apkvision.apk",
       "isActive": true,
       "isFeatured": true
+    },
+    {
+      "id": 150,
+      "title": "MA 3 – President Simulator PRO",
+      "version": "v1.0.33",
+      "size": "570.09 MB",
+      "iconUrl": "https://apkvision.org/wp-content/uploads/2026/04/ma-3-president-simulator-pro-140x140.png",
+      "category": "Games",
+      "modInfo": "Free Shopping",
+      "specificDownloadUrl": "https://dl.apkvision.org/ma-3-president-simulator-pro/Modern-Age-3-Premium-v1.0.33-mod-apkvision.apk",
+      "isActive": true,
+      "isFeatured": true
     }
   ]
 }
