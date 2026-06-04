@@ -1691,6 +1691,18 @@
       "specificDownloadUrl": "https://download.liteapks.dev/GTA%20Chinatown%20Wars/GTA-ChinatownWars-v4.4.243-mod.apk?token=TVRjNE1EVTBNekEwTUE9PQ%3D%3D",
       "isActive": true,
       "isFeatured": true
+    },
+    {
+      "id": 147,
+      "title": "GTA: Vice City – Definitive",
+      "version": "V1.90",
+      "size": "3.48GB",
+      "iconUrl": "https://apkvision.org/wp-content/uploads/2023/12/gta-vice-city-definitive-140x140.png",
+      "category": "Games",
+      "modInfo": "Full - Rockstar version + MOD 60 FPS",
+      "specificDownloadUrl": "https://dl.apkvision.org/gta-vice-city-definitive/GTA-Vice-City-Definitive-60-FPS-v1.90.0-mod-apkvision.apk",
+      "isActive": true,
+      "isFeatured": true
     }
   ]
 }
