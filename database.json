@@ -1715,6 +1715,18 @@
       "specificDownloadUrl": "https://dl.apkvision.org/nte-neverness-to-everness/NTE_%20Neverness%20to%20Everness_1.0.7.70820_apkvision.xapk",
       "isActive": true,
       "isFeatured": true
+    },
+    {
+      "id": 149,
+      "title": "Beholder: Conductor",
+      "version": "v1.0.54",
+      "size": "271.79 MB",
+      "iconUrl": "https://apkvision.org/wp-content/uploads/2026/04/beholder-conductor-140x140.png",
+      "category": "Games",
+      "modInfo": "Full",
+      "specificDownloadUrl": "https://dl.apkvision.org/beholder-conductor/Beholder-Conductor-v1.0.54-fix-full-apkvision.apk",
+      "isActive": true,
+      "isFeatured": true
     }
   ]
 }
