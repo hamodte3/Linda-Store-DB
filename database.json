@@ -1895,6 +1895,18 @@
       "specificDownloadUrl": "https://d.apkpure.com/b/XAPK/com.keplerians.evilnun2?version=latest",
       "isActive": true,
       "isFeatured": true
+    },
+    {
+      "id": 164,
+      "title": "Dark Forest: Lost Story",
+      "version": "V0.99.09",
+      "size": "631.4 MB",
+      "iconUrl": "https://image-eo.winudf.com/v2/image1/ZGFyay5mb3Jlc3QubG9zdC5zdG9yeS5ob3Jyb3Iuc2NhcnkuZnJlZS5hbmRyb2lkX2ljb25fMTYwMTU2MDc0NF8wOTM/icon.webp?w=280&fakeurl=1&type=.webp",
+      "category": "Games",
+      "modInfo": "Full Game",
+      "specificDownloadUrl": "https://d.apkpure.com/b/XAPK/dark.forest.lost.story.horror.scary.free.android?version=latest",
+      "isActive": true,
+      "isFeatured": true
     }
   ]
 }
