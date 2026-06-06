@@ -2087,6 +2087,18 @@
       "specificDownloadUrl": "https://dl.apkvision.org/five-nights-at-freddys-3/fnaf-3-mod_2.0.4-apkvision.apk",
       "isActive": true,
       "isFeatured": true
+    },
+    {
+      "id": 180,
+      "title": "Five Nights at Freddys 4",
+      "version": "v2.0.4",
+      "size": "53.8 MB",
+      "iconUrl": "Unlocked",
+      "category": "Games",
+      "modInfo": "Unlocked",
+      "specificDownloadUrl": "https://dl.apkvision.org/five-nights-at-freddys-4/fnaf-4-mod_2.0.4-apkvision.apk",
+      "isActive": true,
+      "isFeatured": true
     }
   ]
 }
