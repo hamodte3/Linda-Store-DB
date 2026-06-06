@@ -1979,6 +1979,18 @@
       "specificDownloadUrl": "https://liteapks.com/download/crunchyroll-behind-the-frame-642168/1",
       "isActive": true,
       "isFeatured": true
+    },
+    {
+      "id": 171,
+      "title": "PUBG Mobile KR",
+      "version": "v4.4.0",
+      "size": "1.3 GB",
+      "iconUrl": "https://apkpure.net/ar/pubg-mobile-app/com.pubg.krmobile/download",
+      "category": "Games",
+      "modInfo": "Original",
+      "specificDownloadUrl": "https://d.apkpure.net/b/XAPK/com.pubg.krmobile?version=latest",
+      "isActive": true,
+      "isFeatured": true
     }
   ]
 }
