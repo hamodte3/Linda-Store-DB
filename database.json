@@ -2099,6 +2099,18 @@
       "specificDownloadUrl": "https://dl.apkvision.org/five-nights-at-freddys-4/fnaf-4-mod_2.0.4-apkvision.apk",
       "isActive": true,
       "isFeatured": true
+    },
+    {
+      "id": 181,
+      "title": "Bendy: Lone Wolf",
+      "version": "v2.0.2",
+      "size": "1.12 GB",
+      "iconUrl": "https://apkvision.org/wp-content/uploads/2024/10/bendy-lone-wolf-140x140.png",
+      "category": "Games",
+      "modInfo": "Full",
+      "specificDownloadUrl": "https://dl.apkvision.org/bendy-lone-wolf/Lone-Wolf-v2.0.2-full-apkvision.apk",
+      "isActive": true,
+      "isFeatured": true
     }
   ]
 }
