@@ -1919,6 +1919,18 @@
       "specificDownloadUrl": "https://d.apkpure.com/b/XAPK/se.itatake.restinpieces?version=latest",
       "isActive": true,
       "isFeatured": true
+    },
+    {
+      "id": 166,
+      "title": "Detention",
+      "version": "V4.8",
+      "size": "780.7 MB",
+      "iconUrl": "https://image-eo.winudf.com/v2/image1/Y29tLnJlZGNhbmRsZWdhbWVzLmRldGVudGlvbl9pY29uXzE1Njc3MzAzOTRfMDgz/icon.webp?w=280&fakeurl=1&type=.webp",
+      "category": "Games",
+      "modInfo": "Full Game",
+      "specificDownloadUrl": "https://d.apkpure.com/b/XAPK/com.redcandlegames.detention?version=latest",
+      "isActive": true,
+      "isFeatured": true
     }
   ]
 }
