@@ -1847,6 +1847,18 @@
       "specificDownloadUrl": "https://d.apkpure.com/b/APK/com.GOGames.LostWithin?version=latest",
       "isActive": true,
       "isFeatured": true
+    },
+    {
+      "id": 160,
+      "title": "Smiling X Zero: Escape Mystery",
+      "version": "V2.2.9",
+      "size": "180 MB",
+      "iconUrl": "https://image-eo.winudf.com/v2/image1/Y29tLkluZGllRmlzdC5zbWlsaW5neHplcm8uaG9ycm9yZ2FtZXNfaWNvbl8xNjI5OTYxNjQ4XzA2OQ/icon.webp?w=280&fakeurl=1&type=.webp",
+      "category": "Games",
+      "modInfo": "Full Game",
+      "specificDownloadUrl": "https://d.apkpure.com/b/XAPK/com.IndieFist.smilingxzero.horrorgames?version=latest",
+      "isActive": true,
+      "isFeatured": true
     }
   ]
 }
