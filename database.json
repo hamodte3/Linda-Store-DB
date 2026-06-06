@@ -1931,6 +1931,18 @@
       "specificDownloadUrl": "https://d.apkpure.com/b/XAPK/com.redcandlegames.detention?version=latest",
       "isActive": true,
       "isFeatured": true
+    },
+    {
+      "id": 167,
+      "title": "Scary Mansion",
+      "version": "V1.160",
+      "size": "224.7 MB",
+      "iconUrl": "https://image-eo.winudf.com/v2/image1/Y29tLnNreXRlY2dhbWVzLmhvcnJvcmhvdXNlX2ljb25fMTc1MDE2MDcwM18wMjU/icon.webp?w=280&fakeurl=1&type=.webp",
+      "category": "Games",
+      "modInfo": "Full Game",
+      "specificDownloadUrl": "https://d.apkpure.com/b/XAPK/com.skytecgames.horrorhouse?version=latest",
+      "isActive": true,
+      "isFeatured": true
     }
   ]
 }
