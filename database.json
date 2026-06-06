@@ -2051,6 +2051,18 @@
       "specificDownloadUrl": "https://clck.ru/3U32Bv",
       "isActive": true,
       "isFeatured": true
+    },
+    {
+      "id": 177,
+      "title": "Five Nights at Freddy's",
+      "version": "v2.0.7",
+      "size": "111.33 MB",
+      "iconUrl": "https://apkvision.org/wp-content/uploads/2017/09/five-nights-at-freddys-140x140.png",
+      "category": "Games",
+      "modInfo": "Unlocked",
+      "specificDownloadUrl": "https://dl.apkvision.org/five-nights-at-freddys/five-nights-at-freddy-mod_2.0.7-apkvision.apk",
+      "isActive": true,
+      "isFeatured": true
     }
   ]
 }
