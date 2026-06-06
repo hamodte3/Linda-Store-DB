@@ -2003,6 +2003,18 @@
       "specificDownloadUrl": "https://d.apkpure.net/b/XAPK/com.erthlink1.tv?version=latest",
       "isActive": true,
       "isFeatured": true
+    },
+    {
+      "id": 173,
+      "title": "Cuphead",
+      "version": "V1.0.1",
+      "size": "2.02 GB",
+      "iconUrl": "https://i.ibb.co/qLmqJ757/icon.jpg",
+      "category": "Games",
+      "modInfo": "Port | Full Game",
+      "specificDownloadUrl": "https://clck.ru/3U2y2N",
+      "isActive": true,
+      "isFeatured": true
     }
   ]
 }
