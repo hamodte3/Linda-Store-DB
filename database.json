@@ -1811,6 +1811,18 @@
       "specificDownloadUrl": "https://dl.apkvision.org/max-payne-mobile/Max-Payne-v2.1.131-full-apkvision.apk",
       "isActive": true,
       "isFeatured": true
+    },
+    {
+      "id": 157,
+      "title": "The Letter",
+      "version": "v2.4.0",
+      "size": "159.4 MB",
+      "iconUrl": "https://image-eo.winudf.com/v2/image1/Y29tLnl5bS50aGVsZXR0ZXJfaWNvbl8xNjEyMzc1OTg1XzA4Nw/icon.webp?w=280&fakeurl=1&type=.webp",
+      "category": "Games",
+      "modInfo": "https://image-eo.winudf.com/v2/image1/Y29tLnl5bS50aGVsZXR0ZXJfaWNvbl8xNjEyMzc1OTg1XzA4Nw/icon.webp?w=280&fakeurl=1&type=.webp",
+      "specificDownloadUrl": "https://d.apkpure.com/b/APK/com.yym.theletter?version=latest",
+      "isActive": true,
+      "isFeatured": true
     }
   ]
 }
