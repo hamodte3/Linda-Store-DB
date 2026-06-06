@@ -1943,6 +1943,18 @@
       "specificDownloadUrl": "https://d.apkpure.com/b/XAPK/com.skytecgames.horrorhouse?version=latest",
       "isActive": true,
       "isFeatured": true
+    },
+    {
+      "id": 168,
+      "title": "Last Summer",
+      "version": "V1.0.3a",
+      "size": "95.8 MB",
+      "iconUrl": "https://image.winudf.com/v2/image1/anAuZ3IuamF2YV9jb25mLm11ci5sYXN0c3VtbWVyX2ljb25fMTYwMDU0MTMyNV8wMjY/icon.webp?w=360&fakeurl=1&type=.webp",
+      "category": "Games",
+      "modInfo": "Full Game",
+      "specificDownloadUrl": "https://d.apkpure.net/b/APK/jp.gr.java_conf.mur.lastsummer?version=latest",
+      "isActive": true,
+      "isFeatured": true
     }
   ]
 }
