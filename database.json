@@ -1991,6 +1991,18 @@
       "specificDownloadUrl": "https://d.apkpure.net/b/XAPK/com.pubg.krmobile?version=latest",
       "isActive": true,
       "isFeatured": true
+    },
+    {
+      "id": 172,
+      "title": "CEE",
+      "version": "v24.1.0",
+      "size": "34.2 MB",
+      "iconUrl": "https://image.winudf.com/v2/image1/Y29tLmVydGhsaW5rMS50dl9pY29uXzE3NDcxMjY4MDNfMDkx/icon.webp?w=360&fakeurl=1&type=.webp",
+      "category": "Media",
+      "modInfo": "واسع النطاق لجميع الشبكات",
+      "specificDownloadUrl": "https://d.apkpure.net/b/XAPK/com.erthlink1.tv?version=latest",
+      "isActive": true,
+      "isFeatured": true
     }
   ]
 }
