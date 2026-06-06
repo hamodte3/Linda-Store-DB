@@ -2039,6 +2039,18 @@
       "specificDownloadUrl": "https://clck.ru/3U32B2",
       "isActive": true,
       "isFeatured": true
+    },
+    {
+      "id": 176,
+      "title": "Silent Hill 3",
+      "version": "v1.0",
+      "size": "2.02 GB",
+      "iconUrl": "https://i.ibb.co/XZ0G9SHX/icon.jpg",
+      "category": "Games",
+      "modInfo": "Full Game",
+      "specificDownloadUrl": "https://clck.ru/3U32Bv",
+      "isActive": true,
+      "isFeatured": true
     }
   ]
 }
