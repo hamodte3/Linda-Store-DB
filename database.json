@@ -1907,6 +1907,18 @@
       "specificDownloadUrl": "https://d.apkpure.com/b/XAPK/dark.forest.lost.story.horror.scary.free.android?version=latest",
       "isActive": true,
       "isFeatured": true
+    },
+    {
+      "id": 165,
+      "title": "Rest in Pieces",
+      "version": "V1.6.12",
+      "size": "322.7 MB",
+      "iconUrl": "https://image-eo.winudf.com/v2/image1/c2UuaXRhdGFrZS5yZXN0aW5waWVjZXNfaWNvbl8xNzYxMTUwNjE3XzA0OA/icon.webp?w=280&fakeurl=1&type=.webp",
+      "category": "Games",
+      "modInfo": "Full Game",
+      "specificDownloadUrl": "https://d.apkpure.com/b/XAPK/se.itatake.restinpieces?version=latest",
+      "isActive": true,
+      "isFeatured": true
     }
   ]
 }
