@@ -2111,6 +2111,18 @@
       "specificDownloadUrl": "https://dl.apkvision.org/bendy-lone-wolf/Lone-Wolf-v2.0.2-full-apkvision.apk",
       "isActive": true,
       "isFeatured": true
+    },
+    {
+      "id": 182,
+      "title": "Bendy and the Ink Machine",
+      "version": "v1.0.909",
+      "size": "1.03 GB",
+      "iconUrl": "https://apkvision.org/wp-content/uploads/2018/12/bendy-and-the-ink-machine-140x140.png",
+      "category": "Games",
+      "modInfo": "Full",
+      "specificDownloadUrl": "https://dl.apkvision.org/bendy-and-the-ink-machine/Bendy-v1.0.909-full-apkvision.apk",
+      "isActive": true,
+      "isFeatured": true
     }
   ]
 }
