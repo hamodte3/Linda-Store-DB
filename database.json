@@ -2075,6 +2075,18 @@
       "specificDownloadUrl": "https://dl.apkvision.org/five-nights-at-freddys-2/Five-Nights-at-Freddys-2-v2.0.7-mod-apkvision.apk",
       "isActive": true,
       "isFeatured": true
+    },
+    {
+      "id": 179,
+      "title": "Five Nights at Freddy’s 3",
+      "version": "v2.0.4",
+      "size": "62.5 MB",
+      "iconUrl": "https://apkvision.org/wp-content/uploads/2017/09/five-nights-at-freddys-3-140x140.png",
+      "category": "Games",
+      "modInfo": "Unlocked",
+      "specificDownloadUrl": "https://dl.apkvision.org/five-nights-at-freddys-3/fnaf-3-mod_2.0.4-apkvision.apk",
+      "isActive": true,
+      "isFeatured": true
     }
   ]
 }
