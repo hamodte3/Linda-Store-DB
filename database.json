@@ -2015,6 +2015,18 @@
       "specificDownloadUrl": "https://clck.ru/3U2y2N",
       "isActive": true,
       "isFeatured": true
+    },
+    {
+      "id": 174,
+      "title": "Ghost Raider",
+      "version": "V1",
+      "size": "750 MB",
+      "iconUrl": "https://i.ibb.co/5XF3NCRG/icon.jpg",
+      "category": "Games",
+      "modInfo": "Full Game",
+      "specificDownloadUrl": "https://clck.ru/3U329W",
+      "isActive": true,
+      "isFeatured": true
     }
   ]
 }
