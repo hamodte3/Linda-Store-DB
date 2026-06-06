@@ -2123,6 +2123,18 @@
       "specificDownloadUrl": "https://dl.apkvision.org/bendy-and-the-ink-machine/Bendy-v1.0.909-full-apkvision.apk",
       "isActive": true,
       "isFeatured": true
+    },
+    {
+      "id": 183,
+      "title": "Dad's Monster House",
+      "version": "v1.0.26",
+      "size": "706.16 MB",
+      "iconUrl": "v1.0.26",
+      "category": "Games",
+      "modInfo": "Full",
+      "specificDownloadUrl": "https://dl.apkvision.org/dads-monster-house/Dads-Monster-House-v1.0.26-full-apkvision.apk",
+      "isActive": true,
+      "isFeatured": true
     }
   ]
 }
