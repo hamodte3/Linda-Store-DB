@@ -1955,6 +1955,18 @@
       "specificDownloadUrl": "https://d.apkpure.net/b/APK/jp.gr.java_conf.mur.lastsummer?version=latest",
       "isActive": true,
       "isFeatured": true
+    },
+    {
+      "id": 169,
+      "title": "Lumberjack Simulator 3D",
+      "version": "v0.0.3.0",
+      "size": "223.33 MB",
+      "iconUrl": "https://apkvision.org/wp-content/uploads/2026/06/lumberjack-simulator-3d-140x140.png",
+      "category": "Games",
+      "modInfo": "Free Shopping",
+      "specificDownloadUrl": "https://dl.apkvision.org/lumberjack-simulator-3d/Lumberjack-Simulator-3D-v0.0.3.0-mod-apkvision.apk",
+      "isActive": true,
+      "isFeatured": true
     }
   ]
 }
