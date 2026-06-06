@@ -1883,6 +1883,18 @@
       "specificDownloadUrl": "https://d.apkpure.com/b/XAPK/endless.nightmare.horror.scary.free.android?version=latest",
       "isActive": true,
       "isFeatured": true
+    },
+    {
+      "id": 163,
+      "title": "Evil Nun 2",
+      "version": "V1.3.5147",
+      "size": "164.7 MB",
+      "iconUrl": "https://image-eo.winudf.com/v2/image1/Y29tLmtlcGxlcmlhbnMuZXZpbG51bjJfaWNvbl8xNzM4NjAxMjk3XzA4MA/icon.webp?w=280&fakeurl=1&type=.webp",
+      "category": "Games",
+      "modInfo": "Full Game",
+      "specificDownloadUrl": "https://d.apkpure.com/b/XAPK/com.keplerians.evilnun2?version=latest",
+      "isActive": true,
+      "isFeatured": true
     }
   ]
 }
