@@ -1,4 +1,9 @@
 {
+  "updateInfo": {
+    "cloud_version_name": "2.10",
+    "cloud_version_code": 29,
+    "update_url": "https://github.com/hamodte3/Linda-Store-DB/releases/download/latest/store.apk"
+  },
   "apps": [
     {
       "id": 1,
@@ -11,7 +16,7 @@
       "specificDownloadUrl": "https://github.com/mandyoquinha-hash/Morphe-Builds-Beta-MicroG/releases/download/20260471/YouTube.Material.arm64.apk",
       "isActive": true,
       "isFeatured": false
-    },
+   },
     {
       "id": 2,
       "title": "InstaPrime",
