@@ -16,7 +16,7 @@
       "specificDownloadUrl": "https://github.com/mandyoquinha-hash/Morphe-Builds-Beta-MicroG/releases/download/20260471/YouTube.Material.arm64.apk",
       "isActive": true,
       "isFeatured": false
-   },
+    },
     {
       "id": 2,
       "title": "InstaPrime",
@@ -2162,6 +2162,18 @@
       "category": "Games",
       "modInfo": "Full",
       "specificDownloadUrl": "https://dl.apkvision.org/sunset-hills/SunsetHills-v1.0.65-full-apkvision.apk",
+      "isActive": true,
+      "isFeatured": true
+    },
+    {
+      "id": 186,
+      "title": "Doki Doki Literature Club!",
+      "version": "v1.3.11.1",
+      "size": "1 GB",
+      "iconUrl": "https://apkvision.org/wp-content/uploads/2021/01/doki-doki-literature-club-140x140.png",
+      "category": "Games",
+      "modInfo": "Unlocked",
+      "specificDownloadUrl": "https://dl.apkvision.org/doki-doki-literature-club/Doki-Doki-Literature-Club-v1.3.11.1-unlocked-apkvision.apk",
       "isActive": true,
       "isFeatured": true
     }
