@@ -2188,6 +2188,18 @@
       "specificDownloadUrl": "https://clck.ru/3V8Hu8",
       "isActive": true,
       "isFeatured": true
+    },
+    {
+      "id": 188,
+      "title": "Moises",
+      "version": null,
+      "size": "N/A",
+      "iconUrl": "https://liteapks.com/wp-content/uploads/2023/02/moises-the-musicians-app-150x150.jpg",
+      "category": "Tools",
+      "modInfo": "Premium Unlocked",
+      "specificDownloadUrl": "https://liteapks.com/download/moises-126491",
+      "isActive": true,
+      "isFeatured": true
     }
   ]
 }
