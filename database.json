@@ -2176,6 +2176,18 @@
       "specificDownloadUrl": "https://dl.apkvision.org/doki-doki-literature-club/Doki-Doki-Literature-Club-v1.3.11.1-unlocked-apkvision.apk",
       "isActive": true,
       "isFeatured": true
+    },
+    {
+      "id": 187,
+      "title": "InstaPro",
+      "version": "v15.30",
+      "size": "168 MB",
+      "iconUrl": "https://cdn-icons-png.flaticon.com/512/1384/1384063.png",
+      "category": "Social",
+      "modInfo": "Ghost Mode | Customize Fonts & Emojies | No WaterMark | Customized Chat Wall",
+      "specificDownloadUrl": "https://clck.ru/3V8Hu8",
+      "isActive": true,
+      "isFeatured": true
     }
   ]
 }
