@@ -2235,7 +2235,8 @@
       "modInfo": "Best App To Read Manga , Mangwa , Light Novel | Easy and Modern Ui with alot Features",
       "specificDownloadUrl": "https://clck.ru/3VEbhK",
       "isActive": true,
-      "isFeatured": true
+      "isFeatured": true,
+      "vibrantColor": "#000000"
     }
   ]
 }
