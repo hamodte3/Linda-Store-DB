@@ -1,7 +1,7 @@
 {
   "updateInfo": {
-    "cloud_version_name": "3.0",
-    "cloud_version_code": 29,
+    "cloud_version_name": "3.1",
+    "cloud_version_code": 31,
     "update_url": "https://github.com/hamodte3/Linda-Store-DB/releases/download/latest/store.apk"
   },
   "apps": [
