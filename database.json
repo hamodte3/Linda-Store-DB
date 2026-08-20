@@ -1786,6 +1786,27 @@
       "variants": [],
       "isActive": true,
       "isFeatured": true
+    },
+    {
+      "id": 98,
+      "title": "Anime Witcher",
+      "packageName": "com.anime.witcher",
+      "clonePackageName": null,
+      "version": "v1.4.8",
+      "size": "43.9 MB",
+      "iconUrl": "https://i.ibb.co/BV17P9Pj/icon.jpg",
+      "category": "Media",
+      "modInfo": "No Ad | Dns Free | integrated Anime Player | No Trackin & Logging",
+      "description": "منصة بث ترفيهية متخصصة تتيح للمستخدمين مشاهدة مسلسلات وأفلام الأنمي بجودة عالية وبشكل مجاني بالكامل. [1]",
+      "isOpenSource": false,
+      "sourceUrl": null,
+      "vibrantColor": "",
+      "changelog": "",
+      "releaseDate": "2026-08-20",
+      "specificDownloadUrl": "https://clck.ru/3VLQEL",
+      "variants": [],
+      "isActive": true,
+      "isFeatured": true
     }
   ]
 }
