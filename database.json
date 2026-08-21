@@ -66,24 +66,6 @@
       "isFeatured": true
     },
     {
-      "id": 5,
-      "title": "Subway Surfers",
-      "packageName": "com.kiloo.subwaysurf",
-      "version": "v3.64.0",
-      "size": "160 MB",
-      "iconUrl": "https://i.ibb.co/MD1ybygF/icon.jpg",
-      "category": "Games",
-      "modInfo": "Unlimited Coins & Keys",
-      "description": "لعبة الركض اللانهائي الشهيرة بمفاتيح ونقود لا نهائية وفتح جميع الشخصيات والزلاجات تلقائياً.",
-      "isOpenSource": false,
-      "sourceUrl": null,
-      "vibrantColor": "#F39C12",
-      "specificDownloadUrl": "https://dl.apkvision.org/subway-surfers/subway-surfers-mod-3.64.0-apkvision.apk",
-      "variants": [],
-      "isActive": true,
-      "isFeatured": false
-    },
-    {
       "id": 6,
       "title": "GameHub",
       "packageName": "com.gamehub.android",
