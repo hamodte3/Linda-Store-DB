@@ -38,7 +38,12 @@
       "sourceUrl": null,
       "vibrantColor": "#E1306C",
       "specificDownloadUrl": "https://clck.ru/3V8J4J",
-      "variants": [],
+      "variants": [
+        {
+          "name": "Clone",
+          "url": "https://clck.ru/3VLTd3"
+        }
+      ],
       "isActive": true,
       "isFeatured": false
     },
