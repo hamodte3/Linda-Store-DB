@@ -21,7 +21,8 @@
       "specificDownloadUrl": "https://clck.ru/3VLWSK",
       "variants": [],
       "isActive": true,
-      "isFeatured": false
+      "isFeatured": false,
+      "changelog": "✨ الجديد:\n\n• حل مشاكل البث المباشر (Spoof video streams) عبر عميل TVHTML5 DASH.\n• إخفاء زر \"حفظ\" في الشورتس.\n• تحسين واجهة \"إضافة إلى قائمة الانتظار\".\n\n🐛 الإصلاحات:\n• ظهور قائمة الانتظار في وضع الشاشة الكاملة.\n• معاينة السحب (Seekbar) تظهر فقط عند التفعيل."
     },
     {
       "id": 2,
