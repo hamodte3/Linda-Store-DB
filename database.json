@@ -48,24 +48,6 @@
       "isFeatured": false
     },
     {
-      "id": 3,
-      "title": "WhatsApp Gold",
-      "packageName": "com.whatsapp2",
-      "version": "v14.50",
-      "size": "122.0 MB",
-      "iconUrl": "https://cdn-icons-png.flaticon.com/512/311/311337.png",
-      "category": "Social",
-      "modInfo": "Anti-Ban | Advanced Privacy",
-      "description": "واتساب بلس الذهبي ضد الحظر مع ميزات الخصوصية الفائقة، إخفاء الظهور، وتنزيل الحالات بجودة أصلية.",
-      "isOpenSource": false,
-      "sourceUrl": null,
-      "vibrantColor": "#D4AF37",
-      "specificDownloadUrl": "https://github.com/hamodte3/Linda-Apps/releases/download/apps/WA2_Abo3rab_v14.50.apk",
-      "variants": [],
-      "isActive": false,
-      "isFeatured": false
-    },
-    {
       "id": 4,
       "title": "TikTok",
       "packageName": "com.zhiliaoapp.musically",
