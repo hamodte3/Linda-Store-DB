@@ -79,7 +79,12 @@
       "sourceUrl": null,
       "vibrantColor": "#5B2C6F",
       "specificDownloadUrl": "https://clck.ru/3U328K",
-      "variants": [],
+      "variants": [
+        {
+          "name": "Ludashi",
+          "url": "https://clck.ru/3VLUwK"
+        }
+      ],
       "isActive": true,
       "isFeatured": false
     },
