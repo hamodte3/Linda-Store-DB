@@ -94,7 +94,8 @@
         }
       ],
       "isActive": true,
-      "isFeatured": false
+      "isFeatured": false,
+      "useWebView": true
     },
     {
       "id": 7,
