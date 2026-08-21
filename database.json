@@ -38,18 +38,7 @@
       "sourceUrl": null,
       "vibrantColor": "#E1306C",
       "specificDownloadUrl": "https://clck.ru/3V8J4J",
-      "variants": [
-        {
-          "name": "النسخة المستنسخة (Clone)",
-          "packageName": "com.instaprime.android",
-          "url": "https://clck.ru/3V8J4J"
-        },
-        {
-          "name": "النسخة الأساسية (Unclone)",
-          "packageName": "com.instagram.android",
-          "url": "https://clck.ru/PLACEHOLDER_ORG_INSTAPRIME"
-        }
-      ],
+      "variants": [],
       "isActive": true,
       "isFeatured": false
     },
