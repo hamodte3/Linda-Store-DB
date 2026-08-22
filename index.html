@@ -3,78 +3,253 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no">
-    <title>توليد رابط التحميل</title>
+    <title>لوحة إدارة Linda Store</title>
     <script src="https://telegram.org/js/telegram-web-app.js"></script>
     <style>
+        :root {
+            --bg: #000000;
+            --card-bg: #0d0d0d;
+            --border: #1f1f1f;
+            --accent: #00E5FF;
+            --text-main: #FFFFFF;
+            --text-muted: #777777;
+        }
+        * { box-sizing: border-box; }
         body {
-            background-color: #000000;
-            color: #ffffff;
-            font-family: sans-serif;
-            display: flex;
-            justify-content: center;
-            align-items: center;
-            height: 100vh;
+            background-color: var(--bg);
+            color: var(--text-main);
+            font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, sans-serif;
             margin: 0;
             padding: 16px;
-            box-sizing: border-box;
+            display: flex;
+            justify-content: center;
         }
-        .card {
+        .container {
             width: 100%;
-            max-width: 360px;
-            background: #111111;
-            padding: 24px;
-            border-radius: 20px;
-            border: 1px solid #222222;
+            max-width: 420px;
             display: flex;
             flex-direction: column;
             gap: 14px;
+            padding-bottom: 24px;
         }
-        input, textarea {
-            width: 100%;
-            padding: 12px;
-            background: #1a1a1a;
-            border: 1px solid #333;
-            border-radius: 10px;
-            color: #fff;
-            font-size: 14px;
-            outline: none;
-            box-sizing: border-box;
+        .header {
+            text-align: center;
+            padding: 8px 0;
+            border-bottom: 1px solid var(--border);
         }
-        button {
+        .header h2 { margin: 0; font-size: 18px; color: var(--accent); }
+        .header p { margin: 4px 0 0; font-size: 12px; color: var(--text-muted); }
+        
+        .section {
+            background: var(--card-bg);
+            border: 1px solid var(--border);
+            border-radius: 14px;
             padding: 14px;
-            background: #00e5ff;
-            color: #000;
-            font-weight: bold;
-            font-size: 15px;
-            border: none;
-            border-radius: 12px;
-            cursor: pointer;
+            display: flex;
+            flex-direction: column;
+            gap: 10px;
         }
+        .section-title {
+            font-size: 11px;
+            font-weight: bold;
+            color: var(--text-muted);
+            text-transform: uppercase;
+            letter-spacing: 0.8px;
+        }
+        input, select, textarea {
+            width: 100%;
+            background: #161616;
+            border: 1px solid #262626;
+            border-radius: 10px;
+            padding: 10px 12px;
+            color: #fff;
+            font-size: 13px;
+            outline: none;
+            transition: border-color 0.2s;
+        }
+        input:focus, select:focus, textarea:focus {
+            border-color: var(--accent);
+        }
+        .row { display: flex; gap: 10px; }
+        .row > * { flex: 1; }
+        
+        .color-wrapper {
+            display: flex;
+            align-items: center;
+            gap: 10px;
+            background: #161616;
+            border: 1px solid #262626;
+            border-radius: 10px;
+            padding: 6px 12px;
+        }
+        input[type="color"] {
+            width: 30px;
+            height: 30px;
+            padding: 0;
+            border: none;
+            border-radius: 50%;
+            cursor: pointer;
+            background: transparent;
+        }
+        .color-label { font-size: 12px; color: var(--text-muted); }
+        
+        .toggle-row {
+            display: flex;
+            align-items: center;
+            justify-content: space-between;
+            font-size: 13px;
+        }
+        .switch {
+            position: relative;
+            display: inline-block;
+            width: 44px;
+            height: 24px;
+        }
+        .switch input { opacity: 0; width: 0; height: 0; }
+        .slider {
+            position: absolute;
+            cursor: pointer;
+            top: 0; left: 0; right: 0; bottom: 0;
+            background-color: #262626;
+            transition: .3s;
+            border-radius: 24px;
+        }
+        .slider:before {
+            position: absolute;
+            content: "";
+            height: 18px;
+            width: 18px;
+            left: 3px;
+            bottom: 3px;
+            background-color: white;
+            transition: .3s;
+            border-radius: 50%;
+        }
+        input:checked + .slider { background-color: var(--accent); }
+        input:checked + .slider:before { transform: translateX(20px); background-color: #000; }
+        
+        button.submit-btn {
+            width: 100%;
+            background: var(--accent);
+            color: #000;
+            border: none;
+            border-radius: 14px;
+            padding: 14px;
+            font-size: 15px;
+            font-weight: bold;
+            cursor: pointer;
+            box-shadow: 0 4px 14px rgba(0, 229, 255, 0.2);
+            transition: transform 0.1s;
+        }
+        button.submit-btn:active { transform: scale(0.98); }
     </style>
 </head>
 <body>
-    <div class="card">
-        <h3 style="margin:0; text-align:center; color:#00e5ff;">🚀 معالجة الرابط عبر Colab</h3>
-        <input type="text" id="file_name" placeholder="اسم الملف (مثال: game.apk)">
-        <textarea id="source_url" rows="3" placeholder="ألصق الرابط المباشر هنا..."></textarea>
-        <button onclick="sendToColab()">⚡ بدء المعالجة والرفع</button>
+    <div class="container">
+        <div class="header">
+            <h2>⚡ نشر وتجهيز تطبيق جديد</h2>
+            <p>Linda Store Admin Engine</p>
+        </div>
+
+        <!-- 1. المصدر -->
+        <div class="section">
+            <div class="section-title">🔗 مصدر التحميل</div>
+            <textarea id="app_url" rows="2" placeholder="ألصق رابط الملف (Drive / MediaFire / Direct Link)..."></textarea>
+            <div class="toggle-row">
+                <span>استخراج البيانات التلقائي (AAPT)</span>
+                <label class="switch">
+                    <input type="checkbox" id="auto_parse" checked>
+                    <span class="slider"></span>
+                </label>
+            </div>
+        </div>
+
+        <!-- 2. البيانات الأساسية (اختياري) -->
+        <div class="section">
+            <div class="section-title">📱 البيانات الأساسية</div>
+            <input type="text" id="app_title" placeholder="اسم التطبيق (اختياري - يُستخرج تلقائياً)">
+            
+            <div class="row">
+                <select id="app_category">
+                    <option value="Tools">Tools</option>
+                    <option value="Social">Social</option>
+                    <option value="Media">Media</option>
+                    <option value="Games">Games</option>
+                    <option value="Editors">Editors</option>
+                    <option value="Emulators">Emulators</option>
+                    <option value="Customization">Customization</option>
+                    <option value="Productivity">Productivity</option>
+                    <option value="Exclusive">Exclusive</option>
+                </select>
+                
+                <div class="color-wrapper">
+                    <input type="color" id="app_color" value="#00E5FF">
+                    <span class="color-label" id="color_code">#00E5FF</span>
+                </div>
+            </div>
+        </div>
+
+        <!-- 3. المود والمميزات -->
+        <div class="section">
+            <div class="section-title">✨ مميزات التعديل (Mod Features)</div>
+            <textarea id="mod_info" rows="3" placeholder="اكتب كل ميزة في سطر منفصل (اختياري)..."></textarea>
+        </div>
+
+        <!-- 4. خيارات النسخ المتعددة -->
+        <div class="section">
+            <div class="section-title">📦 النسخ المكررة والمعمارية</div>
+            <div class="toggle-row">
+                <span>نسخة مكررة (Clone Package)</span>
+                <label class="switch">
+                    <input type="checkbox" id="is_clone" onchange="toggleCloneInput()">
+                    <span class="slider"></span>
+                </label>
+            </div>
+            <input type="text" id="clone_package" placeholder="اسم حزمة الكلون (مثل com.linda.insta)" style="display: none;">
+            
+            <select id="app_arch">
+                <option value="universal">المعمارية: Universal</option>
+                <option value="arm64-v8a">arm64-v8a</option>
+                <option value="armeabi-v7a">armeabi-v7a</option>
+            </select>
+        </div>
+
+        <button class="submit-btn" onclick="submitToEngine()">⚡ بدء التحميل والمعالجة والنشر</button>
     </div>
 
     <script>
         const tg = window.Telegram.WebApp;
         tg.expand();
 
-        function sendToColab() {
-            const fileName = document.getElementById('file_name').value.trim() || "app.apk";
-            const sourceUrl = document.getElementById('source_url').value.trim();
+        document.getElementById('app_color').addEventListener('input', (e) => {
+            document.getElementById('color_code').textContent = e.target.value.toUpperCase();
+        });
 
-            if (!sourceUrl) {
-                tg.showAlert("يرجى وضع الرابط أولاً!");
+        function toggleCloneInput() {
+            const isClone = document.getElementById('is_clone').checked;
+            document.getElementById('clone_package').style.display = isClone ? 'block' : 'none';
+        }
+
+        function submitToEngine() {
+            const url = document.getElementById('app_url').value.trim();
+            if (!url) {
+                tg.showAlert("يرجى إدخال رابط التحميل!");
                 return;
             }
 
-            // إرسال البيانات لسيرفر Colab عبر شات البوت
-            tg.sendData(JSON.stringify({ file_name: fileName, source_url: sourceUrl }));
+            const payload = {
+                source_url: url,
+                auto_parse: document.getElementById('auto_parse').checked,
+                title: document.getElementById('app_title').value.trim() || null,
+                category: document.getElementById('app_category').value,
+                vibrant_color: document.getElementById('app_color').value,
+                mod_info: document.getElementById('mod_info').value.trim(),
+                is_clone: document.getElementById('is_clone').checked,
+                clone_package: document.getElementById('clone_package').value.trim() || null,
+                arch: document.getElementById('app_arch').value
+            };
+
+            tg.sendData(JSON.stringify(payload));
             tg.close();
         }
     </script>
