@@ -7,10 +7,10 @@
   "apps": [
     {
       "id": 1,
-      "title": "Linda YouTube",
+      "title": "YouTube",
       "packageName": "app.morphe.android.youtube",
-      "version": "v21.33.321",
-      "size": "84.4 MB",
+      "version": "21.33.321",
+      "size": "84.39 MB",
       "iconUrl": "https://cdn-icons-png.flaticon.com/512/1384/1384060.png",
       "category": "Media",
       "modInfo": "Features: No ads + background + PiP 🎧, power-saving AMOLED theme 🎨, automatic care skip + Dislike counter ⏭️.",
@@ -25,7 +25,8 @@
       "specificDownloadUrl": "https://github.com/hamodte3/Linda-Store-DB/releases/download/v_1787368528/YouTube_21.33.321.apk",
       "variants": [],
       "isActive": true,
-      "isFeatured": false
+      "isFeatured": false,
+      "releaseDate": "2026-08-22"
     },
     {
       "id": 2,
