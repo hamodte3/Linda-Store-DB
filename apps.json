@@ -1,5 +1,20 @@
 [
   {
+    "title": "InstaZen",
+    "category": "Tools",
+    "packageName": "com.instazen.android",
+    "clonePackageName": null,
+    "version": "438.0.0.28.88",
+    "size": "148.83 MB",
+    "vibrantColor": "#00e5ff",
+    "modInfo": "",
+    "specificDownloadUrl": "https://github.com/hamodte3/Linda-Store-DB/releases/download/v_1787374059/InstaZen_438.0.0.28.88.apk",
+    "architecture": "universal",
+    "iconUrl": "https://raw.githubusercontent.com/hamodte3/Linda-Store-DB/main/icons/com.instazen.android.png",
+    "releaseDate": "2026-08-22",
+    "id": 1787374067
+  },
+  {
     "title": "InstaPrime",
     "category": "Tools",
     "packageName": "com.instaprime.android",
