@@ -1,5 +1,20 @@
 [
   {
+    "title": "InstaPrime",
+    "category": "Tools",
+    "packageName": "com.instaprime.android",
+    "clonePackageName": null,
+    "version": "435.0.0.37.76",
+    "size": "242.18 MB",
+    "vibrantColor": "#00e5ff",
+    "modInfo": "",
+    "specificDownloadUrl": "https://github.com/hamodte3/Linda-Store-DB/releases/download/v_1787373406/InstaPrime_435.0.0.37.76.apk",
+    "architecture": "universal",
+    "iconUrl": "https://raw.githubusercontent.com/hamodte3/Linda-Store-DB/main/icons/com.instaprime.android.png",
+    "releaseDate": "2026-08-22",
+    "id": 1787373419
+  },
+  {
     "title": "Instagram",
     "category": "Tools",
     "packageName": "com.instagram.android",
