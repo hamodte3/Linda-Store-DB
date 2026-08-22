@@ -1,5 +1,5 @@
 <!DOCTYPE html>
-<html lang="ar" dir="rtl">
+<html lang="en">
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no">
@@ -41,15 +41,12 @@
             line-height: 1.5;
             resize: none;
             outline: none;
+            direction: ltr;
             transition: border-color 0.25s, box-shadow 0.25s;
         }
         textarea:focus {
             border-color: var(--accent);
             box-shadow: 0 0 16px rgba(0, 229, 255, 0.15);
-        }
-        textarea::placeholder {
-            color: #444444;
-            font-size: 13px;
         }
         button.btn {
             width: 100%;
@@ -73,7 +70,7 @@
 </head>
 <body>
     <div class="container">
-        <textarea id="app_url" placeholder="" autofocus></textarea>
+        <textarea id="app_url" autofocus></textarea>
         <button class="btn" onclick="sendToBot()">⚡ ⚡ ⚡ ⚡ ⚡</button>
     </div>
 
