@@ -1,5 +1,20 @@
 [
   {
+    "title": "TikTok",
+    "category": "Tools",
+    "packageName": "com.zhiliaoapp.musically",
+    "clonePackageName": null,
+    "version": "46.4.3",
+    "size": "478.51 MB",
+    "vibrantColor": "#00e5ff",
+    "modInfo": "",
+    "specificDownloadUrl": "https://github.com/hamodte3/Linda-Store-DB/releases/download/v_1787372344/TikTok_46.4.3.apk",
+    "architecture": "universal",
+    "iconUrl": "https://raw.githubusercontent.com/hamodte3/Linda-Store-DB/main/icons/com.zhiliaoapp.musically.png",
+    "releaseDate": "2026-08-22",
+    "id": 1787372368
+  },
+  {
     "title": "شنو الليلة ؟",
     "category": "Tools",
     "packageName": "com.linda.shnoallyla",
