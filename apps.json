@@ -1,5 +1,20 @@
 [
   {
+    "title": "Kuro",
+    "category": "Tools",
+    "packageName": "com.kuro",
+    "clonePackageName": null,
+    "version": "3.5",
+    "size": "8.76 MB",
+    "vibrantColor": "#00e5ff",
+    "modInfo": "",
+    "specificDownloadUrl": "https://github.com/hamodte3/Linda-Store-DB/releases/download/v_1787374158/Kuro_3.5.apk",
+    "architecture": "universal",
+    "iconUrl": "https://raw.githubusercontent.com/hamodte3/Linda-Store-DB/main/icons/com.kuro.png",
+    "releaseDate": "2026-08-22",
+    "id": 1787374161
+  },
+  {
     "title": "InstaZen",
     "category": "Tools",
     "packageName": "com.instazen.android",
