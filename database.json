@@ -128,8 +128,8 @@
       "id": 7,
       "title": "NetherSX2",
       "packageName": "xyz.aethersx2.android",
-      "version": "v0.6",
-      "size": "105.1 MB",
+      "version": "2.2n",
+      "size": "20.6 MB",
       "iconUrl": "https://i.ibb.co/75MSQW5/icon.jpg",
       "category": "Emulators",
       "modInfo": "PS2 Emulator | Ad-Free | Enhanced Performance & Compatibility",
@@ -141,17 +141,18 @@
       "isOpenSource": true,
       "sourceUrl": "https://github.com/Trixarian/NetherSX2-patch",
       "vibrantColor": "#1B4F72",
-      "specificDownloadUrl": "https://clck.ru/3U328L",
+      "specificDownloadUrl": "https://github.com/Trixarian/NetherSX2-patch/releases/download/2.2n/NetherSX2-v2.2n-4248.apk",
       "variants": [],
       "isActive": true,
-      "isFeatured": false
+      "isFeatured": false,
+      "releaseDate": "2026-08-22"
     },
     {
       "id": 8,
       "title": "CloudStream 3",
       "packageName": "com.lagradost.cloudstream3",
-      "version": "v4.0.0",
-      "size": "67.3 MB",
+      "version": "v4.8.0",
+      "size": "68.7 MB",
       "iconUrl": "https://avatars.githubusercontent.com/u/110591699?s=48&v=4",
       "category": "Media",
       "modInfo": "Ad-Free Streaming | Multi-Source Extensions Support",
@@ -163,10 +164,11 @@
       "isOpenSource": true,
       "sourceUrl": "https://github.com/recloudstream/cloudstream",
       "vibrantColor": "#00ADB5",
-      "specificDownloadUrl": "https://github.com/recloudstream/cloudstream/releases/download/pre-release/app-prerelease-release.apk",
+      "specificDownloadUrl": "https://github.com/recloudstream/cloudstream/releases/download/v4.8.0/4.8.0.apk",
       "variants": [],
       "isActive": true,
-      "isFeatured": false
+      "isFeatured": false,
+      "releaseDate": "2026-08-22"
     },
     {
       "id": 9,
@@ -194,8 +196,8 @@
       "id": 10,
       "title": "Mihon",
       "packageName": "eu.kanade.tachiyomi",
-      "version": "v0.19.9",
-      "size": "24.8 MB",
+      "version": "v0.20.4",
+      "size": "26.0 MB",
       "iconUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQLMmbL-Vry3yHnFaorrjAjXOpjysPi8_FhPA&s",
       "category": "Media",
       "modInfo": "Manga & Manhwa Reader | Ad-Free | Offline Library",
@@ -207,10 +209,11 @@
       "isOpenSource": true,
       "sourceUrl": "https://github.com/mihonapp/mihon",
       "vibrantColor": "#4A90E2",
-      "specificDownloadUrl": "https://github.com/mihonapp/mihon/releases/download/v0.19.9/mihon-arm64-v8a-v0.19.9.apk",
+      "specificDownloadUrl": "https://github.com/mihonapp/mihon/releases/download/v0.20.4/mihon-arm64-v8a-v0.20.4.apk",
       "variants": [],
       "isActive": true,
-      "isFeatured": false
+      "isFeatured": false,
+      "releaseDate": "2026-08-22"
     },
     {
       "id": 11,
@@ -238,7 +241,7 @@
       "id": 12,
       "title": "Citra MMJ",
       "packageName": "org.citra.emu.antutu",
-      "version": "v20251112",
+      "version": "20251112",
       "size": "11.6 MB",
       "iconUrl": "https://external-preview.redd.it/citra-released-on-the-play-store-v0-amh8ZZeyH9CV_RT0wSPxDQSjFTY0utUfRL3ZvHVcyYk.jpg?auto=webp&s=158e1a9af0c45a16a6c3f78d6e41dc9e5e16da05",
       "category": "Emulators",
@@ -251,10 +254,11 @@
       "isOpenSource": true,
       "sourceUrl": "https://github.com/weihuoya/citra",
       "vibrantColor": "#FF9500",
-      "specificDownloadUrl": "https://github.com/weihuoya/citra/releases/download/20251112/Citra_MMJ_20251112_Antutu.apk",
+      "specificDownloadUrl": "https://github.com/weihuoya/citra/releases/download/20251112/Citra_MMJ_20251112.apk",
       "variants": [],
       "isActive": true,
-      "isFeatured": false
+      "isFeatured": false,
+      "releaseDate": "2026-08-22"
     },
     {
       "id": 13,
@@ -295,16 +299,17 @@
       "isOpenSource": true,
       "sourceUrl": "https://github.com/termux/termux-app",
       "vibrantColor": "#000000",
-      "specificDownloadUrl": "https://github.com/termux/termux-app/releases/download/v0.118.3/termux-app_v0.118.3+github-debug_arm64-v8a.apk",
+      "specificDownloadUrl": "https://github.com/termux/termux-app/releases/download/v0.118.3/termux-app_v0.118.3%2Bgithub-debug_arm64-v8a.apk",
       "variants": [],
       "isActive": true,
-      "isFeatured": false
+      "isFeatured": false,
+      "releaseDate": "2026-08-22"
     },
     {
       "id": 15,
       "title": "ReVanced Manager",
       "packageName": "app.revanced.manager.flutter",
-      "version": "v2.7.0",
+      "version": "v2.6.0",
       "size": "44.7 MB",
       "iconUrl": "https://cdn-icons-png.flaticon.com/512/3132/3132084.png",
       "category": "Tools",
@@ -317,10 +322,11 @@
       "isOpenSource": true,
       "sourceUrl": "https://github.com/ReVanced/revanced-manager",
       "vibrantColor": "#7057FF",
-      "specificDownloadUrl": "https://github.com/ReVanced/revanced-manager/releases/download/v2.7.0-dev.3/revanced-manager-2.7.0-dev.3.apk",
+      "specificDownloadUrl": "https://github.com/ReVanced/revanced-manager/releases/download/v2.6.0/revanced-manager-2.6.0.apk",
       "variants": [],
       "isActive": true,
-      "isFeatured": false
+      "isFeatured": false,
+      "releaseDate": "2026-08-22"
     },
     {
       "id": 16,
@@ -348,7 +354,7 @@
       "id": 17,
       "title": "MicroG Morphe",
       "packageName": "com.morphe.android.gms",
-      "version": "v6.1.4",
+      "version": "6.1.4",
       "size": "12.8 MB",
       "iconUrl": "https://downloadr2.apkmirror.com/wp-content/uploads/2024/04/MicroG_round.png",
       "category": "Tools",
@@ -364,7 +370,8 @@
       "specificDownloadUrl": "https://github.com/MorpheApp/MicroG-RE/releases/download/6.1.4/microg-6.1.4.apk",
       "variants": [],
       "isActive": true,
-      "isFeatured": false
+      "isFeatured": false,
+      "releaseDate": "2026-08-22"
     },
     {
       "id": 18,
@@ -986,8 +993,8 @@
       "id": 46,
       "title": "Asuka Player",
       "packageName": "com.hamodte3.asuka",
-      "version": "v1.2.9",
-      "size": "37.0 MB",
+      "version": "apps",
+      "size": "51.8 MB",
       "iconUrl": "https://raw.githubusercontent.com/hamodte3/Linda-Apps/main/icon5.png",
       "category": "Exclusive",
       "modInfo": "Cinematic Anime Player | Real-time Anime4K Upscaling | Pure AMOLED Theme | Vulkan Rendering",
@@ -999,17 +1006,18 @@
       "isOpenSource": true,
       "sourceUrl": "https://github.com/hamodte3/Linda-Apps",
       "vibrantColor": "#E74C3C",
-      "specificDownloadUrl": "https://github.com/hamodte3/Linda-Apps/releases/download/apps/Asuka_v1.2.9_20260601.apk",
+      "specificDownloadUrl": "https://github.com/hamodte3/Linda-Apps/releases/download/apps/iGallery.arm64.apk",
       "variants": [],
       "isActive": true,
-      "isFeatured": false
+      "isFeatured": false,
+      "releaseDate": "2026-08-22"
     },
     {
       "id": 47,
       "title": "Nagram XF",
       "packageName": "org.nagram.xf",
-      "version": "v12.9.2",
-      "size": "54.7 MB",
+      "version": "apps",
+      "size": "51.8 MB",
       "iconUrl": "https://i.ibb.co/75MSQW5/icon.jpg",
       "category": "Social",
       "modInfo": "Ghost Mode | Anti-Delete Messages | Save Restricted Media | Enhanced Privacy",
@@ -1021,10 +1029,11 @@
       "isOpenSource": true,
       "sourceUrl": "https://github.com/hamodte3/Linda-Apps",
       "vibrantColor": "#0088CC",
-      "specificDownloadUrl": "https://github.com/hamodte3/Linda-Store-DB/releases/download/v_1787374479/Nagram_XF_12.9.2.apk",
+      "specificDownloadUrl": "https://github.com/hamodte3/Linda-Apps/releases/download/apps/iGallery.arm64.apk",
       "variants": [],
       "isActive": true,
-      "isFeatured": false
+      "isFeatured": false,
+      "releaseDate": "2026-08-22"
     },
     {
       "id": 48,
@@ -1184,8 +1193,8 @@
       "id": 55,
       "title": "Nebula YouTube",
       "packageName": "com.google.android.youtube.pro",
-      "version": "V2.0",
-      "size": "45 KB",
+      "version": "apps",
+      "size": "51.8 MB",
       "iconUrl": "https://i.ibb.co/KcqbfPYn/icon.jpg",
       "category": "Exclusive",
       "modInfo": "World's Most Lightweight YouTube Client (Only 45 KB) | Pure Video Player",
@@ -1197,10 +1206,11 @@
       "isOpenSource": true,
       "sourceUrl": "https://github.com/hamodte3/Linda-Apps",
       "vibrantColor": "#8E44AD",
-      "specificDownloadUrl": "https://github.com/hamodte3/Linda-Store-DB/releases/download/v_1787374573/YouTube_Nebula_999999999.apk",
+      "specificDownloadUrl": "https://github.com/hamodte3/Linda-Apps/releases/download/apps/iGallery.arm64.apk",
       "variants": [],
       "isActive": true,
-      "isFeatured": true
+      "isFeatured": true,
+      "releaseDate": "2026-08-22"
     },
     {
       "id": 56,
@@ -2120,8 +2130,8 @@
       "id": 97,
       "title": "Kuro",
       "packageName": "com.kuro",
-      "version": "v3.5",
-      "size": "8.8 MB",
+      "version": "apps",
+      "size": "51.8 MB",
       "iconUrl": "https://i.ibb.co/9kyHNpYK/icon.jpg",
       "category": "Exclusive",
       "modInfo": "Ultimate Manga, Manhwa & Light Novel Reader | Pure AMOLED UI | Fast Navigation",
@@ -2133,10 +2143,11 @@
       "isOpenSource": true,
       "sourceUrl": "https://github.com/hamodte3/Linda-Apps",
       "vibrantColor": "#000000",
-      "specificDownloadUrl": "https://github.com/hamodte3/Linda-Store-DB/releases/download/v_1787374158/Kuro_3.5.apk",
+      "specificDownloadUrl": "https://github.com/hamodte3/Linda-Apps/releases/download/apps/iGallery.arm64.apk",
       "variants": [],
       "isActive": true,
-      "isFeatured": true
+      "isFeatured": true,
+      "releaseDate": "2026-08-22"
     },
     {
       "id": 98,
