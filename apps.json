@@ -1,5 +1,20 @@
 [
   {
+    "title": "exteraGram",
+    "category": "Tools",
+    "packageName": "com.exteragram.messenger",
+    "clonePackageName": null,
+    "version": "12.9.0",
+    "size": "150.07 MB",
+    "vibrantColor": "#00e5ff",
+    "modInfo": "",
+    "specificDownloadUrl": "https://github.com/hamodte3/Linda-Store-DB/releases/download/v_1787381859/exteraGram_12.9.0.apk",
+    "architecture": "universal",
+    "iconUrl": "https://raw.githubusercontent.com/hamodte3/Linda-Store-DB/main/icons/com.exteragram.messenger.png",
+    "releaseDate": "2026-08-22",
+    "id": 1787381869
+  },
+  {
     "title": "YouTube Nebula",
     "category": "Tools",
     "packageName": "com.google.android.youtube.pro",
