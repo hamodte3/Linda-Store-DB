@@ -23,7 +23,12 @@
       "sourceUrl": "https://github.com/ReVanced",
       "vibrantColor": "#FF0000",
       "specificDownloadUrl": "https://github.com/hamodte3/Linda-Store-DB/releases/download/v_1787368528/YouTube_21.33.321.apk",
-      "variants": [],
+      "variants": [
+        {
+          "name": "MicroG RE",
+          "url": "https://github.com/hamodte3/Linda-Store-DB/releases/download/v_1787372839/MicroG_RE_6.1.4.apk"
+        }
+      ],
       "isActive": true,
       "isFeatured": false,
       "releaseDate": "2026-08-22"
