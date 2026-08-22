@@ -2063,7 +2063,7 @@
     {
       "id": 95,
       "title": "InstaPro",
-      "packageName": "com.instagram.android",
+      "packageName": "com.instapro.android",
       "clonePackageName": "com.instapro.android",
       "version": "v15.30",
       "size": "168 MB",
