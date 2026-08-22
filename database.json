@@ -2086,7 +2086,7 @@
     {
       "id": 96,
       "title": "InstaZen",
-      "packageName": "com.instagram.android",
+      "packageName": "com.instazen.android",
       "clonePackageName": "com.instazen.android",
       "version": "V8.0",
       "size": "148.8 MB",
