@@ -2127,6 +2127,10 @@
           "name": "النسخة الأساسية (Unclone)",
           "packageName": "com.instagram.android",
           "url": "https://clck.ru/PLACEHOLDER_ORG_INSTAZEN"
+        },
+        {
+          "name": "Clone ( المستنسخة )",
+          "url": "https://github.com/hamodte3/Linda-Store-DB/releases/download/v_1787374059/InstaZen_438.0.0.28.88.apk"
         }
       ],
       "isActive": true,
