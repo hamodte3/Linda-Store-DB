@@ -3,250 +3,101 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no">
-    <title>لوحة إدارة Linda Store</title>
+    <title>Linda Store</title>
     <script src="https://telegram.org/js/telegram-web-app.js"></script>
     <style>
         :root {
             --bg: #000000;
             --card-bg: #0d0d0d;
-            --border: #1f1f1f;
+            --border: #1e1e1e;
             --accent: #00E5FF;
-            --text-main: #FFFFFF;
-            --text-muted: #777777;
         }
-        * { box-sizing: border-box; }
+        * { box-sizing: border-box; margin: 0; padding: 0; }
         body {
             background-color: var(--bg);
-            color: var(--text-main);
-            font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, sans-serif;
-            margin: 0;
-            padding: 16px;
             display: flex;
+            align-items: center;
             justify-content: center;
+            min-height: 100vh;
+            padding: 16px;
+            font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, sans-serif;
         }
         .container {
             width: 100%;
-            max-width: 420px;
+            max-width: 380px;
             display: flex;
             flex-direction: column;
-            gap: 14px;
-            padding-bottom: 24px;
+            gap: 12px;
         }
-        .header {
-            text-align: center;
-            padding: 8px 0;
-            border-bottom: 1px solid var(--border);
-        }
-        .header h2 { margin: 0; font-size: 18px; color: var(--accent); }
-        .header p { margin: 4px 0 0; font-size: 12px; color: var(--text-muted); }
-        
-        .section {
+        textarea {
+            width: 100%;
+            height: 140px;
             background: var(--card-bg);
             border: 1px solid var(--border);
-            border-radius: 14px;
-            padding: 14px;
-            display: flex;
-            flex-direction: column;
-            gap: 10px;
-        }
-        .section-title {
-            font-size: 11px;
-            font-weight: bold;
-            color: var(--text-muted);
-            text-transform: uppercase;
-            letter-spacing: 0.8px;
-        }
-        input, select, textarea {
-            width: 100%;
-            background: #161616;
-            border: 1px solid #262626;
-            border-radius: 10px;
-            padding: 10px 12px;
-            color: #fff;
-            font-size: 13px;
+            border-radius: 16px;
+            padding: 16px;
+            color: #FFFFFF;
+            font-size: 14px;
+            line-height: 1.5;
+            resize: none;
             outline: none;
-            transition: border-color 0.2s;
+            transition: border-color 0.25s, box-shadow 0.25s;
         }
-        input:focus, select:focus, textarea:focus {
+        textarea:focus {
             border-color: var(--accent);
+            box-shadow: 0 0 16px rgba(0, 229, 255, 0.15);
         }
-        .row { display: flex; gap: 10px; }
-        .row > * { flex: 1; }
-        
-        .color-wrapper {
-            display: flex;
-            align-items: center;
-            gap: 10px;
-            background: #161616;
-            border: 1px solid #262626;
-            border-radius: 10px;
-            padding: 6px 12px;
-        }
-        input[type="color"] {
-            width: 30px;
-            height: 30px;
-            padding: 0;
-            border: none;
-            border-radius: 50%;
-            cursor: pointer;
-            background: transparent;
-        }
-        .color-label { font-size: 12px; color: var(--text-muted); }
-        
-        .toggle-row {
-            display: flex;
-            align-items: center;
-            justify-content: space-between;
+        textarea::placeholder {
+            color: #444444;
             font-size: 13px;
         }
-        .switch {
-            position: relative;
-            display: inline-block;
-            width: 44px;
-            height: 24px;
-        }
-        .switch input { opacity: 0; width: 0; height: 0; }
-        .slider {
-            position: absolute;
-            cursor: pointer;
-            top: 0; left: 0; right: 0; bottom: 0;
-            background-color: #262626;
-            transition: .3s;
-            border-radius: 24px;
-        }
-        .slider:before {
-            position: absolute;
-            content: "";
-            height: 18px;
-            width: 18px;
-            left: 3px;
-            bottom: 3px;
-            background-color: white;
-            transition: .3s;
-            border-radius: 50%;
-        }
-        input:checked + .slider { background-color: var(--accent); }
-        input:checked + .slider:before { transform: translateX(20px); background-color: #000; }
-        
-        button.submit-btn {
+        button.btn {
             width: 100%;
             background: var(--accent);
-            color: #000;
+            color: #000000;
             border: none;
             border-radius: 14px;
-            padding: 14px;
-            font-size: 15px;
+            padding: 16px;
+            font-size: 18px;
             font-weight: bold;
+            letter-spacing: 2px;
             cursor: pointer;
-            box-shadow: 0 4px 14px rgba(0, 229, 255, 0.2);
-            transition: transform 0.1s;
+            box-shadow: 0 4px 20px rgba(0, 229, 255, 0.25);
+            transition: transform 0.1s, opacity 0.2s;
         }
-        button.submit-btn:active { transform: scale(0.98); }
+        button.btn:active {
+            transform: scale(0.97);
+            opacity: 0.9;
+        }
     </style>
 </head>
 <body>
     <div class="container">
-        <div class="header">
-            <h2>⚡ نشر وتجهيز تطبيق جديد</h2>
-            <p>Linda Store Admin Engine</p>
-        </div>
-
-        <!-- 1. المصدر -->
-        <div class="section">
-            <div class="section-title">🔗 مصدر التحميل</div>
-            <textarea id="app_url" rows="2" placeholder="ألصق رابط الملف (Drive / MediaFire / Direct Link)..."></textarea>
-            <div class="toggle-row">
-                <span>استخراج البيانات التلقائي (AAPT)</span>
-                <label class="switch">
-                    <input type="checkbox" id="auto_parse" checked>
-                    <span class="slider"></span>
-                </label>
-            </div>
-        </div>
-
-        <!-- 2. البيانات الأساسية (اختياري) -->
-        <div class="section">
-            <div class="section-title">📱 البيانات الأساسية</div>
-            <input type="text" id="app_title" placeholder="اسم التطبيق (اختياري - يُستخرج تلقائياً)">
-            
-            <div class="row">
-                <select id="app_category">
-                    <option value="Tools">Tools</option>
-                    <option value="Social">Social</option>
-                    <option value="Media">Media</option>
-                    <option value="Games">Games</option>
-                    <option value="Editors">Editors</option>
-                    <option value="Emulators">Emulators</option>
-                    <option value="Customization">Customization</option>
-                    <option value="Productivity">Productivity</option>
-                    <option value="Exclusive">Exclusive</option>
-                </select>
-                
-                <div class="color-wrapper">
-                    <input type="color" id="app_color" value="#00E5FF">
-                    <span class="color-label" id="color_code">#00E5FF</span>
-                </div>
-            </div>
-        </div>
-
-        <!-- 3. المود والمميزات -->
-        <div class="section">
-            <div class="section-title">✨ مميزات التعديل (Mod Features)</div>
-            <textarea id="mod_info" rows="3" placeholder="اكتب كل ميزة في سطر منفصل (اختياري)..."></textarea>
-        </div>
-
-        <!-- 4. خيارات النسخ المتعددة -->
-        <div class="section">
-            <div class="section-title">📦 النسخ المكررة والمعمارية</div>
-            <div class="toggle-row">
-                <span>نسخة مكررة (Clone Package)</span>
-                <label class="switch">
-                    <input type="checkbox" id="is_clone" onchange="toggleCloneInput()">
-                    <span class="slider"></span>
-                </label>
-            </div>
-            <input type="text" id="clone_package" placeholder="اسم حزمة الكلون (مثل com.linda.insta)" style="display: none;">
-            
-            <select id="app_arch">
-                <option value="universal">المعمارية: Universal</option>
-                <option value="arm64-v8a">arm64-v8a</option>
-                <option value="armeabi-v7a">armeabi-v7a</option>
-            </select>
-        </div>
-
-        <button class="submit-btn" onclick="submitToEngine()">⚡ بدء التحميل والمعالجة والنشر</button>
+        <textarea id="app_url" placeholder="https://..." autofocus></textarea>
+        <button class="btn" onclick="sendToBot()">⚡ ⚡ ⚡ ⚡ ⚡</button>
     </div>
 
     <script>
         const tg = window.Telegram.WebApp;
         tg.expand();
 
-        document.getElementById('app_color').addEventListener('input', (e) => {
-            document.getElementById('color_code').textContent = e.target.value.toUpperCase();
-        });
-
-        function toggleCloneInput() {
-            const isClone = document.getElementById('is_clone').checked;
-            document.getElementById('clone_package').style.display = isClone ? 'block' : 'none';
-        }
-
-        function submitToEngine() {
+        function sendToBot() {
             const url = document.getElementById('app_url').value.trim();
             if (!url) {
-                tg.showAlert("يرجى إدخال رابط التحميل!");
+                tg.showAlert("ألصق الرابط أولاً!");
                 return;
             }
 
             const payload = {
                 source_url: url,
-                auto_parse: document.getElementById('auto_parse').checked,
-                title: document.getElementById('app_title').value.trim() || null,
-                category: document.getElementById('app_category').value,
-                vibrant_color: document.getElementById('app_color').value,
-                mod_info: document.getElementById('mod_info').value.trim(),
-                is_clone: document.getElementById('is_clone').checked,
-                clone_package: document.getElementById('clone_package').value.trim() || null,
-                arch: document.getElementById('app_arch').value
+                auto_parse: true,
+                title: null,
+                category: "Tools",
+                vibrant_color: "#00E5FF",
+                mod_info: "",
+                is_clone: false,
+                clone_package: null,
+                arch: "universal"
             };
 
             tg.sendData(JSON.stringify(payload));
