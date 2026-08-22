@@ -1,5 +1,20 @@
 [
   {
+    "title": "Anime Witcher",
+    "category": "Tools",
+    "packageName": "com.anime.witcher",
+    "clonePackageName": null,
+    "version": "1.4.8",
+    "size": "43.88 MB",
+    "vibrantColor": "#00e5ff",
+    "modInfo": "",
+    "specificDownloadUrl": "https://github.com/hamodte3/Linda-Store-DB/releases/download/v_1787374276/Anime_Witcher_1.4.8.apk",
+    "architecture": "universal",
+    "iconUrl": "https://raw.githubusercontent.com/hamodte3/Linda-Store-DB/main/icons/com.anime.witcher.png",
+    "releaseDate": "2026-08-22",
+    "id": 1787374279
+  },
+  {
     "title": "Kuro",
     "category": "Tools",
     "packageName": "com.kuro",
