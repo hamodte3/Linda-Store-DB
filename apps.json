@@ -1,5 +1,20 @@
 [
   {
+    "title": "InstaPro ♚",
+    "category": "Tools",
+    "packageName": "com.instapro.android",
+    "clonePackageName": null,
+    "version": "431.0.0.47.82",
+    "size": "167.43 MB",
+    "vibrantColor": "#00E5FF",
+    "modInfo": "",
+    "specificDownloadUrl": "https://github.com/hamodte3/Linda-Store-DB/releases/download/v_1787407859/InstaPro___431.0.0.47.82.apk",
+    "architecture": "universal",
+    "iconUrl": "https://raw.githubusercontent.com/hamodte3/Linda-Store-DB/main/icons/com.instapro.android.png",
+    "releaseDate": "2026-08-22",
+    "id": 1787407870
+  },
+  {
     "title": "exteraGram",
     "category": "Tools",
     "packageName": "com.exteragram.messenger",
