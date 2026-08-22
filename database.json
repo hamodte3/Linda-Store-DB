@@ -2180,6 +2180,31 @@
       "variants": [],
       "isActive": true,
       "isFeatured": true
+    },
+    {
+      "id": 99,
+      "title": "Extragram",
+      "packageName": "com.exteragram.messenger",
+      "clonePackageName": null,
+      "version": "v12.9.0",
+      "size": "150 MB",
+      "iconUrl": "https://i.ibb.co/JFRqFjFT/icon.jpg",
+      "category": "Social",
+      "modInfo": "M3E 🛠️\nCustomizable UI 🎨\nAI Features 🤖\nNo Limits 🚀\nPlugins 🔌",
+      "modInfoAr": "M3E 🛠️\nCustomizable UI 🎨\nAI Features 🤖\nNo Limits 🚀\nPlugins 🔌",
+      "description": "نسخة عميل تلقرام تركز على تخصيص الواجهة وسلاستها مع دعم M3E والكثير من اعدادات Ai مع دعم الاضافات لاضافة مميزات لا حدود لها.",
+      "descriptionAr": "نسخة عميل تلقرام تركز على تخصيص الواجهة وسلاستها مع دعم M3E والكثير من اعدادات Ai مع دعم الاضافات لاضافة مميزات لا حدود لها.",
+      "changelog": "",
+      "changelogAr": "",
+      "isOpenSource": false,
+      "sourceUrl": null,
+      "vibrantColor": "#00E5FF",
+      "releaseDate": "2026-08-22",
+      "specificDownloadUrl": "https://github.com/hamodte3/Linda-Store-DB/releases/download/v_1787381859/exteraGram_12.9.0.apk",
+      "variants": [],
+      "useWebView": false,
+      "isActive": true,
+      "isFeatured": true
     }
   ]
 }
