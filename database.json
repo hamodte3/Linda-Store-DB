@@ -2102,7 +2102,12 @@
       "sourceUrl": null,
       "vibrantColor": "#833AB4",
       "specificDownloadUrl": "https://github.com/hamodte3/Linda-Store-DB/releases/download/v_1787373801/Instagram_438.0.0.28.88.apk",
-      "variants": [],
+      "variants": [
+        {
+          "name": "Clone",
+          "url": "https://github.com/hamodte3/Linda-Store-DB/releases/download/v_1787374059/InstaZen_438.0.0.28.88.apk"
+        }
+      ],
       "isActive": true,
       "isFeatured": true
     },
