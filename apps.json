@@ -1,5 +1,20 @@
 [
   {
+    "title": "MicroG RE",
+    "category": "Tools",
+    "packageName": "app.revanced.android.gms",
+    "clonePackageName": null,
+    "version": "6.1.4",
+    "size": "12.77 MB",
+    "vibrantColor": "#00e5ff",
+    "modInfo": "",
+    "specificDownloadUrl": "https://github.com/hamodte3/Linda-Store-DB/releases/download/v_1787372839/MicroG_RE_6.1.4.apk",
+    "architecture": "universal",
+    "iconUrl": "https://raw.githubusercontent.com/hamodte3/Linda-Store-DB/main/icons/app.revanced.android.gms.png",
+    "releaseDate": "2026-08-22",
+    "id": 1787372841
+  },
+  {
     "title": "TikTok Plugin",
     "category": "Tools",
     "packageName": "com.rezvorck.tiktokplugin",
