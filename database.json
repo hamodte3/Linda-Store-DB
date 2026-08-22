@@ -2205,6 +2205,31 @@
       "useWebView": false,
       "isActive": true,
       "isFeatured": true
+    },
+    {
+      "id": 100,
+      "title": "WaifuPX",
+      "packageName": "wpx.galahad.anim",
+      "clonePackageName": null,
+      "version": "lowmotion algae (2026)",
+      "size": "4.69 MB",
+      "iconUrl": "https://i.ibb.co/nMZCX06W/icon.jpg",
+      "category": "Customization",
+      "modInfo": "Anime Wallpapers With Variety in Characters.",
+      "modInfoAr": "Anime Wallpapers With Variety in Characters.",
+      "description": "Anime Wallpapers With Variety in Characters.",
+      "descriptionAr": "Anime Wallpapers With Variety in Characters.",
+      "changelog": "",
+      "changelogAr": "",
+      "isOpenSource": false,
+      "sourceUrl": null,
+      "vibrantColor": "#00E5FF",
+      "releaseDate": "2026-08-22",
+      "specificDownloadUrl": "https://dl4.uplodash.com/download/Mjc0ODYwLS0yMTAzNzU3ODkzfDE3ODc0MTE3Mzh8rI43Fnf0YW0XS9g_UrMQ0Bau8_L69iCQwGLjre95Dug=",
+      "variants": [],
+      "useWebView": false,
+      "isActive": true,
+      "isFeatured": true
     }
   ]
 }
