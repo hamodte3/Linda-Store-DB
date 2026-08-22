@@ -2079,7 +2079,12 @@
       "sourceUrl": null,
       "vibrantColor": "#C13584",
       "specificDownloadUrl": "https://github.com/hamodte3/Linda-Store-DB/releases/download/v_1787407573/Instagram_431.0.0.47.82.apk",
-      "variants": [],
+      "variants": [
+        {
+          "name": "Clone",
+          "url": "https://github.com/hamodte3/Linda-Store-DB/releases/download/v_1787407859/InstaPro___431.0.0.47.82.apk"
+        }
+      ],
       "isActive": true,
       "isFeatured": true
     },
