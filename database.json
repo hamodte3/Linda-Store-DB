@@ -2286,7 +2286,7 @@
       "releaseDate": "2026-08-23",
       "specificDownloadUrl": "https://d.apkpure.com/b/APK/com.fnfhd.fnfhd?version=latest",
       "variants": [],
-      "useWebView": false,
+      "useWebView": true,
       "isActive": true,
       "isFeatured": true
     }
