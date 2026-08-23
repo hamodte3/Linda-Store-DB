@@ -156,20 +156,7 @@
       "sourceUrl": null,
       "vibrantColor": "#5B2C6F",
       "specificDownloadUrl": "https://clck.ru/3VLUtL",
-      "variants": [
-        {
-          "name": "Ludashi",
-          "url": "https://clck.ru/3VLUwK"
-        },
-        {
-          "name": "Genshin",
-          "url": "https://clck.ru/3VLUwK"
-        },
-        {
-          "name": "Pubg",
-          "url": "https://clck.ru/3VLUwJ"
-        }
-      ],
+      "variants": [],
       "isActive": true,
       "isFeatured": false,
       "useWebView": true
