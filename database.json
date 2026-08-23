@@ -35,32 +35,29 @@
       "clonePackageName": "app.revanced.android.gms"
     },
     {
-      "id": 2,
-      "title": "InstaPrime",
+      "title": "Instagram",
+      "category": "Tools",
       "packageName": "com.instagram.android",
-      "clonePackageName": "com.instaprime.android",
-      "version": "v7.1 Beta",
-      "size": "240.8 MB",
-      "iconUrl": "https://cdn-icons-png.flaticon.com/512/1384/1384063.png",
-      "category": "Social",
-      "modInfo": "Ghost Mode | iOS Fonts & Emojis | No Watermark on Reels | Custom Chat Wallpapers | Notification Filter & Advanced Privacy",
-      "modInfoAr": "وضع التخفي الكامل | خطوط وإيموجيات iOS | إزالة العلامة المائية للريلز | تخصيص خلفيات المحادثات | فلترة الإشعارات والمزيد",
-      "description": "Professional Instagram mod featuring full Ghost Mode, iOS-styled fonts and emojis, watermark-free Reels downloading, and custom chat background styling.",
-      "descriptionAr": "تعديل احترافي لإنستغرام بميزات وضع التخفي الكامل، خطوط وإيموجيات iOS، إزالة العلامة المائية للريلز، وتخصيص خلفيات المحادثات.",
+      "clonePackageName": null,
+      "version": "438.0.0.28.88",
+      "size": "148.9 MB",
+      "vibrantColor": "#00E5FF",
+      "modInfo": "",
+      "modInfoAr": "",
+      "description": "",
+      "descriptionAr": "",
       "changelog": "",
       "changelogAr": "",
       "isOpenSource": false,
       "sourceUrl": null,
-      "vibrantColor": "#E1306C",
-      "specificDownloadUrl": "https://github.com/hamodte3/Linda-Store-DB/releases/download/v_1787373029/Instagram_435.0.0.37.76.apk",
-      "variants": [
-        {
-          "name": "Clone",
-          "url": "https://github.com/hamodte3/Linda-Store-DB/releases/download/v_1787373406/InstaPrime_435.0.0.37.76.apk"
-        }
-      ],
+      "excludeFromSync": false,
+      "specificDownloadUrl": "https://github.com/hamodte3/Linda-Store-DB/releases/download/v_1787472128/Instagram_438.0.0.28.88.apk",
+      "useWebView": false,
       "isActive": true,
-      "isFeatured": false
+      "isFeatured": false,
+      "iconUrl": "https://cdn.jsdelivr.net/gh/hamodte3/Linda-Store-DB@main/icons/com.instagram.android.png",
+      "releaseDate": "2026-08-23",
+      "id": 2
     },
     {
       "id": 4,
