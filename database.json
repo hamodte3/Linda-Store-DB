@@ -2246,6 +2246,32 @@
       "iconUrl": "https://cdn.jsdelivr.net/gh/hamodte3/Linda-Store-DB@main/icons/wpx.galahad.anim.png",
       "releaseDate": "2026-08-22",
       "id": 100
+    },
+    {
+      "id": 102,
+      "title": "Cinemana",
+      "packageName": "com.shabakaty.cinemana",
+      "clonePackageName": null,
+      "version": "5.3.3",
+      "size": "16.8 MB",
+      "iconUrl": "https://cdn.jsdelivr.net/gh/hamodte3/Linda-Store-DB@main/icons/cinemana.png",
+      "category": "Media",
+      "modInfo": "سينمانا لمشاهدة الافلام والانميات وجميع المسلسلات لمشتركين ايرثلنك.",
+      "modInfoAr": "سينمانا لمشاهدة الافلام والانميات وجميع المسلسلات لمشتركين ايرثلنك.",
+      "description": "سينمانا لمشاهدة الافلام والانميات وجميع المسلسلات لمشتركين ايرثلنك.",
+      "descriptionAr": "سينمانا لمشاهدة الافلام والانميات وجميع المسلسلات لمشتركين ايرثلنك.",
+      "changelog": "",
+      "changelogAr": "",
+      "isOpenSource": false,
+      "sourceUrl": null,
+      "excludeFromSync": false,
+      "vibrantColor": "#00E5FF",
+      "releaseDate": "2026-08-23",
+      "specificDownloadUrl": "https://github.com/hamodte3/Linda-Store-DB/releases/download/v_1787443059/Cinemana_5.3.3.apk",
+      "variants": [],
+      "useWebView": false,
+      "isActive": true,
+      "isFeatured": true
     }
   ]
 }
