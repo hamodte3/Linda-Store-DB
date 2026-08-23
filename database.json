@@ -2314,6 +2314,32 @@
       "useWebView": true,
       "isActive": true,
       "isFeatured": true
+    },
+    {
+      "id": 107,
+      "title": "",
+      "packageName": "com.ninjamuffin99.funkin",
+      "clonePackageName": null,
+      "version": "0.2.7.1",
+      "size": "142.7 MB",
+      "iconUrl": "https://img.itch.zone/aW1nLzcwODc0MTIucG5n/347x500/C20UhZ.png",
+      "category": "Games",
+      "modInfo": "Fan Made Mods.",
+      "modInfoAr": "Fan Made Mods.",
+      "description": "Fan Made.",
+      "descriptionAr": "من صنع المعجبين.",
+      "changelog": "",
+      "changelogAr": "",
+      "isOpenSource": false,
+      "sourceUrl": null,
+      "excludeFromSync": false,
+      "vibrantColor": "#00E5FF",
+      "releaseDate": "2026-08-23",
+      "specificDownloadUrl": "https://github.com/hamodte3/Linda-Store-DB/releases/download/v_1787468860/Friday_Night_Funkin_0.2.7.1.apk",
+      "variants": [],
+      "useWebView": false,
+      "isActive": true,
+      "isFeatured": true
     }
   ]
 }
