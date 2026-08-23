@@ -81,7 +81,8 @@
       ],
       "isActive": true,
       "isFeatured": false,
-      "releaseDate": "2026-08-22"
+      "releaseDate": "2026-08-22",
+      "clonePackageName": "app.revanced.android.gms"
     },
     {
       "id": 2,
