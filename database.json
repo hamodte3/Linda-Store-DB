@@ -2297,6 +2297,32 @@
       "useWebView": false,
       "isActive": true,
       "isFeatured": true
+    },
+    {
+      "id": 104,
+      "title": "Vodu | فودو",
+      "packageName": "me.vodu.android",
+      "clonePackageName": null,
+      "version": "7.1.7",
+      "size": "13.5 MB",
+      "iconUrl": "https://cdn.jsdelivr.net/gh/hamodte3/Linda-Store-DB@main/icons/vodu___فودو.png",
+      "category": "Media",
+      "modInfo": "تطبيق لمشاهدة الافلام والمسلسلات والانميات وغيرهم من الاعمال بجودة عالية لمشتركين الجزيرة وسوبر سيل وبعض شركات.",
+      "modInfoAr": "تطبيق لمشاهدة الافلام والمسلسلات والانميات وغيرهم من الاعمال بجودة عالية لمشتركين الجزيرة وسوبر سيل وبعض شركات.",
+      "description": "تطبيق لمشاهدة الافلام والمسلسلات والانميات وغيرهم من الاعمال بجودة عالية لمشتركين الجزيرة وسوبر سيل وبعض شركات.",
+      "descriptionAr": "تطبيق لمشاهدة الافلام والمسلسلات والانميات وغيرهم من الاعمال بجودة عالية لمشتركين الجزيرة وسوبر سيل وبعض شركات.",
+      "changelog": "",
+      "changelogAr": "",
+      "isOpenSource": false,
+      "sourceUrl": null,
+      "excludeFromSync": false,
+      "vibrantColor": "#00E5FF",
+      "releaseDate": "2026-08-23",
+      "specificDownloadUrl": "https://github.com/hamodte3/Linda-Store-DB/releases/download/v_1787443383/_._7.1.7.apk",
+      "variants": [],
+      "useWebView": false,
+      "isActive": true,
+      "isFeatured": false
     }
   ]
 }
