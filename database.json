@@ -59,7 +59,8 @@
         }
       ],
       "isActive": true,
-      "isFeatured": true
+      "isFeatured": true,
+      "clonePackageName": "com.rezvorck.tiktokplugin"
     },
     {
       "id": 6,
