@@ -52,7 +52,12 @@
       "sourceUrl": null,
       "vibrantColor": "#EE1D52",
       "specificDownloadUrl": "https://github.com/hamodte3/Linda-Store-DB/releases/download/v_1787372344/TikTok_46.4.3.apk",
-      "variants": [],
+      "variants": [
+        {
+          "name": "الاضافة Plugin",
+          "url": "https://github.com/hamodte3/Linda-Store-DB/releases/download/v_1787372678/TikTok_Plugin_2.45.apk"
+        }
+      ],
       "isActive": true,
       "isFeatured": true,
       "clonePackageName": "com.rezvorck.tiktokplugin"
