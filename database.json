@@ -26,7 +26,12 @@
       "vibrantColor": "#00E5FF",
       "releaseDate": "2026-08-27",
       "specificDownloadUrl": "https://github.com/hamodte3/Linda-Store-DB/releases/download/v_1787809663/Nagram_XF_12.10.0-aa1a56c.apk",
-      "variants": [],
+      "variants": [
+        {
+          "name": "نسخة دعم الإضافات",
+          "url": "https://github.com/hamodte3/Linda-Store-DB/releases/download/v_1787820162/Nagram_XF_12.10.0-b047f2f.apk"
+        }
+      ],
       "useWebView": false,
       "isActive": true,
       "isFeatured": false
