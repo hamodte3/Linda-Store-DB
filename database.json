@@ -7,7 +7,7 @@
   "apps": [
     {
       "title": "Little Misfortune",
-      "category": "Tools",
+      "category": "Games",
       "packageName": "com.KillmondayGames.LittleMisfortune",
       "clonePackageName": null,
       "version": "2.5",
