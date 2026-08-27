@@ -7,7 +7,7 @@
   "apps": [
     {
       "title": "Yuppie Psycho",
-      "category": "Tools",
+      "category": "Games",
       "packageName": "com.crunchyroll.gv.yuppiepsycho",
       "clonePackageName": null,
       "version": "2.7.6b40",
