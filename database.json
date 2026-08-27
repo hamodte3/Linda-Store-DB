@@ -2262,6 +2262,32 @@
       "useWebView": false,
       "isActive": true,
       "isFeatured": true
+    },
+    {
+      "id": 108,
+      "title": "Snaptube",
+      "packageName": "com.snaptube.premium",
+      "clonePackageName": null,
+      "version": "7.66.1.76601001",
+      "size": "54.1 MB",
+      "iconUrl": "https://cdn.jsdelivr.net/gh/hamodte3/Linda-Store-DB@main/icons/com.snaptube.premium.png",
+      "category": "Tools",
+      "modInfo": "No ads, tracking, or forced updates. Cleaner and faster performance 🚀",
+      "modInfoAr": "No ads, tracking, or forced updates. Cleaner and faster performance 🚀",
+      "description": "تطبيق لتحميل الفيديوهات من كل المنصات بصيغة فيديو او صوت.",
+      "descriptionAr": "تطبيق لتحميل الفيديوهات من كل المنصات بصيغة فيديو او صوت.",
+      "changelog": "",
+      "changelogAr": "",
+      "isOpenSource": false,
+      "sourceUrl": null,
+      "excludeFromSync": false,
+      "vibrantColor": "#00E5FF",
+      "releaseDate": "2026-08-27",
+      "specificDownloadUrl": "https://github.com/hamodte3/Linda-Store-DB/releases/download/v_1787800386/Snaptube_7.66.1.76601001.apk",
+      "variants": [],
+      "useWebView": false,
+      "isActive": true,
+      "isFeatured": true
     }
   ]
 }
