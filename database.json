@@ -7,7 +7,7 @@
   "apps": [
     {
       "title": "MovieBox",
-      "category": "Tools",
+      "category": "Media",
       "packageName": "com.community.oneroom",
       "clonePackageName": null,
       "version": "4.0.01.0813.04",
