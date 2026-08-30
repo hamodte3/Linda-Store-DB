@@ -1,7 +1,7 @@
 {
   "updateInfo": {
-    "cloud_version_name": "5.1",
-    "cloud_version_code": 80,
+    "cloud_version_name": "5.4",
+    "cloud_version_code": 100,
     "update_url": "https://github.com/hamodte3/Linda-Store-DB/releases/download/latest/store.apk"
   },
   "apps": [
