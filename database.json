@@ -2726,6 +2726,32 @@
       "useWebView": false,
       "isActive": true,
       "isFeatured": true
+    },
+    {
+      "id": 130,
+      "title": "InstaPrime",
+      "packageName": "com.instagram.android",
+      "clonePackageName": null,
+      "version": "435.0.0.37.76",
+      "size": "248.8 MB",
+      "iconUrl": "https://cdn.jsdelivr.net/gh/hamodte3/Linda-Store-DB@main/icons/instaprime.png",
+      "category": "Social",
+      "modInfo": "👻 وضع التخفي: مشاهدة الستوري والرسائل سرًا.\n🎨 خطوط iOS: إيموجي وخطوط آيفون + دعم ttf.\n📥 تحميل ذكي: تنزيل الريلز والصور بأعلى جودة.\n🚫 بدون إعلانات: تصفح نظيف بدون تتبع.\n🎥 مشغل خارجي: فتح الفيديوهات خارجيًا.\n⏳ تحكم بالوقت: تخصيص توقيت عرض الستوري.\n💧 واجهة زجاجية سائلة.\n👍🏻 تغيير أنماط حركات الإعجاب.\n👇 تنزيل صور GIF والصور من التعليقات.\n🕵️ مؤشر المتابعة: معرفة من يتابعك.",
+      "modInfoAr": "👻 وضع التخفي: مشاهدة الستوري والرسائل سرًا.\n🎨 خطوط iOS: إيموجي وخطوط آيفون + دعم ttf.\n📥 تحميل ذكي: تنزيل الريلز والصور بأعلى جودة.\n🚫 بدون إعلانات: تصفح نظيف بدون تتبع.\n🎥 مشغل خارجي: فتح الفيديوهات خارجيًا.\n⏳ تحكم بالوقت: تخصيص توقيت عرض الستوري.\n💧 واجهة زجاجية سائلة.\n👍🏻 تغيير أنماط حركات الإعجاب.\n👇 تنزيل صور GIF والصور من التعليقات.\n🕵️ مؤشر المتابعة: معرفة من يتابعك.",
+      "description": "تطبيق انستا معدل مع كثير مميزات باداء ممتاز.",
+      "descriptionAr": "تطبيق انستا معدل مع كثير مميزات باداء ممتاز.",
+      "changelog": "",
+      "changelogAr": "",
+      "isOpenSource": false,
+      "sourceUrl": null,
+      "excludeFromSync": false,
+      "vibrantColor": "#00E5FF",
+      "releaseDate": "2026-09-01",
+      "specificDownloadUrl": "https://github.com/hamodte3/Linda-Store-DB/releases/download/v_1788246504/Instagram_435.0.0.37.76.apk",
+      "variants": [],
+      "useWebView": false,
+      "isActive": true,
+      "isFeatured": true
     }
   ]
 }
