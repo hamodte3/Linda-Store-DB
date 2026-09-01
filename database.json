@@ -2465,12 +2465,7 @@
       "sourceUrl": null,
       "vibrantColor": "#C13584",
       "specificDownloadUrl": "https://github.com/hamodte3/Linda-Store-DB/releases/download/v_1788245962/Instagram_439.0.0.38.89.apk",
-      "variants": [
-        {
-          "name": "Clone",
-          "url": "https://github.com/hamodte3/Linda-Store-DB/releases/download/v_1787407859/InstaPro___431.0.0.47.82.apk"
-        }
-      ],
+      "variants": [],
       "isActive": true,
       "isFeatured": true
     },
