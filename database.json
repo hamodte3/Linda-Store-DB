@@ -2748,7 +2748,12 @@
       "vibrantColor": "#00E5FF",
       "releaseDate": "2026-09-01",
       "specificDownloadUrl": "https://github.com/hamodte3/Linda-Store-DB/releases/download/v_1788246504/Instagram_435.0.0.37.76.apk",
-      "variants": [],
+      "variants": [
+        {
+          "name": "Clone",
+          "url": "https://github.com/hamodte3/Linda-Store-DB/releases/download/v_1788246984/InstaPrime_435.0.0.37.76.apk"
+        }
+      ],
       "useWebView": false,
       "isActive": true,
       "isFeatured": true
