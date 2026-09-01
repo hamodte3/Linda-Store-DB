@@ -2731,7 +2731,7 @@
       "id": 130,
       "title": "InstaPrime",
       "packageName": "com.instagram.android",
-      "clonePackageName": null,
+      "clonePackageName": "com.instaprime.android",
       "version": "435.0.0.37.76",
       "size": "248.8 MB",
       "iconUrl": "https://cdn.jsdelivr.net/gh/hamodte3/Linda-Store-DB@main/icons/instaprime.png",
