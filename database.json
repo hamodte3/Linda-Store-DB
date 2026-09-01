@@ -6,7 +6,7 @@
   },
   "apps": [
     {
-      "title": "Application",
+      "title": "Vpninfy",
       "category": "Tools",
       "packageName": "com.custom.app",
       "clonePackageName": null,
