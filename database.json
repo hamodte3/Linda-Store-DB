@@ -6,7 +6,7 @@
   },
   "apps": [
     {
-      "title": "我的桌面iScreen",
+      "title": "iScreen",
       "category": "Customization",
       "packageName": "com.zerone.hidesktop",
       "clonePackageName": null,
