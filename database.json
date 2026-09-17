@@ -1242,7 +1242,12 @@
       "sourceUrl": null,
       "vibrantColor": "#FF0000",
       "specificDownloadUrl": "https://github.com/hamodte3/Linda-Store-DB/releases/download/v_1788246265/YouTube_21.35.442.apk",
-      "variants": [],
+      "variants": [
+        {
+          "name": "MicroG RE",
+          "url": "https://github.com/MorpheApp/MicroG-RE/releases/download/7.1.1/microg-7.1.1-noicon-arm64-v8a.apk"
+        }
+      ],
       "isActive": true,
       "isFeatured": false,
       "releaseDate": "2026-08-22",
