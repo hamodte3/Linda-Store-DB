@@ -1280,32 +1280,35 @@
       "clonePackageName": "app.revanced.android.gms"
     },
     {
-      "id": 4,
       "title": "TikTok",
-      "packageName": "com.zhiliaoapp.musically",
-      "version": "v46.4.3",
-      "size": "455.8 MB",
-      "iconUrl": "https://cdn-icons-png.flaticon.com/512/3046/3046121.png",
       "category": "Social",
-      "modInfo": "🚫 Ad-Free\n🌍 Regional Restrictions Bypass\n📥 Watermark-Free Downloads\n🛠️ Advanced Media Controls\n💬 HD Photos & Audio Chat\n📥 Offline Download up to 10K Videos\n🔥 Automatic Streak Renewal\n✨️ Removed Tako AI Button",
-      "modInfoAr": "🚫 بدون إعلانات\n🌍 تجاوز الحجب والقيود الجغرافية\n📥 تحميل الفيديوهات بدون علامة مائية\n🛠️ أدوات تحكم متقدمة بالوسائط\n💬 إرسال صور وصوتيات بدقة عالية\n📥 حفظ أكثر من 10 آلاف فيديو أوفلاين\n🔥 ميزة تجديد الستريك التلقائية\n✨️ إزالة زر Tako AI المزعج",
-      "description": "Customized TikTok client to bypass regional restrictions, download watermark-free videos, and enjoy a smooth, ultra-fast browsing experience.",
-      "descriptionAr": "نسخة تيك توك معدلة لفتح قيود المناطق الجغرافية وإزالة العلامة المائية عند تحميل الفيديوهات مع تسريع التصفح.",
+      "packageName": "com.zhiliaoapp.musically",
+      "clonePackageName": null,
+      "version": "46.8.3",
+      "size": "351.1 MB",
+      "vibrantColor": "#EE1D52",
+      "description": "",
+      "descriptionAr": "",
       "changelog": "",
       "changelogAr": "",
+      "modInfo": "Region spoofing 🌍\nContent filters 🚫\nHide livestreams 📺\nHide ads 📢\nHide photos 📸\nHide stories 📖\nAuto streak renew 🔥\nAnti-burnout 🧘\nCustom Fonts ✍️\nCustom App icons 📱\nCustom colors 🎨",
+      "modInfoAr": "Region spoofing 🌍\nContent filters 🚫\nHide livestreams 📺\nHide ads 📢\nHide photos 📸\nHide stories 📖\nAuto streak renew 🔥\nAnti-burnout 🧘\nCustom Fonts ✍️\nCustom App icons 📱\nCustom colors 🎨",
       "isOpenSource": false,
       "sourceUrl": null,
-      "vibrantColor": "#EE1D52",
-      "specificDownloadUrl": "https://github.com/hamodte3/Linda-Store-DB/releases/download/v_1787372344/TikTok_46.4.3.apk",
+      "excludeFromSync": false,
+      "specificDownloadUrl": "https://github.com/hamodte3/Linda-Store-DB/releases/download/v_1791663304/TikTok_46.8.3.apk",
+      "useWebView": false,
+      "isActive": true,
+      "isFeatured": true,
+      "iconUrl": "https://cdn.jsdelivr.net/gh/hamodte3/Linda-Store-DB@main/icons/com.zhiliaoapp.musically.png",
+      "releaseDate": "2026-10-10",
       "variants": [
         {
           "name": "الاضافة Plugin",
           "url": "https://github.com/hamodte3/Linda-Store-DB/releases/download/v_1787372678/TikTok_Plugin_2.45.apk"
         }
       ],
-      "isActive": true,
-      "isFeatured": true,
-      "clonePackageName": "com.rezvorck.tiktokplugin"
+      "id": 4
     },
     {
       "id": 6,
