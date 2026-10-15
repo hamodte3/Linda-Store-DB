@@ -3624,6 +3624,32 @@
       "useWebView": false,
       "isActive": true,
       "isFeatured": true
+    },
+    {
+      "id": 167,
+      "title": "Messenger",
+      "packageName": null,
+      "clonePackageName": null,
+      "version": null,
+      "size": "93.8 MB",
+      "iconUrl": "https://cdn.jsdelivr.net/gh/hamodte3/Linda-Store-DB@main/icons/messenger.png",
+      "category": "Social",
+      "modInfo": "No Ads\nGhost Mode\nDeleted Messages View\nNo Tracking / Telemetry",
+      "modInfoAr": "No Ads\nGhost Mode\nDeleted Messages View\nNo Tracking / Telemetry",
+      "description": "تطبيق مانسجر الخاص بميتا للتواصل بجانب فيسبوك",
+      "descriptionAr": "تطبيق مانسجر الخاص بميتا للتواصل بجانب فيسبوك",
+      "changelog": "",
+      "changelogAr": "",
+      "isOpenSource": false,
+      "sourceUrl": null,
+      "excludeFromSync": false,
+      "vibrantColor": "#00E5FF",
+      "releaseDate": "2026-10-16",
+      "specificDownloadUrl": "https://github.com/hamodte3/Linda-Store-DB/releases/download/v_1792106541/Application_1.0.apk",
+      "variants": [],
+      "useWebView": false,
+      "isActive": true,
+      "isFeatured": false
     }
   ]
 }
