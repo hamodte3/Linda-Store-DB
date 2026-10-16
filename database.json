@@ -3710,6 +3710,32 @@
       "useWebView": false,
       "isActive": true,
       "isFeatured": false
+    },
+    {
+      "id": 171,
+      "title": "Sifu",
+      "packageName": null,
+      "clonePackageName": null,
+      "version": "v1.0.254260",
+      "size": "4.91 GB",
+      "iconUrl": "https://cdn.jsdelivr.net/gh/hamodte3/Linda-Store-DB@main/icons/sifu.png",
+      "category": "Games",
+      "modInfo": "Full Game with All Resources and Pc Graphics Available.",
+      "modInfoAr": "Full Game with All Resources and Pc Graphics Available.",
+      "description": "بورت رسمي من اللعبة القتال الشهيرة سيفو.",
+      "descriptionAr": "بورت رسمي من اللعبة القتال الشهيرة سيفو.",
+      "changelog": "",
+      "changelogAr": "",
+      "isOpenSource": false,
+      "sourceUrl": null,
+      "excludeFromSync": false,
+      "vibrantColor": "#00E5FF",
+      "releaseDate": "2026-10-16",
+      "specificDownloadUrl": "https://dl.apkvision.org/sifu/Sifu-v1.0.254260-full-MOD-Graphics-Advanced-APKVision.apks",
+      "variants": [],
+      "useWebView": false,
+      "isActive": true,
+      "isFeatured": false
     }
   ]
 }
