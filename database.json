@@ -3862,7 +3862,12 @@
       "vibrantColor": "#00E5FF",
       "releaseDate": "2026-10-16",
       "specificDownloadUrl": "https://dl.apkvision.org/devil-may-cry-4/DMC4-Recomp-0.4.0-APKVISION.apk",
-      "variants": [],
+      "variants": [
+        {
+          "name": "Obb / Cache",
+          "url": "https://dl.apkvision.org/devil-may-cry-4/devil-may-cry-4-cache.zip"
+        }
+      ],
       "useWebView": false,
       "isActive": true,
       "isFeatured": false
