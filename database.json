@@ -3840,6 +3840,32 @@
       "useWebView": false,
       "isActive": true,
       "isFeatured": false
+    },
+    {
+      "id": 176,
+      "title": "Devil May Cry 4",
+      "packageName": null,
+      "clonePackageName": null,
+      "version": "v0.4.0",
+      "size": "6.4 GB",
+      "iconUrl": "https://cdn.jsdelivr.net/gh/hamodte3/Linda-Store-DB@main/icons/devil_may_cry_4.png",
+      "category": "Games",
+      "modInfo": "Unofficial DMC4 on Android 📱🎮\nTouch controls included!\n1️⃣ Install APK\n2️⃣ Load game data archive 📂\n3️⃣ Extract & Play 🚀",
+      "modInfoAr": "Unofficial DMC4 on Android 📱🎮\nTouch controls included!\n1️⃣ Install APK\n2️⃣ Load game data archive 📂\n3️⃣ Extract & Play 🚀",
+      "description": "",
+      "descriptionAr": "",
+      "changelog": "",
+      "changelogAr": "",
+      "isOpenSource": false,
+      "sourceUrl": null,
+      "excludeFromSync": false,
+      "vibrantColor": "#00E5FF",
+      "releaseDate": "2026-10-16",
+      "specificDownloadUrl": "https://dl.apkvision.org/devil-may-cry-4/DMC4-Recomp-0.4.0-APKVISION.apk",
+      "variants": [],
+      "useWebView": false,
+      "isActive": true,
+      "isFeatured": false
     }
   ]
 }
