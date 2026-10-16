@@ -3893,7 +3893,12 @@
       "vibrantColor": "#00E5FF",
       "releaseDate": "2026-10-16",
       "specificDownloadUrl": "https://dl.apkvision.org/need-for-speed-most-wanted/NFSMW-PORT-v0.2.0-APKVISION.apk",
-      "variants": [],
+      "variants": [
+        {
+          "name": "Game ISO",
+          "url": "https://dl.apkvision.org/need-for-speed-most-wanted/Need-for-Speed-Most-Wanted-English.zip"
+        }
+      ],
       "useWebView": false,
       "isActive": true,
       "isFeatured": false
