@@ -3994,8 +3994,8 @@
       "modInfoAr": "🚀 Rebuilt from scratch w/ in-app settings (long-press Home) + .mtp plugins.\n🚫 Total ad-block: filters live, Shop, AI, watched clips.\n📥 No-watermark downloads (video/audio/stories up to 1080p/120fps).\n🎨 Region bypass, AMOLED, custom fonts/icons/tabs.\n👻 Ghost mode (stealth view/type), no telemetry, Android ID spoof.\n🎵 Bg audio, PiP, 2x/3x speed, unblocked audio.",
       "description": "",
       "descriptionAr": "",
-      "changelog": "",
-      "changelogAr": "",
+      "changelog": "• General performance and stability improvements",
+      "changelogAr": "• تحسينات شاملة في الأداء والاستقرار",
       "isOpenSource": false,
       "sourceUrl": null,
       "excludeFromSync": false,
@@ -4005,7 +4005,7 @@
       "variants": [
         {
           "name": "اضافة ( plugin )",
-          "url": "https://github.com/hamodte3/Linda-Store-DB/releases/download/v_1792194566/TikTok_Plugin_2.46-alpha1.apk"
+          "url": "https://github.com/hamodte3/Linda-Store-DB/releases/download/v_1792113210/TikTok_Plugin_2.46-alpha1.apk"
         }
       ],
       "useWebView": false,
