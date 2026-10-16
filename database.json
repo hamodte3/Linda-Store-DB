@@ -3736,6 +3736,32 @@
       "useWebView": false,
       "isActive": true,
       "isFeatured": false
+    },
+    {
+      "id": 172,
+      "title": "Minecraft Dungeons",
+      "packageName": null,
+      "clonePackageName": null,
+      "version": "2.8 GB",
+      "size": "2.8 GB",
+      "iconUrl": "https://cdn.jsdelivr.net/gh/hamodte3/Linda-Store-DB@main/icons/minecraft_dungeons.png",
+      "category": "Games",
+      "modInfo": "Full Game Port.",
+      "modInfoAr": "Full Game Port.",
+      "description": "",
+      "descriptionAr": "",
+      "changelog": "",
+      "changelogAr": "",
+      "isOpenSource": false,
+      "sourceUrl": null,
+      "excludeFromSync": false,
+      "vibrantColor": "#00E5FF",
+      "releaseDate": "2026-10-16",
+      "specificDownloadUrl": "https://dl.apkvision.org/minecraft-dungeons/Minecraft-Dungeons-v1.4-full-apkvision.apk",
+      "variants": [],
+      "useWebView": false,
+      "isActive": true,
+      "isFeatured": false
     }
   ]
 }
