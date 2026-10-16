@@ -3654,6 +3654,32 @@
       "useWebView": false,
       "isActive": true,
       "isFeatured": false
+    },
+    {
+      "id": 169,
+      "title": "Mental Hospital V",
+      "packageName": null,
+      "clonePackageName": null,
+      "version": "v2.10",
+      "size": "325.7 MB",
+      "iconUrl": "https://cdn.jsdelivr.net/gh/hamodte3/Linda-Store-DB@main/icons/mental_hospital_v.png",
+      "category": "Games",
+      "modInfo": "Full Game.",
+      "modInfoAr": "Full Game.",
+      "description": "الجزء الخامس من السلسة.",
+      "descriptionAr": "الجزء الخامس من السلسة.",
+      "changelog": "",
+      "changelogAr": "",
+      "isOpenSource": false,
+      "sourceUrl": null,
+      "excludeFromSync": false,
+      "vibrantColor": "#00E5FF",
+      "releaseDate": "2026-10-16",
+      "specificDownloadUrl": "https://dl.apkvision.org/mental-hospital-v/MHV-v2.10-full-apkvision.apk",
+      "variants": [],
+      "useWebView": false,
+      "isActive": true,
+      "isFeatured": false
     }
   ]
 }
