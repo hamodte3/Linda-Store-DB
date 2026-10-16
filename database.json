@@ -3788,6 +3788,32 @@
       "useWebView": false,
       "isActive": true,
       "isFeatured": false
+    },
+    {
+      "id": 174,
+      "title": "How to Fish",
+      "packageName": null,
+      "clonePackageName": null,
+      "version": "v1.0.2",
+      "size": "222.69 MB",
+      "iconUrl": "https://cdn.jsdelivr.net/gh/hamodte3/Linda-Store-DB@main/icons/how_to_fish.png",
+      "category": "Games",
+      "modInfo": "Full Game Port.",
+      "modInfoAr": "Full Game Port.",
+      "description": "Unofficial Game Port.",
+      "descriptionAr": "Unofficial Game Port.",
+      "changelog": "",
+      "changelogAr": "",
+      "isOpenSource": false,
+      "sourceUrl": null,
+      "excludeFromSync": false,
+      "vibrantColor": "#00E5FF",
+      "releaseDate": "2026-10-16",
+      "specificDownloadUrl": "https://dl.apkvision.org/how-to-fish/How-to-Fish-v1.0.2-full-apkvision.apk",
+      "variants": [],
+      "useWebView": false,
+      "isActive": true,
+      "isFeatured": false
     }
   ]
 }
