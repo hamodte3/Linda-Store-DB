@@ -2921,28 +2921,6 @@
       "isFeatured": true
     },
     {
-      "id": 76,
-      "title": "Scary Mansion",
-      "packageName": "com.skytecgames.horrorhouse",
-      "version": "V1.160",
-      "size": "224.7 MB",
-      "iconUrl": "https://image-eo.winudf.com/v2/image1/Y29tLnNreXRlY2dhbWVzLmhvcnJvcmhvdXNlX2ljb25fMTc1MDE2MDcwM18wMjU/icon.webp?w=280&fakeurl=1&type=.webp",
-      "category": "Games",
-      "modInfo": "Full Game | Survival Puzzle Escape",
-      "modInfoAr": "اللعبة كاملة | ألغاز والهروب من قصر القاتل",
-      "description": "Escape the sinister manor of serial killer Dr. Crow; gather keys, solve intricate riddles, and remain undetected.",
-      "descriptionAr": "اهرب من قصر القاتل المتسلسل دكتور كرو؛ ابحث عن المفاتيح وفك الشفرات المعقدة.",
-      "changelog": "",
-      "changelogAr": "",
-      "isOpenSource": false,
-      "sourceUrl": null,
-      "vibrantColor": "#78281F",
-      "specificDownloadUrl": "https://d.apkpure.com/b/XAPK/com.skytecgames.horrorhouse?version=latest",
-      "variants": [],
-      "isActive": true,
-      "isFeatured": true
-    },
-    {
       "id": 77,
       "title": "Last Summer",
       "packageName": "jp.gr.java_conf.mur.lastsummer",
