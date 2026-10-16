@@ -3814,6 +3814,32 @@
       "useWebView": false,
       "isActive": true,
       "isFeatured": false
+    },
+    {
+      "id": 175,
+      "title": "MONSTER HUNTER RISE NETFLIX",
+      "packageName": null,
+      "clonePackageName": null,
+      "version": "v1.0.0",
+      "size": "801.81 MB",
+      "iconUrl": "https://cdn.jsdelivr.net/gh/hamodte3/Linda-Store-DB@main/icons/monster_hunter_rise_netflix.png",
+      "category": "Games",
+      "modInfo": "Unlocked",
+      "modInfoAr": "Unlocked",
+      "description": "https://dl.apkvision.org/monster-hunter-rise-netflix/MHRise-v1.0.0-unlocked-apkvision.apk",
+      "descriptionAr": "https://dl.apkvision.org/monster-hunter-rise-netflix/MHRise-v1.0.0-unlocked-apkvision.apk",
+      "changelog": "",
+      "changelogAr": "",
+      "isOpenSource": false,
+      "sourceUrl": null,
+      "excludeFromSync": false,
+      "vibrantColor": "#00E5FF",
+      "releaseDate": "2026-10-16",
+      "specificDownloadUrl": "https://dl.apkvision.org/monster-hunter-rise-netflix/MHRise-v1.0.0-unlocked-apkvision.apk",
+      "variants": [],
+      "useWebView": false,
+      "isActive": true,
+      "isFeatured": false
     }
   ]
 }
