@@ -3902,6 +3902,32 @@
       "useWebView": false,
       "isActive": true,
       "isFeatured": false
+    },
+    {
+      "id": 178,
+      "title": "TikTok Ru",
+      "packageName": "com.zhiliaoapp.musically",
+      "clonePackageName": null,
+      "version": "47.1.4",
+      "size": "532.4 MB",
+      "iconUrl": "https://cdn.jsdelivr.net/gh/hamodte3/Linda-Store-DB@main/icons/com.zhiliaoapp.musically.png",
+      "category": "Social",
+      "modInfo": "RegionSystem: Rebuilt from scratch with in-app settings (long-press Home) and plugin support (.mtp).\n​Feed & Ads: Complete ad-blocking; filters out live streams, TikTok Shop, AI content, and watched clips.\n​Downloads: Watermark-free downloads for videos, audio, and stories (up to 1080p / 120fps).\n​Interface: Region bypass & Spoof , AMOLED theme, custom fonts/icons, and customizable tabs.\n​Privacy: Ghost mode (stealth viewing/typing), disabled telemetry, and Android ID spoofing.\n​Playback: Background audio, PiP, 2x/3x speed controls, and unblocked copyrighted audio.",
+      "modInfoAr": "RegionSystem: Rebuilt from scratch with in-app settings (long-press Home) and plugin support (.mtp).\n​Feed & Ads: Complete ad-blocking; filters out live streams, TikTok Shop, AI content, and watched clips.\n​Downloads: Watermark-free downloads for videos, audio, and stories (up to 1080p / 120fps).\n​Interface: Region bypass & Spoof , AMOLED theme, custom fonts/icons, and customizable tabs.\n​Privacy: Ghost mode (stealth viewing/typing), disabled telemetry, and Android ID spoofing.\n​Playback: Background audio, PiP, 2x/3x speed controls, and unblocked copyrighted audio.",
+      "description": "",
+      "descriptionAr": "",
+      "changelog": "",
+      "changelogAr": "",
+      "isOpenSource": false,
+      "sourceUrl": null,
+      "excludeFromSync": false,
+      "vibrantColor": "#00E5FF",
+      "releaseDate": "2026-10-16",
+      "specificDownloadUrl": "https://github.com/hamodte3/Linda-Store-DB/releases/download/v_1792109960/TikTok_47.1.4.apk",
+      "variants": [],
+      "useWebView": false,
+      "isActive": true,
+      "isFeatured": false
     }
   ]
 }
