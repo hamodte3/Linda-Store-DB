@@ -3871,6 +3871,32 @@
       "useWebView": false,
       "isActive": true,
       "isFeatured": false
+    },
+    {
+      "id": 177,
+      "title": "Need For Speed: Most Wanted A",
+      "packageName": null,
+      "clonePackageName": null,
+      "version": "v0.2.0",
+      "size": "5.5 GB",
+      "iconUrl": "https://cdn.jsdelivr.net/gh/hamodte3/Linda-Store-DB@main/icons/need_for_speed__most_wanted_a.png",
+      "category": "Games",
+      "modInfo": "NFS MW Android port 🏎️📱\nXbox-based unofficial build.\n1. Install APK\n2. Extract ISO to Folder\n3. Choose ISO\n4. Play 🎮",
+      "modInfoAr": "NFS MW Android port 🏎️📱\nXbox-based unofficial build.\n1. Install APK\n2. Extract ISO to Folder\n3. Choose ISO\n4. Play 🎮",
+      "description": "",
+      "descriptionAr": "",
+      "changelog": "",
+      "changelogAr": "",
+      "isOpenSource": false,
+      "sourceUrl": null,
+      "excludeFromSync": false,
+      "vibrantColor": "#00E5FF",
+      "releaseDate": "2026-10-16",
+      "specificDownloadUrl": "https://dl.apkvision.org/need-for-speed-most-wanted/NFSMW-PORT-v0.2.0-APKVISION.apk",
+      "variants": [],
+      "useWebView": false,
+      "isActive": true,
+      "isFeatured": false
     }
   ]
 }
