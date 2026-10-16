@@ -3762,6 +3762,32 @@
       "useWebView": false,
       "isActive": true,
       "isFeatured": false
+    },
+    {
+      "id": 173,
+      "title": "OverPeak: Action Game",
+      "packageName": null,
+      "clonePackageName": null,
+      "version": "v0.7",
+      "size": "308.5 MB",
+      "iconUrl": "https://cdn.jsdelivr.net/gh/hamodte3/Linda-Store-DB@main/icons/overpeak__action_game.png",
+      "category": "Games",
+      "modInfo": "Unlimited Money/Unlocked + MOD Menu",
+      "modInfoAr": "Unlimited Money/Unlocked + MOD Menu",
+      "description": "Mod Menu 🔥\n👉 God Mode\n\nMods 🚀\n📵 100% Offline\n💰 ∞ Credits\n🧥 All Suits Unlocked\n⚡ ∞ Energy + Free Mode (No Ads)\n🚫 Ads Removed (Instant Rewards)",
+      "descriptionAr": "Mod Menu 🔥\n👉 God Mode\n\nMods 🚀\n📵 100% Offline\n💰 ∞ Credits\n🧥 All Suits Unlocked\n⚡ ∞ Energy + Free Mode (No Ads)\n🚫 Ads Removed (Instant Rewards)",
+      "changelog": "",
+      "changelogAr": "",
+      "isOpenSource": false,
+      "sourceUrl": null,
+      "excludeFromSync": false,
+      "vibrantColor": "#00E5FF",
+      "releaseDate": "2026-10-16",
+      "specificDownloadUrl": "https://dl.apkvision.org/overpeak-action-game/OverPeak-v0.7-mod-menu-apkvision.apk",
+      "variants": [],
+      "useWebView": false,
+      "isActive": true,
+      "isFeatured": false
     }
   ]
 }
