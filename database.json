@@ -3924,7 +3924,12 @@
       "vibrantColor": "#00E5FF",
       "releaseDate": "2026-10-16",
       "specificDownloadUrl": "https://github.com/hamodte3/Linda-Store-DB/releases/download/v_1792109960/TikTok_47.1.4.apk",
-      "variants": [],
+      "variants": [
+        {
+          "name": "اضافة ( plugin )",
+          "url": "https://github.com/hamodte3/Linda-Store-DB/releases/download/v_1792113210/TikTok_Plugin_2.46-alpha1.apk"
+        }
+      ],
       "useWebView": false,
       "isActive": true,
       "isFeatured": false
