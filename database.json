@@ -1780,7 +1780,7 @@
       "clonePackageName": null,
       "version": "46.8.3",
       "size": "351.1 MB",
-      "vibrantColor": "#EE1D52",
+      "vibrantColor": "#CAB1FF",
       "description": "",
       "descriptionAr": "",
       "changelog": "",
@@ -1794,7 +1794,7 @@
       "useWebView": false,
       "isActive": true,
       "isFeatured": true,
-      "iconUrl": "https://cdn.jsdelivr.net/gh/hamodte3/Linda-Store-DB@main/icons/com.zhiliaoapp.musically.png",
+      "iconUrl": "https://cdn.jsdelivr.net/gh/hamodte3/Linda-Store-DB@main/icons/com.zhiliaoapp.musically.webp",
       "releaseDate": "2026-10-17",
       "variants": [],
       "id": 4
