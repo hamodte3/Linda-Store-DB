@@ -298,7 +298,7 @@
       "clonePackageName": null,
       "version": "18.0.3.954559732-release-arm64-v8a",
       "size": "73.1 MB",
-      "vibrantColor": "#00E5FF",
+      "vibrantColor": "#FCB825",
       "description": "",
       "descriptionAr": "",
       "changelog": "",
@@ -312,7 +312,7 @@
       "useWebView": false,
       "isActive": true,
       "isFeatured": false,
-      "iconUrl": "https://cdn.jsdelivr.net/gh/hamodte3/Linda-Store-DB@main/icons/dev.jason.com.google.android.inputmethod.latin.png",
+      "iconUrl": "https://cdn.jsdelivr.net/gh/hamodte3/Linda-Store-DB@main/icons/dev.jason.com.google.android.inputmethod.latin.webp",
       "releaseDate": "2026-10-16",
       "variants": [],
       "id": 179
