@@ -1808,12 +1808,7 @@
       "isFeatured": true,
       "iconUrl": "https://cdn.jsdelivr.net/gh/hamodte3/Linda-Store-DB@main/icons/com.zhiliaoapp.musically.webp?t=1792763300",
       "releaseDate": "2026-10-23",
-      "variants": [
-        {
-          "name": "Plugin",
-          "url": "https://github.com/hamodte3/Linda-Store-DB/releases/download/com.rezvorck.tiktokplugin-v2.47/TikTok_Plugin_2.47.apk"
-        }
-      ]
+      "variants": []
     },
     {
       "id": 6,
