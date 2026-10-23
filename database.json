@@ -6,6 +6,35 @@
   },
   "apps": [
     {
+      "id": 1,
+      "title": "YouTube",
+      "packageName": "app.morphe.android.youtube",
+      "version": "21.42.241",
+      "size": "90.7 MB",
+      "iconUrl": "https://cdn-icons-png.flaticon.com/512/1384/1384060.png",
+      "category": "Media",
+      "modInfo": "Ad-Free background playback & PiP 🎧, AMOLED dark theme 🎨, SponsorBlock auto-skip & Return YouTube Dislike ⏭️.",
+      "modInfoAr": "تشغيل بدون إعلانات في الخلفية ونافذة منبثقة PiP 🎧، ثيم AMOLED ليلي 🎨، تخطي المقاطع الترويجية تلقائياً وإرجاع عداد الديسلايك ⏭️.",
+      "description": "An ultra-lightweight customized YouTube client featuring background playback, ad-blocking, SponsorBlock sponsor skipping, and pure AMOLED styling.",
+      "descriptionAr": "النسخة المعدلة فائقة الخفة من يوتيوب، تتيح التشغيل في الخلفية، حجب الإعلانات المزعجة، تخطي المقاطع الدعائية برعاية SponsorBlock، وثيم AMOLED موفر للطاقة.",
+      "changelog": "",
+      "changelogAr": "",
+      "isOpenSource": true,
+      "sourceUrl": null,
+      "vibrantColor": "#FF0000",
+      "specificDownloadUrl": "https://github.com/hamodte3/Linda-Store-DB/releases/download/v_1792761389_16340/YouTube_21.42.241_891.apk",
+      "variants": [
+        {
+          "name": "MicroG RE",
+          "url": "https://github.com/hamodte3/Linda-Store-DB/releases/download/v_1792107379/MicroG_RE_7.2.1.apk"
+        }
+      ],
+      "isActive": true,
+      "isFeatured": false,
+      "releaseDate": "2026-10-23",
+      "clonePackageName": "app.revanced.android.gms"
+    },
+    {
       "title": "TikTok",
       "category": "Social",
       "packageName": "com.zhiliaoapp.musically",
@@ -1794,35 +1823,6 @@
       "useWebView": false,
       "isActive": true,
       "isFeatured": false
-    },
-    {
-      "id": 1,
-      "title": "YouTube",
-      "packageName": "app.morphe.android.youtube",
-      "version": "21.40.161",
-      "size": "89.3 MB",
-      "iconUrl": "https://cdn-icons-png.flaticon.com/512/1384/1384060.png",
-      "category": "Media",
-      "modInfo": "Ad-Free background playback & PiP 🎧, AMOLED dark theme 🎨, SponsorBlock auto-skip & Return YouTube Dislike ⏭️.",
-      "modInfoAr": "تشغيل بدون إعلانات في الخلفية ونافذة منبثقة PiP 🎧، ثيم AMOLED ليلي 🎨، تخطي المقاطع الترويجية تلقائياً وإرجاع عداد الديسلايك ⏭️.",
-      "description": "An ultra-lightweight customized YouTube client featuring background playback, ad-blocking, SponsorBlock sponsor skipping, and pure AMOLED styling.",
-      "descriptionAr": "النسخة المعدلة فائقة الخفة من يوتيوب، تتيح التشغيل في الخلفية، حجب الإعلانات المزعجة، تخطي المقاطع الدعائية برعاية SponsorBlock، وثيم AMOLED موفر للطاقة.",
-      "changelog": "",
-      "changelogAr": "",
-      "isOpenSource": true,
-      "sourceUrl": null,
-      "vibrantColor": "#FF0000",
-      "specificDownloadUrl": "https://github.com/hamodte3/Linda-Store-DB/releases/download/v_1792106958/YouTube_21.40.161.apk",
-      "variants": [
-        {
-          "name": "MicroG RE",
-          "url": "https://github.com/hamodte3/Linda-Store-DB/releases/download/v_1792107379/MicroG_RE_7.2.1.apk"
-        }
-      ],
-      "isActive": true,
-      "isFeatured": false,
-      "releaseDate": "2026-08-22",
-      "clonePackageName": "app.revanced.android.gms"
     },
     {
       "id": 6,
