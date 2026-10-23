@@ -4217,35 +4217,37 @@
       "isFeatured": false
     },
     {
-      "id": 178,
-      "title": "TikTok Ru",
+      "title": "TikTok",
+      "category": "Social",
       "packageName": "com.zhiliaoapp.musically",
       "clonePackageName": null,
       "version": "47.4.3",
-      "size": "527.9 MB",
-      "iconUrl": "https://cdn.jsdelivr.net/gh/hamodte3/Linda-Store-DB@main/icons/com.zhiliaoapp.musically.webp",
-      "category": "Social",
-      "modInfo": "🚀 Rebuilt from scratch w/ in-app settings (long-press Home) + .mtp plugins.\n🚫 Total ad-block: filters live, Shop, AI, watched clips.\n📥 No-watermark downloads (video/audio/stories up to 1080p/120fps).\n🎨 Region bypass, AMOLED, custom fonts/icons/tabs.\n👻 Ghost mode (stealth view/type), no telemetry, Android ID spoof.\n🎵 Bg audio, PiP, 2x/3x speed, unblocked audio.",
-      "modInfoAr": "🚀 Rebuilt from scratch w/ in-app settings (long-press Home) + .mtp plugins.\n🚫 Total ad-block: filters live, Shop, AI, watched clips.\n📥 No-watermark downloads (video/audio/stories up to 1080p/120fps).\n🎨 Region bypass, AMOLED, custom fonts/icons/tabs.\n👻 Ghost mode (stealth view/type), no telemetry, Android ID spoof.\n🎵 Bg audio, PiP, 2x/3x speed, unblocked audio.",
+      "versionCode": 2024704030,
+      "minSdkVersion": "24",
+      "sha256": "ea1f985884507b4e7be5afc9bf57a2d3d5f01b6e0dddcb9469085700e36a70a8",
+      "size": "510.8 MB",
+      "vibrantColor": "#FACE14",
       "description": "",
       "descriptionAr": "",
       "changelog": "• General performance and stability improvements",
       "changelogAr": "• تحسينات شاملة في الأداء والاستقرار",
+      "modInfo": "🚀 Rebuilt from scratch w/ in-app settings (long-press Home) + .mtp plugins.\n🚫 Total ad-block: filters live, Shop, AI, watched clips.\n📥 No-watermark downloads (video/audio/stories up to 1080p/120fps).\n🎨 Region bypass, AMOLED, custom fonts/icons/tabs.\n👻 Ghost mode (stealth view/type), no telemetry, Android ID spoof.\n🎵 Bg audio, PiP, 2x/3x speed, unblocked audio.",
+      "modInfoAr": "🚀 Rebuilt from scratch w/ in-app settings (long-press Home) + .mtp plugins.\n🚫 Total ad-block: filters live, Shop, AI, watched clips.\n📥 No-watermark downloads (video/audio/stories up to 1080p/120fps).\n🎨 Region bypass, AMOLED, custom fonts/icons/tabs.\n👻 Ghost mode (stealth view/type), no telemetry, Android ID spoof.\n🎵 Bg audio, PiP, 2x/3x speed, unblocked audio.",
       "isOpenSource": false,
       "sourceUrl": null,
       "excludeFromSync": false,
-      "vibrantColor": "#24F2EE",
-      "releaseDate": "2026-10-17",
-      "specificDownloadUrl": "https://github.com/hamodte3/Linda-Store-DB/releases/download/v_1792193719/TikTok_47.4.3.apk",
+      "specificDownloadUrl": "https://github.com/hamodte3/Linda-Store-DB/releases/download/com.zhiliaoapp.musically-v47.4.3/TikTok_47.4.3.apk",
+      "isActive": true,
+      "isFeatured": false,
+      "iconUrl": "https://cdn.jsdelivr.net/gh/hamodte3/Linda-Store-DB@main/icons/com.zhiliaoapp.musically.webp?t=1792762029",
+      "releaseDate": "2026-10-23",
       "variants": [
         {
           "name": "Plugin",
           "url": "https://github.com/hamodte3/Linda-Store-DB/releases/download/com.rezvorck.tiktokplugin-v2.47/TikTok_Plugin_2.47.apk"
         }
       ],
-      "useWebView": false,
-      "isActive": true,
-      "isFeatured": false
+      "id": 178
     }
   ]
 }
