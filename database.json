@@ -1748,8 +1748,8 @@
       "id": 1,
       "title": "YouTube",
       "packageName": "app.morphe.android.youtube",
-      "version": "21.40.161",
-      "size": "89.3 MB",
+      "version": "21.42.241_891",
+      "size": "90.7 MB",
       "iconUrl": "https://cdn-icons-png.flaticon.com/512/1384/1384060.png",
       "category": "Media",
       "modInfo": "Ad-Free background playback & PiP 🎧, AMOLED dark theme 🎨, SponsorBlock auto-skip & Return YouTube Dislike ⏭️.",
@@ -1761,7 +1761,7 @@
       "isOpenSource": true,
       "sourceUrl": null,
       "vibrantColor": "#FF0000",
-      "specificDownloadUrl": "https://github.com/hamodte3/Linda-Store-DB/releases/download/v_1792106958/YouTube_21.40.161.apk",
+      "specificDownloadUrl": "https://github.com/hamodte3/Linda-Store-DB/releases/download/v_1792761389_16340/YouTube_21.42.241_891.apk",
       "variants": [
         {
           "name": "MicroG RE",
@@ -1770,7 +1770,7 @@
       ],
       "isActive": true,
       "isFeatured": false,
-      "releaseDate": "2026-08-22",
+      "releaseDate": "2026-10-23",
       "clonePackageName": "app.revanced.android.gms"
     },
     {
