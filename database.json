@@ -6,6 +6,32 @@
   },
   "apps": [
     {
+      "id": 191,
+      "title": "TikTok",
+      "packageName": null,
+      "clonePackageName": null,
+      "version": "47.4.3",
+      "size": "510.8 MB",
+      "iconUrl": "https://cdn.jsdelivr.net/gh/hamodte3/Linda-Store-DB@main/icons/tiktok.webp",
+      "category": "Social",
+      "modInfo": "🚀 Rebuilt + settings & plugins.\n🚫 0 ads.\n📥 HD downloads.\n🎨 Custom UI.\n👻 Ghost mode.\n🎵 Bg audio & speed.",
+      "modInfoAr": "🚀 Rebuilt + settings & plugins.\n🚫 0 ads.\n📥 HD downloads.\n🎨 Custom UI.\n👻 Ghost mode.\n🎵 Bg audio & speed.",
+      "description": "",
+      "descriptionAr": "",
+      "changelog": "",
+      "changelogAr": "",
+      "isOpenSource": false,
+      "sourceUrl": null,
+      "excludeFromSync": false,
+      "vibrantColor": "#FF004E",
+      "releaseDate": "2026-10-23",
+      "specificDownloadUrl": "https://github.com/hamodte3/Linda-Store-DB/releases/download/com.zhiliaoapp.musically-v47.4.3/TikTok_47.4.3.apk",
+      "useWebView": false,
+      "isActive": true,
+      "isFeatured": false,
+      "variants": []
+    },
+    {
       "id": 190,
       "title": "Halo",
       "packageName": "com.bungie.halo",
@@ -1787,7 +1813,7 @@
     },
     {
       "id": 4,
-      "title": "TikTok You",
+      "title": "TikTok",
       "category": "Social",
       "packageName": "com.zhiliaoapp.musically",
       "clonePackageName": null,
@@ -1795,10 +1821,10 @@
       "size": "361.5 MB",
       "vibrantColor": "#FACE14",
       "description": "Ad-free TikTok with region spoofing.",
-      "descriptionAr": "فلاتر 🚫، لا بث 📺 إعلانات 📢 صور 📸 قصص 📖، ستريك تلقائي 🔥، مكافحة الاحتراق 🧘، خطوط ✍️، أيقونات 📱، ألوان 🎨",
-      "changelog": "Performance Boost",
-      "changelogAr": "تسريع التصفح",
-      "modInfo": "Filters 🚫, No streams 📺/ads 📢pics 📸stories 📖, Auto Streaks 🔥, Anti-burnout 🧘, Fonts ✍️, Icons 📱, Colors 🎨",
+      "descriptionAr": "تيك توك بدون إعلانات مع تغيير الدولة وتحميل بدون علامة مائية.",
+      "changelog": "Mocha Theme & Performance Boost",
+      "changelogAr": "ثيم الموكا الجديد وتسريع التصفح",
+      "modInfo": "No Ads, No Watermark, Region Spoof, Pure AMOLED",
       "modInfoAr": "بدون إعلانات، تحميل بدون علامة مائية، تجاوز الحجب، ثيم AMOLED",
       "isOpenSource": false,
       "sourceUrl": null,
@@ -1808,7 +1834,12 @@
       "isFeatured": true,
       "iconUrl": "https://cdn.jsdelivr.net/gh/hamodte3/Linda-Store-DB@main/icons/com.zhiliaoapp.musically.webp?t=1792763300",
       "releaseDate": "2026-10-23",
-      "variants": []
+      "variants": [
+        {
+          "name": "Plugin",
+          "url": "https://github.com/hamodte3/Linda-Store-DB/releases/download/com.rezvorck.tiktokplugin-v2.47/TikTok_Plugin_2.47.apk"
+        }
+      ]
     },
     {
       "id": 6,
