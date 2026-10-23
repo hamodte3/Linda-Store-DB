@@ -1775,33 +1775,37 @@
       "isFeatured": false
     },
     {
-      "id": 1,
       "title": "YouTube",
-      "packageName": "app.morphe.android.youtube",
-      "version": "21.40.161",
-      "size": "89.3 MB",
-      "iconUrl": "https://cdn-icons-png.flaticon.com/512/1384/1384060.png",
       "category": "Media",
-      "modInfo": "Ad-Free background playback & PiP 🎧, AMOLED dark theme 🎨, SponsorBlock auto-skip & Return YouTube Dislike ⏭️.",
-      "modInfoAr": "تشغيل بدون إعلانات في الخلفية ونافذة منبثقة PiP 🎧، ثيم AMOLED ليلي 🎨، تخطي المقاطع الترويجية تلقائياً وإرجاع عداد الديسلايك ⏭️.",
+      "packageName": "app.morphe.android.youtube",
+      "clonePackageName": "app.revanced.android.gms",
+      "version": "21.42.241",
+      "versionCode": 1561304923,
+      "minSdkVersion": "29",
+      "sha256": "b3956901f2d8c554f0f2ef79244430318bfa9be9f7afb772a82eadc9a0054235",
+      "size": "90.7 MB",
+      "vibrantColor": "#FFC229",
       "description": "An ultra-lightweight customized YouTube client featuring background playback, ad-blocking, SponsorBlock sponsor skipping, and pure AMOLED styling.",
       "descriptionAr": "النسخة المعدلة فائقة الخفة من يوتيوب، تتيح التشغيل في الخلفية، حجب الإعلانات المزعجة، تخطي المقاطع الدعائية برعاية SponsorBlock، وثيم AMOLED موفر للطاقة.",
       "changelog": "",
       "changelogAr": "",
+      "modInfo": "Ad-Free background playback & PiP 🎧, AMOLED dark theme 🎨, SponsorBlock auto-skip & Return YouTube Dislike ⏭️.",
+      "modInfoAr": "تشغيل بدون إعلانات في الخلفية ونافذة منبثقة PiP 🎧، ثيم AMOLED ليلي 🎨، تخطي المقاطع الترويجية تلقائياً وإرجاع عداد الديسلايك ⏭️.",
       "isOpenSource": true,
       "sourceUrl": null,
-      "vibrantColor": "#FF0000",
-      "specificDownloadUrl": "https://github.com/hamodte3/Linda-Store-DB/releases/download/v_1792106958/YouTube_21.40.161.apk",
+      "excludeFromSync": false,
+      "specificDownloadUrl": "https://github.com/hamodte3/Linda-Store-DB/releases/download/app.morphe.android.youtube-v21.42.241/YouTube_21.42.241.apk",
+      "isActive": true,
+      "isFeatured": false,
+      "iconUrl": "https://cdn.jsdelivr.net/gh/hamodte3/Linda-Store-DB@main/icons/app.morphe.android.youtube.webp?t=1792762451",
+      "releaseDate": "2026-10-23",
       "variants": [
         {
           "name": "MicroG RE",
           "url": "https://github.com/hamodte3/Linda-Store-DB/releases/download/v_1792107379/MicroG_RE_7.2.1.apk"
         }
       ],
-      "isActive": true,
-      "isFeatured": false,
-      "releaseDate": "2026-08-22",
-      "clonePackageName": "app.revanced.android.gms"
+      "id": 1
     },
     {
       "title": "TikTok",
