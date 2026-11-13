@@ -29,7 +29,12 @@
       "useWebView": false,
       "isActive": true,
       "isFeatured": false,
-      "variants": []
+      "variants": [
+        {
+          "name": "Game Files",
+          "url": "https://dl.apkvision.net/halo-2/Halo-2-apkvision.zip"
+        }
+      ]
     },
     {
       "id": 194,
