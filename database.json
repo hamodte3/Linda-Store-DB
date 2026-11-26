@@ -56,7 +56,7 @@
       "excludeFromSync": false,
       "specificDownloadUrl": "https://github.com/hamodte3/Linda-Store-DB/releases/download/miku.tube-v21.45.82/MikuTube_21.45.82.apk",
       "isActive": true,
-      "isFeatured": false,
+      "isFeatured": true,
       "iconUrl": "https://cdn.jsdelivr.net/gh/hamodte3/Linda-Store-DB@main/icons/miku.tube.webp?t=1795687495",
       "releaseDate": "2026-11-26",
       "variants": [],
