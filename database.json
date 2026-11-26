@@ -3,7 +3,7 @@
     "cloud_version_name": "v7.5",
     "cloud_version_code": 250,
     "update_url": "https://github.com/hamodte3/Linda-Store-DB/releases/download/v7.5/Leen.Store_v7.5.apk",
-    "maintenance_mode": true
+    "maintenance_mode": false
   },
   "apps": [
     {
