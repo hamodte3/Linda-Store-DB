@@ -30,7 +30,12 @@
       "useWebView": false,
       "isActive": true,
       "isFeatured": false,
-      "variants": []
+      "variants": [
+        {
+          "name": "Obb + Cache",
+          "url": "https://dl.apkvision.net/assassins-creed-4-black-flag/AC4-cache-apkvision.romfs"
+        }
+      ]
     },
     {
       "id": 195,
