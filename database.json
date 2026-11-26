@@ -2511,8 +2511,8 @@
       "id": 63,
       "title": "Hitman: Blood Money — Reprisal",
       "packageName": "com.feralinteractive.hitmanbloodmoney_android",
-      "version": "1.2.13",
-      "size": "3.06 GB",
+      "version": "1.3.1",
+      "size": "3.61 GB",
       "iconUrl": "https://apkvision.org/wp-content/uploads/2023/11/hitman-blood-money-reprisal-140x140.png",
       "category": "Games",
       "modInfo": "Full Game, Stealth Optimization",
@@ -2521,10 +2521,11 @@
       "isOpenSource": false,
       "sourceUrl": null,
       "vibrantColor": "#900C3F",
-      "specificDownloadUrl": "https://dl.apkvision.org/hitman-blood-money-reprisal/hitman-bmr-v1.2RC13-apkvision.apks",
+      "specificDownloadUrl": "https://dl.apkvision.org/hitman-blood-money-reprisal/Hitman-BMR-v1.3.1RC4-unlocked-apkvision.apk",
       "isActive": true,
       "isFeatured": false,
-      "variants": []
+      "variants": [],
+      "releaseDate": "2026-11-26"
     },
     {
       "id": 65,
