@@ -2216,8 +2216,8 @@
       "id": 24,
       "title": "Red Dead Redemption",
       "packageName": "com.netflix.NGP.RDR",
-      "version": "1.0.1",
-      "size": "3.5 GB",
+      "version": "1.58.63226194-unlocked-graphics",
+      "size": "7.40 GB",
       "iconUrl": "https://apkvision.org/wp-content/uploads/2025/11/red-dead-redemption-netflix-140x140.png",
       "category": "Games",
       "modInfo": "Netflix Edition, 60 FPS Unlocked",
@@ -2229,10 +2229,11 @@
       "isOpenSource": false,
       "sourceUrl": null,
       "vibrantColor": "#900C3F",
-      "specificDownloadUrl": "https://dl.apkvision.org/otr-2-off-the-road-2/OTR2-v1.0.1-mod-apkvision.apk",
+      "specificDownloadUrl": "https://dl.apkvision.org/red-dead-redemption/RDR-ROCKSTAR-v1.58.63226194-unlocked-graphics-apkvision.apks",
       "isActive": true,
       "isFeatured": false,
-      "variants": []
+      "variants": [],
+      "releaseDate": "2026-11-26"
     },
     {
       "id": 25,
