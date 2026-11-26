@@ -3854,32 +3854,37 @@
       "isFeatured": true
     },
     {
-      "id": 96,
       "title": "InstaZen",
+      "category": "Social",
       "packageName": "com.instazen.android",
       "clonePackageName": "com.instazen.android",
-      "version": "438.0.0.28",
-      "size": "148.8 MB",
-      "iconUrl": "https://cdn.jsdelivr.net/gh/hamodte3/Linda-Store-DB@main/icons/instazen.png",
-      "category": "Social",
-      "modInfo": "Ghost Mode, Liquid Glass UI, iOS Fonts & Emojis",
-      "modInfoAr": "وضع التخفي، واجهة زجاجية، خطوط وإيموجي الآيفون",
+      "version": "452.0.0.48.64",
+      "versionCode": 999999999,
+      "minSdkVersion": "28",
+      "sha256": "852db8add150902d5e6ad148f4c9931c02feb41d3f2b7c2ee13fb20bc4ff895b",
+      "size": "164.3 MB",
+      "vibrantColor": "#EE631C",
       "description": "Luxury aesthetic Instagram client.",
       "descriptionAr": "إنستغرام المعدل الفاخر بواجهة زجاجية مريحة.",
       "changelog": "",
       "changelogAr": "",
+      "modInfo": "Ghost Mode, Liquid Glass UI, iOS Fonts & Emojis",
+      "modInfoAr": "وضع التخفي، واجهة زجاجية، خطوط وإيموجي الآيفون",
       "isOpenSource": false,
       "sourceUrl": null,
-      "vibrantColor": "#833AB4",
-      "specificDownloadUrl": "https://github.com/hamodte3/Linda-Store-DB/releases/download/v_1787374059/InstaZen_438.0.0.28.88.apk",
+      "excludeFromSync": false,
+      "specificDownloadUrl": "https://github.com/hamodte3/Linda-Store-DB/releases/download/com.instazen.android-v452.0.0.48.64/InstaZen_452.0.0.48.64.apk",
+      "isActive": true,
+      "isFeatured": true,
+      "iconUrl": "https://cdn.jsdelivr.net/gh/hamodte3/Linda-Store-DB@main/icons/com.instazen.android.webp?t=1795688121",
+      "releaseDate": "2026-11-26",
       "variants": [
         {
           "name": "Clone",
           "url": "https://github.com/hamodte3/Linda-Store-DB/releases/download/v_1787374059/InstaZen_438.0.0.28.88.apk"
         }
       ],
-      "isActive": true,
-      "isFeatured": true
+      "id": 96
     },
     {
       "title": "Kuro",
