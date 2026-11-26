@@ -431,12 +431,7 @@
       "useWebView": false,
       "isActive": true,
       "isFeatured": false,
-      "variants": [
-        {
-          "name": "Plugin",
-          "url": "https://github.com/hamodte3/Linda-Store-DB/releases/download/com.rezvorck.tiktokplugin-v2.47/TikTok_Plugin_2.47.apk"
-        }
-      ]
+      "variants": []
     },
     {
       "id": 190,
@@ -1827,15 +1822,13 @@
       "isFeatured": false
     },
     {
-      "title": "TikTok",
+      "id": 4,
+      "title": "TikTok You",
       "category": "Social",
       "packageName": "com.zhiliaoapp.musically",
       "clonePackageName": null,
-      "version": "47.9.3",
-      "versionCode": 2024709030,
-      "minSdkVersion": "24",
-      "sha256": "739203aa61a83ba97dad7f75eb99b409110a5efb4ccb0a9a66b61353f7bc1d33",
-      "size": "520.6 MB",
+      "version": "47.4.3",
+      "size": "361.5 MB",
       "vibrantColor": "#FACE14",
       "description": "Filters 🚫, no Lives 📺, ads 📢, photos 📸, stories 📖, auto-streak 🔥, burnout prevention 🧘, fonts ✍️, icons 📱, colors 🎨",
       "descriptionAr": "فلاتر 🚫، لا بث 📺 إعلانات 📢 صور 📸 قصص 📖، ستريك تلقائي 🔥، مكافحة الاحتراق 🧘، خطوط ✍️، أيقونات 📱، ألوان 🎨",
@@ -1846,13 +1839,12 @@
       "isOpenSource": false,
       "sourceUrl": null,
       "excludeFromSync": false,
-      "specificDownloadUrl": "https://github.com/hamodte3/Linda-Store-DB/releases/download/com.zhiliaoapp.musically-v47.9.3/TikTok_47.9.3.apk",
+      "specificDownloadUrl": "https://github.com/hamodte3/Linda-Store-DB/releases/download/com.zhiliaoapp.musically-v47.4.3/TikTok_47.4.3.apk",
       "isActive": true,
       "isFeatured": true,
-      "iconUrl": "https://cdn.jsdelivr.net/gh/hamodte3/Linda-Store-DB@main/icons/com.zhiliaoapp.musically.webp?t=1795694508",
-      "releaseDate": "2026-11-26",
-      "variants": [],
-      "id": 4
+      "iconUrl": "https://cdn.jsdelivr.net/gh/hamodte3/Linda-Store-DB@main/icons/tiktok.webp",
+      "releaseDate": "2026-10-23",
+      "variants": []
     },
     {
       "id": 6,
