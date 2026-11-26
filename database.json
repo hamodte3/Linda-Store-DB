@@ -44,7 +44,7 @@
       "minSdkVersion": "29",
       "sha256": "f88bee6eb552598fec97e230b9f693629d24cc84473b6c5cb0eadcf6ed8969f4",
       "size": "94.7 MB",
-      "vibrantColor": "#FFC229",
+      "vibrantColor": "#12419D",
       "description": "",
       "descriptionAr": "",
       "changelog": "💎 نصف الحجم | ⚡ أداء 2x\n🎧 بلا إعلانات • PiP • Dislike • AMOLED\n✨ جديد: واجهة Liquid Glass + ثيمات، أيقونات Miku، إعدادات جاهزة، تنظيف عميق، بكج مستقل، بلا تحذيرات 🚫",
@@ -57,7 +57,7 @@
       "specificDownloadUrl": "https://github.com/hamodte3/Linda-Store-DB/releases/download/miku.tube-v21.45.82/MikuTube_21.45.82.apk",
       "isActive": true,
       "isFeatured": true,
-      "iconUrl": "https://cdn.jsdelivr.net/gh/hamodte3/Linda-Store-DB@main/icons/miku.tube.webp?t=1795687495",
+      "iconUrl": "https://cdn.jsdelivr.net/gh/hamodte3/Linda-Store-DB@main/icons/miku.tube.webp",
       "releaseDate": "2026-11-26",
       "variants": [],
       "id": 204
