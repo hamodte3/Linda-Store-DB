@@ -30,7 +30,12 @@
       "useWebView": false,
       "isActive": true,
       "isFeatured": false,
-      "variants": []
+      "variants": [
+        {
+          "name": "Game Zip",
+          "url": "https://dl.apkvision.net/the-elder-scrolls-v-skyrim/the-elder-scrolls-v-skyrim-apkvision.zip"
+        }
+      ]
     },
     {
       "id": 197,
