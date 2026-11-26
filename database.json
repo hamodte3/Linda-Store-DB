@@ -431,7 +431,12 @@
       "useWebView": false,
       "isActive": true,
       "isFeatured": false,
-      "variants": []
+      "variants": [
+        {
+          "name": "Plugin",
+          "url": "https://github.com/hamodte3/Linda-Store-DB/releases/download/com.rezvorck.tiktokplugin-v2.49/TikTok_Plugin_2.49.apk"
+        }
+      ]
     },
     {
       "id": 190,
