@@ -2091,34 +2091,37 @@
       "releaseDate": "2026-08-27"
     },
     {
-      "id": 114,
       "title": "Nagram XF",
+      "category": "Social",
       "packageName": "fork.risin42.nagramx",
       "clonePackageName": null,
-      "version": "12.10.0",
-      "size": "53.7 MB",
-      "iconUrl": "https://cdn.jsdelivr.net/gh/hamodte3/Linda-Store-DB@main/icons/nagram_xf.png",
-      "category": "Social",
-      "modInfo": "Ghost Mode, Anti-Delete, Media Downloader",
-      "modInfoAr": "وضع الشبح، منع حذف الرسائل، حفظ الوسائط المقيدة",
+      "version": "13.2.2-2e9f3e9",
+      "versionCode": 1253,
+      "minSdkVersion": "27",
+      "sha256": "e95c8c472ff1e46f2860fefda399471cb3950bf392bbd1ebdbddcfb5157f65da",
+      "size": "83.2 MB",
+      "vibrantColor": "#00E5FF",
       "description": "Privacy-centric Telegram client.",
       "descriptionAr": "تطبيق تيليجرام معدل يركز على الخصوصية ومنع الحذف.",
       "changelog": "",
       "changelogAr": "",
+      "modInfo": "Ghost Mode, Anti-Delete, Media Downloader",
+      "modInfoAr": "وضع الشبح، منع حذف الرسائل، حفظ الوسائط المقيدة",
       "isOpenSource": false,
       "sourceUrl": null,
       "excludeFromSync": false,
-      "vibrantColor": "#00E5FF",
-      "releaseDate": "2026-08-27",
-      "specificDownloadUrl": "https://github.com/hamodte3/Linda-Store-DB/releases/download/v_1787809663/Nagram_XF_12.10.0-aa1a56c.apk",
+      "specificDownloadUrl": "https://github.com/hamodte3/Linda-Store-DB/releases/download/fork.risin42.nagramx-v13.2.2-2e9f3e9/Nagram_XF_13.2.2-2e9f3e9.apk",
+      "isActive": true,
+      "isFeatured": false,
+      "iconUrl": "https://cdn.jsdelivr.net/gh/hamodte3/Linda-Store-DB@main/icons/fork.risin42.nagramx.webp",
+      "releaseDate": "2026-11-26",
       "variants": [
         {
           "name": "نسخة الإضافات",
           "url": "https://github.com/hamodte3/Linda-Store-DB/releases/download/v_1787820162/Nagram_XF_12.10.0-b047f2f.apk"
         }
       ],
-      "isActive": true,
-      "isFeatured": false
+      "id": 114
     },
     {
       "id": 111,
