@@ -85,7 +85,12 @@
       "isFeatured": true,
       "iconUrl": "https://cdn.jsdelivr.net/gh/hamodte3/Linda-Store-DB@main/icons/miku.tube.webp",
       "releaseDate": "2026-11-26",
-      "variants": [],
+      "variants": [
+        {
+          "name": "MicroG",
+          "url": "https://github.com/hamodte3/Linda-Store-DB/releases/download/app.revanced.android.gms-v7.4.0/MicroG_RE_7.4.0.apk"
+        }
+      ],
       "id": 204
     },
     {
