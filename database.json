@@ -2158,35 +2158,6 @@
       "isFeatured": false
     },
     {
-      "id": 1,
-      "title": "YouTube",
-      "packageName": "app.morphe.android.youtube",
-      "version": "21.42.241",
-      "size": "90.7 MB",
-      "iconUrl": "https://cdn-icons-png.flaticon.com/512/1384/1384060.png",
-      "category": "Media",
-      "modInfo": "Ad-Free, PiP, Background Play, SponsorBlock",
-      "modInfoAr": "بدون إعلانات، تشغيل بالخلفية، نافذة PiP، تخطي الإعلانات",
-      "description": "Optimized lightweight YouTube mod.",
-      "descriptionAr": "يوتيوب المعدل بدون إعلانات وبثيم أسود موفر للطاقة.",
-      "changelog": "General performance improvements",
-      "changelogAr": "تحسينات شاملة في الأداء والاستقرار",
-      "isOpenSource": true,
-      "sourceUrl": null,
-      "vibrantColor": "#FF0000",
-      "specificDownloadUrl": "https://github.com/hamodte3/Linda-Store-DB/releases/download/v_1792761389_16340/YouTube_21.42.241_891.apk",
-      "variants": [
-        {
-          "name": "MicroG RE",
-          "url": "https://github.com/hamodte3/Linda-Store-DB/releases/download/v_1792107379/MicroG_RE_7.2.1.apk"
-        }
-      ],
-      "isActive": true,
-      "isFeatured": false,
-      "releaseDate": "2026-10-23",
-      "clonePackageName": "app.revanced.android.gms"
-    },
-    {
       "id": 4,
       "title": "TikTok You",
       "category": "Social",
