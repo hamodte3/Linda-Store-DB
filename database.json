@@ -30,7 +30,12 @@
       "useWebView": false,
       "isActive": true,
       "isFeatured": false,
-      "variants": []
+      "variants": [
+        {
+          "name": "Game Zip",
+          "url": "https://dl.apkvision.net/bioshock/BioShock-game-data-apkvision.zip"
+        }
+      ]
     },
     {
       "id": 196,
