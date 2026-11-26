@@ -1442,7 +1442,7 @@
       "title": "Picsart",
       "packageName": "com.picsart.studio",
       "clonePackageName": null,
-      "version": "30.6.5",
+      "version": "31.2.6",
       "size": "77.6 MB",
       "vibrantColor": "#00E5FF",
       "description": "Creative photo and video editor.",
@@ -1455,11 +1455,11 @@
       "isOpenSource": false,
       "sourceUrl": null,
       "excludeFromSync": false,
-      "specificDownloadUrl": "https://github.com/hamodte3/Linda-Store-DB/releases/download/v_1788254909/Picsart_30.6.5.apk",
+      "specificDownloadUrl": "https://download.liteapks.dev/Picsart/Picsart%20v31.2.6%20(Premium).apk?token=TVRjNU5UY3dNamN6T0E9PQ%3D%3D",
       "isActive": true,
       "isFeatured": false,
       "iconUrl": "https://cdn.jsdelivr.net/gh/hamodte3/Linda-Store-DB@main/icons/picsart.png",
-      "releaseDate": "2026-09-01"
+      "releaseDate": "2026-11-26"
     },
     {
       "id": 139,
