@@ -978,7 +978,7 @@
       "title": "OldRoll",
       "packageName": "com.accordion.analogcam",
       "clonePackageName": null,
-      "version": "6.6.1",
+      "version": "6.9.0",
       "size": "184.7 MB",
       "vibrantColor": "#00E5FF",
       "description": "Vintage disposable camera.",
@@ -991,11 +991,11 @@
       "isOpenSource": false,
       "sourceUrl": null,
       "excludeFromSync": false,
-      "specificDownloadUrl": "https://github.com/hamodte3/Linda-Store-DB/releases/download/v_1788650715/OldRoll_6.6.1.apk",
+      "specificDownloadUrl": "https://download.liteapks.dev/OldRoll/OldRoll%20v6.9.0%20(Premium).apk?token=TVRjNU5UY3dNamd3TkE9PQ%3D%3D",
       "isActive": true,
       "isFeatured": false,
       "iconUrl": "https://cdn.jsdelivr.net/gh/hamodte3/Linda-Store-DB@main/icons/oldroll.png",
-      "releaseDate": "2026-09-05",
+      "releaseDate": "2026-11-26",
       "variants": []
     },
     {
