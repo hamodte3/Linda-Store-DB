@@ -7,6 +7,28 @@
   },
   "apps": [
     {
+      "id": 207,
+      "title": "Mafia II",
+      "packageName": null,
+      "clonePackageName": null,
+      "version": "0.1.1",
+      "size": "59.2 MB",
+      "iconUrl": "https://cdn.jsdelivr.net/gh/hamodte3/Linda-Store-DB@main/icons/mafia_ii.webp",
+      "category": "Games",
+      "modInfo": "Full Game.",
+      "description": "",
+      "changelog": "",
+      "isOpenSource": false,
+      "sourceUrl": null,
+      "excludeFromSync": false,
+      "vibrantColor": "#FF2130",
+      "releaseDate": "2026-11-27",
+      "specificDownloadUrl": "https://dl.apkvision.org/mafia-2/Mafia-II-v0.1.1-APKVISION.apk?v=523e81e0cb8c6f5f",
+      "isActive": true,
+      "isFeatured": false,
+      "variants": []
+    },
+    {
       "id": 206,
       "title": "Tomb Raider",
       "packageName": null,
