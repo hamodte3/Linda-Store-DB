@@ -26,7 +26,12 @@
       "specificDownloadUrl": "https://dl.apkvision.org/mafia-2/Mafia-II-v0.1.1-APKVISION.apk?v=523e81e0cb8c6f5f",
       "isActive": true,
       "isFeatured": false,
-      "variants": []
+      "variants": [
+        {
+          "name": "Game OBB",
+          "url": "https://gofile.io/d/t0LWs53k"
+        }
+      ]
     },
     {
       "id": 206,
