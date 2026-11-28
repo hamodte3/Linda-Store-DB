@@ -7,6 +7,28 @@
   },
   "apps": [
     {
+      "id": 208,
+      "title": "Black Android",
+      "packageName": null,
+      "clonePackageName": null,
+      "version": "1.8.1",
+      "size": "21.3 MB",
+      "iconUrl": "https://cdn.jsdelivr.net/gh/hamodte3/Linda-Store-DB@main/icons/black_android.webp",
+      "category": "Games",
+      "modInfo": "Unofficial BLACK Android port with touchscreen controls.\n\nInstallation:\n1. Install Black Android launcher APK.\n2. Download ISO file.\n3. Grant storage access in launcher.\n4. Place .iso in /storage/emulated/0/Black or use Import game.\n5. Game starts automatically after loading.",
+      "description": "",
+      "changelog": "",
+      "isOpenSource": false,
+      "sourceUrl": null,
+      "excludeFromSync": false,
+      "vibrantColor": "#FBE498",
+      "releaseDate": "2026-11-28",
+      "specificDownloadUrl": "https://dl.apkvision.org/black/Black-Android-v1.8.1-full-apkvision.apk",
+      "isActive": true,
+      "isFeatured": false,
+      "variants": []
+    },
+    {
       "id": 207,
       "title": "Mafia II",
       "packageName": null,
