@@ -1210,8 +1210,8 @@
       "title": "Minecraft",
       "packageName": "com.mojang.minecraftpe",
       "clonePackageName": null,
-      "version": "1.26.70.20",
-      "size": "698.8 MB",
+      "version": "1.26.66.1-compressed",
+      "size": "685.7 MB",
       "vibrantColor": "#00E5FF",
       "description": "Endless sandbox creation.",
       "changelog": "",
@@ -1220,11 +1220,11 @@
       "isOpenSource": false,
       "sourceUrl": null,
       "excludeFromSync": false,
-      "specificDownloadUrl": "https://dl.apkvision.org/minecraft/Minecraft-v1.26.70.20-compressed-apkvision.apk",
+      "specificDownloadUrl": "https://dl.apkvision.org/minecraft/Minecraft-v1.26.66.1-compressed-apkvision.apk",
       "isActive": true,
       "isFeatured": false,
       "iconUrl": "https://cdn.jsdelivr.net/gh/hamodte3/Linda-Store-DB@main/icons/com.mojang.minecraftpe.png",
-      "releaseDate": "2026-09-01"
+      "releaseDate": "2026-11-28"
     },
     {
       "id": 132,
