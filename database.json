@@ -26,7 +26,12 @@
       "specificDownloadUrl": "https://dl.apkvision.org/black/Black-Android-v1.8.1-full-apkvision.apk",
       "isActive": true,
       "isFeatured": false,
-      "variants": []
+      "variants": [
+        {
+          "name": "Game iso",
+          "url": "https://dl.apkvision.net/black/Black-Android-apkvision.iso"
+        }
+      ]
     },
     {
       "id": 207,
