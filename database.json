@@ -17,7 +17,7 @@
       "category": "Games",
       "modInfo": "Unofficial BLACK Android port with touchscreen controls.\n\nInstallation:\n1. Install Black Android launcher APK.\n2. Download ISO file.\n3. Grant storage access in launcher.\n4. Place .iso in /storage/emulated/0/Black or use Import game.\n5. Game starts automatically after loading.",
       "description": "",
-      "changelog": "",
+      "changelog": "• General performance and stability improvements",
       "isOpenSource": false,
       "sourceUrl": null,
       "excludeFromSync": false,
